@@ -126,6 +126,8 @@ Ich habe 20 Euro von den Conto zurückgezogen
 
 Datum 15.07.2016
 
+-----------------------------------------------------------------------------------------------
+
 Die wichtigsten Informationen zum Elterngeld:
 
 Das Elterngeld beträgt rund zwei Drittel des bisherigen Einkommens 
@@ -137,7 +139,7 @@ Wenn Mutter und Vater sich die Elternzeit teilen, bekommen Sie zusammen
 maximal 14 Monate lang Basiselterngeld. Ein Elternteil kann dabei mindestens 
 zwei und höchstens zwölf Monate Elterngeld beziehen.
 
--------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 sich berechnen
 es berechnet sich wie falsch
 das berechnet sich wie ein Fehler
@@ -145,7 +147,8 @@ es beträgt 20 Euro
 der Betrag
 einen Betrag von 20 Euro bezahlen
 
-jedem etwas (zustunden?)
+zustehen
+mir stehen 20 Euro zu
 berechtigt sein
 Sie sind nicht berechtigt so zu sagen
 
@@ -172,15 +175,28 @@ der Betrag, die Beträge
 
 Wenn Mutter und Vater in vier aufeinanderfolgenden Monaten gleichzeitig zwischen 
 25 und 30 Wochenstunden arbeiten, bekommt jeder Elternteil also vier zusätzliche 
-Monatsbeträge ElterngeldPlus sogenannte Partnerschaftsbonusmonate).
+Monatsbeträge ElterngeldPlus (sogenannte Partnerschaftsbonusmonate).
 
---------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------
+die Alleinerziehende
 sie ist Alleinerziehende, leider 
+zustehen
+etwas jdm zusteht/berechtigt sein
 
 Alleinerziehenden stehen die vollen 14 Monate Basiselterngeld und der Partnerschaftsbonus zu.
+
 Auch, wenn Sie vor der Geburt keine Arbeitsstelle hatten, können Sie Elterngeld erhalten.
+
+-----------------------------------------------------------------------------------------------
+hervorheben, betonen, unterstreichen
+
 Hervorhebung als Checkliste: Checkliste Elterngeld
+
+das Wichtigstes Teilen des Texts hervorheben
+
+ich kann es nicht genug betonen, dass wir alle sollten aufmerksam bleiben.
+
+-----------------------------------------------------------------------------------------------
 
 Um Elterngeld zu erhalten, müssen Sie folgende Voraussetzungen erfüllen:
 Sie verfügen über eine Niederlassungs- oder eine Aufenthaltserlaubnis, die zur Erwerbstätigkeit berechtigt

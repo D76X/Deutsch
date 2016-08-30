@@ -24,16 +24,18 @@ bekommen.
 
 einen Anspruch auf Staatsunterstützung haben
 sich an Staatsunterstützung berechtigt sein
+sie ist zustehen zu Ünterstutzung 
 an Elterngeld beantragen
-in einem Mitgliedstaat der Europ
-Abkommen, äischen Union leben
+in einem Mitgliedstaat der Europäischen Union leben/whonen
+vereinbaren, zustimmen
+die Abkommen, die Vereinbarung
+in die Europärischen Union leben
 Abkommen über eine Thema finden
+über ein Thema Anwendung finden 
 das Abkommen, die Vereinbarung, die Zustimmung, die Einigung
-Anwendung finden 
 für das wir finde eine Anwendung
 eine Anwendung für etwas finden lassen
 die Europäischen Wirtschaftseaum
-
 
 Kindergeld
 
@@ -44,21 +46,28 @@ Anwendung findet.
 
 -------------------------------------------------------------------------------
 
-einen Aubildung machen
+einen Ausbildung machen
 einen Termin verlängern
 in diese Fall, verlängert sich der Anspruch bis zu zwei Jahre
+am wenigstens 5 und maximal 10
 maximal 10 Stunden
 maximal 100 Kilos
 
 Macht Ihr Kind eine Ausbildung oder studiert, verlängert sich der Anspruch bis 
-maximal zum 25.Geburtstag.
+maximal zum 25. Geburtstag.
 
 ------------------------------------------------------------------------------------
 
+die Angehörigkeit zu einer Gruppe
+die Mitglieder zu einer Gruppe
 die Staatsangehörigkeit
+aich eine Gruppe anmelden
 die deutsche Staatsangehörigkeit bekommen
 eine deutsche Staatsangehörige werden
-auf deutsche Staatsangehörigkeit sich beantragen 
+ein deutscher Staatsangehöriger werden
+ein deutscher Einwohner werden
+auf deutsche Staatsangehörigkeit sich beantragen/anmelden 
+die Rechte der Staatsangehörigkeit beanspruchen
 die Islands
 die Norwegens
 die Liechtenstein
@@ -76,6 +85,7 @@ für die erste beiden Tage wir machen nichts
 sich für finanzielle Leistungen bei eine neuer Schule beantragen
 monatlich, wöchentlich, täglich, stündlich
 die Agentur für Arbeit
+je, pro Stück
 
 Höhe des Kindergelds
 
@@ -87,6 +97,9 @@ der Familienkasse der Agentur für Arbeit beantragt werden.
 
 zusätzlich, nebenbei, ergänzend, komplementär
 auf Kinderfreibeträge sich beantragen/beanspruchen
+an Freibeträge zustehen sein
+an Freibeträge berechtigt sein
+der Freibetrag für Elternzeit
 die Einkommensteuer
 gewähren,vergeben, bewilligen, geben, erteilen
 jeden etwas gewähren
@@ -103,7 +116,7 @@ sich bewerben/anwenden
 die Kasse
 die Kasse betätigen
 die Kasse bedienen
-die Bedienung von die Kasse.Maschine
+die Bedienung von die Kasse Maschine
 das Formular für die Anwendungg auf den Arzt
 das Formular für die Bewerbung auf die Arbeitsstelle
 die rechte Spalte dieser Seite
@@ -114,14 +127,19 @@ Das Antragsformular für das Kindergeld erhalten Sie bei der Familienkasse
 ------------------------------------------------------------------------------------
 
 etwas in gelb hervorheben
-hervorheben, betonen
+hervorheben, betonen, aktzentuiren
 das Hinweis, die Indikation
 einen Hinweis geben
 einen Hinweis versorgen
 einen Indikation versorgen
+eine Indikation über die aktuelle Situation versorgen
+aktuell, gegenwärtig, laufend, derzeitig augenblicklich, geltend
+tatsächlich, richtig, echt, wirklich, real, sachlich 
+die sachliche Lage
+eien Indikation über die sachliche Lage versorgen
 
 Hervorhebung als Achtung: Hinweis
-
+-------------------------------------------------------------------------------------
 Staatsangehörige von Mitgliedstaaten der EU, Islands, Liechtensteins, Norwegens und der Schweiz haben ebenso wie Deutsche einen Anspruch auf Kindergeld, wenn sie in Deutschland erwerbstätig sind oder in Deutschland wohnen. Für andere Ausländerinnen und Ausländer gilt: Menschen mit einer Niederlassungserlaubnis können Kindergeld erhalten. Wer eine Aufenthaltserlaubnis besitzt, hat nur dann einen Anspruch auf Kindergeld, wenn sie oder er auch zur Erwerbstätigkeit in Deutschland berechtigt ist oder hier schon erlaubt gearbeitet hat. Lassen Sie sich über die genauen Regelungen beraten.
 Kinderzuschlag
 Der deutsche Staat unterstützt Familien mit geringem Einkommen außerdem durch den so genannten Kinderzuschlag, wenn Folgendes zutrifft:

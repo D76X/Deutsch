@@ -139,15 +139,93 @@ die sachliche Lage
 eien Indikation über die sachliche Lage versorgen
 
 Hervorhebung als Achtung: Hinweis
--------------------------------------------------------------------------------------
-Staatsangehörige von Mitgliedstaaten der EU, Islands, Liechtensteins, Norwegens und der Schweiz haben ebenso wie Deutsche einen Anspruch auf Kindergeld, wenn sie in Deutschland erwerbstätig sind oder in Deutschland wohnen. Für andere Ausländerinnen und Ausländer gilt: Menschen mit einer Niederlassungserlaubnis können Kindergeld erhalten. Wer eine Aufenthaltserlaubnis besitzt, hat nur dann einen Anspruch auf Kindergeld, wenn sie oder er auch zur Erwerbstätigkeit in Deutschland berechtigt ist oder hier schon erlaubt gearbeitet hat. Lassen Sie sich über die genauen Regelungen beraten.
-Kinderzuschlag
+----------------------------------------------------------------------------------------------
+
+Staatsangehörige von Mitgliedstaaten der EU, Islands, Liechtensteins, Norwegens und 
+der Schweiz haben ebenso wie Deutsche einen Anspruch auf Kindergeld, wenn sie in Deutschland erwerbstätig sind oder in Deutschland wohnen. 
+
+----------------------------------------------------------------------------------------------
+
+gelten, beziehen auf, aufwenden
+diese Regeln beziehen auf alle Bürger
+es gilt, dass... 
+diese Regel gilt an mich nicht
+diese Regel wendet an mich nicht an
+diese Gesetzt wendet an mich nicht an
+die Niederlassung
+die Niederlassung eines Betriebs
+die Niederlassungserlaubnis
+besiedeln, ansiedeln, colonizieren
+die Ansiedlung, die Seidlung
+die Erwerbstätigkeit in Deutschland
+zur Erwerbstätigkeit in Deutschland berechtigt sein
+
+Für andere Ausländerinnen und Ausländer gilt: Menschen mit einer Niederlassungserlaubnis 
+können Kindergeld erhalten. 
+
+Wer eine Aufenthaltserlaubnis besitzt, hat nur dann einen Anspruch auf Kindergeld, wenn sie 
+oder er auch zur Erwerbstätigkeit in Deutschland berechtigt ist oder hier schon erlaubt 
+gearbeitet hat. 
+
+----------------------------------------------------------------------------------------------
+
+sich über ein Thema beraten lassen 
+Sie sollen sich über Ihre Erwerbstätigkeit in Deutschland beraten lassen
+
+Lassen Sie sich über die genauen Regelungen beraten.
+
+----------------------------------------------------------------------------------------------
+
+die Zuschlag
+die Kinderzuschlag
+eine heftige Zuschlag für etwas bezahlen
+die Gebühr
+eine heftige Gebühr für etwas bezahlen
+eine heftige Gebühr für die offizielle Urkunde bezahlen
+
+es zutrifft, dass...
+diese Regel gilt nur wenn die Folgendes zutrifft...
+
+die Kinderzuschlag
+
 Der deutsche Staat unterstützt Familien mit geringem Einkommen außerdem durch den so genannten Kinderzuschlag, wenn Folgendes zutrifft:
 
+---------------------------------------------------------------------------------------------- 
+
+verheirateten/unverhereiteten
+
 Ihre unverheirateten Kinder sind unter 25 Jahre alt und leben mit Ihnen im selben Haushalt.
-Ihr Einkommen und Vermögen sichert zwar das Existenzminimum der Eltern, nicht aber das der Kinder.
+
+---------------------------------------------------------------------------------------------- 
+
+die Vermögen
+die Einkommen
+sichern
+das kann ich dich sichern
+das Existenzminimum
+das Existenzminimum einer Person
+
+Ihr Einkommen und Vermögen sichert zwar das Existenzminimum der Eltern, nicht aber das der 
+Kinder.
+
+---------------------------------------------------------------------------------------------- 
+
+die Sozialhilfe
+einen Anspruch an Sozialhilfe haben
+einen Anspruch an Arbeitslosgeld haben
+
 Sie haben keinen Anspruch auf Sozialhilfe oder Arbeitslosengeld II.
+
+---------------------------------------------------------------------------------------------- 
+
+die Höhe Ihre totale Vermögen
+die Höhe Ihre totale Enkommen
+es hängt an dich ab
+das ist abhängig an Sie
+
 Die Höhe des Kinderzuschlags hängt vom Einkommen und Vermögen der Eltern ab und beträgt maximal 140 Euro (ab 1. Juli 2016: maximal 160 Euro) pro Kind und Monat. Den Antrag für einen Kinderzuschlag erhalten Sie bei der Familienkasse (auch online unter dem Link in der rechten Spalte).
+
+---------------------------------------------------------------------------------------------- 
 
 Bildungs- und Teilhabeleistungen
 Darüber hinaus haben Bezieherinnen und Bezieher von Kinderzuschlag oder Wohngeld für Ihre Kinder einen Anspruch auf Bildungs- und Teilhabeleistungen. Diese beinhalten:

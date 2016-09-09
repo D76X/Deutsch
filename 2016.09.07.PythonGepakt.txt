@@ -1,0 +1,71 @@
+
+=================================================
+
+weglassen, auslassen
+
+eine Parameter weglassen
+
+=================================================
+
+eine Repräsentation
+druckbar
+
+eine druckbare Repräsentation von ein Objekt geben
+
+=================================================
+
+eine Funktion aufrufen
+der Ruf an einer Funktion
+
+=================================================
+
+der zurückgegebene Wert eine Funktion
+der übergebene Wert oder Parameter
+
+=================================================
+
+der Gleitkommawert
+der Zahl
+der Ganzzahl
+konvertieren, umrechnen, verwandeln,verändern
+
+diese Funktion liefert einen Gleitkommawert
+
+die Rundfunktion konvertiert einen Gleitkommawert
+zu einen Ganzzahl
+
+=================================================
+
+etwas umkehren, auf den Kopf stellen
+sich umdrehen
+die Reihenfolge eines Unfall
+die Reihenfolge der Elemente einer Liste
+
+diese Funktion lefert eine Sicht
+
+eine umgekehrte Reihenfolge...
+
+==================================================
+
+iterierbar
+ein iterierbares Objekt
+ein unveränderbares Objekt 
+
+... 
+==================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

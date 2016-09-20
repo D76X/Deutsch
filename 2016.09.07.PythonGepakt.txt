@@ -41,7 +41,7 @@ sich umdrehen
 die Reihenfolge eines Unfall
 die Reihenfolge der Elemente einer Liste
 
-diese Funktion lefert eine Sicht
+diese Funktion liefert eine Sicht
 
 eine umgekehrte Reihenfolge...
 
@@ -51,8 +51,22 @@ iterierbar
 ein iterierbares Objekt
 ein unveränderbares Objekt 
 
-... 
 ==================================================
+
+handhaben, behandeln
+von außen
+für die Außenwelt das siht ob als...
+ein Attribut definieren
+zugreigen, der Zugriff auf etwas
+die Methode
+spezifizieren
+
+Eine Property kann von außen wie ein öffentliches 
+Attribut gehandhabt werden.
+Die Zugriffe auf Objektattribute werden allein von
+den spezifizierten Methoden duchgeführt.
+==================================================
+
 
 
 

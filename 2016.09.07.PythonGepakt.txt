@@ -67,12 +67,101 @@ Die Zugriffe auf Objektattribute werden allein von
 den spezifizierten Methoden duchgeführt.
 ==================================================
 
+die Ausnahmen, die Ausnahme
+die Verstöße 
+Verstöße der Gramatik
+Vertöße gegen die Gramatik
+Verstöße der Regeln oder Gesetzen
+die Syntax oder Gramatik verstießen
+die Gesetzen verstießen
+
+Fehler vermeiden oder abfangen
+man kann drei Gruppe von Fehler unterschieden
+
+==========================================================
+
+die Laufzeit eines Programms
+auftreten
+unversehens/unerwartet auftreten
+unversehens, unerwartet
+Ausnahmen treten unversehns auf
+
+Ausnahmen treten in einem syntakttisch korrekten Programm
+erst zu Laufzeit
+
+===========================================================
+
+mit diesem Begriff man meint dass...
+Routinen definieren
+das Programmlaufs
+der Abbruch des Programms
+das Programm bricht unversehens ab
+der plötzlichen/abrupten/unversehens Abbruch des Programms
+wenn ein Ausnahme eintritt
+wenn ein Ausnahme eintritt, kann man sie abfangen und behandeln
+bewusst
+etwas bewusst tun
+über etwas bewusst sein/werden
+ich wurde nicht bewusst, dass es möglich wurde
+der Kunstgriff
+ein algoritmischer Kunstgriff/Trick 
+einsetzen
+einen Kunstgriff benutzen/einen Trick benutzen/anwenden
 
 
+==========================================================
+
+fehlend
+fehlender Doppelpunkt
+fehlerhaft
+enie fehlerhafte Anweisung
+eine fehlerhafte Maschine
+eine fehlerhafte Vermutung
+eine falsche Vermutung
+eine Fehlermeldung 
+den mit einer Fehlermeldung 
+den Quelltext mit einer Fehlermedlung markieren
+auf eine fehlerhafte Anweisung reagieren
+eine Ausnahme generieren
+einen Syntaxfehler korregieren
+auf jeden Fall...
+
+Es gibt spezielle Situationen
+einen Programm ausführen
+wan den Programm ausgeführt wird 
+
+Ausnahmen sid ein Mechanismus zur Unterbrechung
+des normalen Kontrollflusses eines Programms.
+
+handhaben/behandeln
+Um solchen Ausnahmeereignisse zu handhaben
+
+hervorrufen, verursachen, veranlassen, erzeugen
+auswerten
+das Risiko auswerten
+eine Anweisung auswerten
+einen Ausdruck auswerten
 
 
+Der Term 1/0 ist zwar syntaktisch korrekt, aber matematisch nicht zulässig und ruft erst zu dem 
+Zeitpunkt, an dem er ausgewertet wird, eine Fehlersituation vor.
 
+landläufig, gemein, ordinär, allgemein, generell
+im laufläufigen Sinne
+im allgemeinen Sinne
 
+manche Ausnahme sind aber gar keine Fehler
+im laufläufigen Sinne, sondern nur...
+
+das Signal
+ein Signal für etwas oder jedeb
+
+über etwas mitteilen
+über etwas verfügen
+
+etwas durch etwas repräsentieren
+Aushamen werden bie Python durch Objekte repräsentiert  
+==========================================================
 
 
 

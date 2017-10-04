@@ -113,6 +113,12 @@ einen Tag eher
 ab diesem Zeitpunkt
 in der Zwischenzeit
 
+------------------------------------------
+Nominalisierung von Sätzen => durch
+------------------------------------------
+
+Unsere Bürgemeinsterin begrüßt Sie um 18.30 Uhr => 18.30 Uhr Begrüßung durch unsere Bürgermeinsterin.
+Um 19.00 Uhr eröffnen die Veranstalter das Büffet => 19.00 Uhr Eröffnung des Büfetts durch die Veranstalter.
 
 =======================================================================================================
 

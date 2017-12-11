@@ -35,7 +35,250 @@ Spontanen Reaktionen auf eine unangenehme Nachricht
 06-Zieh mich das bloß nicht rein, ich will nichts zu tun haben.
 07-Du, ich bin in einem Meeting, tut mir echt leid, aber Mach's gut.
 08-Um Gottes willen, ist dir was passiert, warte, ich komme, ich fajre gleich los...
-09-Und das...? Ws ist mir dem...
+09-Und das...? Was ist mir dem...
+10-Jetzt biste deinen.../los, das ist sicher.
+11-Das kann doch jedem mal passieren, jetzt beruhige dich schon mal.
+12-Sauber. Und jetzt?
+13-Brauchst du was? Soll ich kommen?
+14-Und was habe ich dammit zu tun? / Was geht mich das an?
+15-Und deswegen/deshalb rufts du an? Wegen so 'ner Lappalie? Ich dachte. dir wär echt was passiert!
+
+---------------------------------------------
+Reactionen mit unterschidlichen Intentionen
+---------------------------------------------
+
+01-Immer mit der Ruhe.
+02-So ein Mist aber auch!
+03-Na wer hätte das gedacht! / Na wer hätte das gedacht?
+04-Ich hab's kommen sehen!
+05-Das hat uns gerade noch gefehlt.
+06-Das macht mich jetzt echt so sauer,...
+07-Das überrascht mich jetzt nicht wirklich.
+08-Das überrascht mich jetzt, ich kann gar nicht sagen...
+09-Hey, super.
+10-Nur nicht gleich nervös werden.
+11-Na wenn schon!
+12-So ein Glück aber auch!
+13-Du Arme(r)! Das ist ja schrecklich!
+14-Ist doch egal.
+15-Das spielt doch keine Rolle!
+16-Na wer sagt's denn!
+17-Das tut mir aber laid.
+18-Das ist jetzt aber nicht mein Problem!
+19-Es gibt Schlimmeres.
+20-Da tust du mir jezt aber überhaupt nicht leid.
+21-Das geschieht dir jezt aber recht. 
+
+------------------
+Ratschläge geben
+------------------
+
+01-Neueste Untersuchungen haben gezeigt, dass...
+02-Eine gute Methode ist,...
+03-Eine gute Möglichkeit wäre,...
+04-Es bietet sich an,...
+05-Es has sich bewährt,...
+06-Erfolg versprechend ist oft...
+07-Vielleicht würde es sich schon lohnen,...
+08-...würde sicher eine Verbesserung bringen.
+09-Um das zu erreichen. sollten Sie...
+10-Sie sollten auch nicht vergessen,...zu...
+11-Vielleicht sollten Sie auch daran denken,...zu...
+12-Es wäre vielleicht keine schlechte Idee, wenn Sie...würden.
+13-Man könnte auch überlegen, ob man nicht...
+14-In jedem Fall muss/sollte man...
+15-Auf keinen Fall sollten Sie vergessen,...
+16-Es hätte einige Vorteile, wenn...
+17-Bestimmt können Sie...
+18-Denken Sie auch an...
+19-Ziehen Sie Betracht, dass...
+
+-------------------------
+Toleranz formulieren
+-------------------------
+
+01-Bis zu einem gewissen Grad kann ich ja verstehen, dass...
+02-Es ist zwar nicht wirklich üblich, aber...
+03-..., was ist denn schon groß dabei?
+04-Na und? ...tut doch niemandem was.
+05-Nur weil...nicht so ist wie alle, kan man...doch nicht
+06-...,das sit doch die ganze Aufregung nicht wert.
+
+
+----------------------------------------------------------
+auf etwas Ungewöngliches in der Öffentlichkeit reagieren
+----------------------------------------------------------
+
+01-Wem es nicht gefällr, der muss sich das ja nicht anseh'n!
+02-Wirklich eine Schande für...!
+03-Irgendwie tut...mir einfach nur leid!
+04-Die sind doch alle verrückt.
+05-Man kann...doch nicht einfach sich selbst überlassen!
+06-Also da fehlt mir jedes Verständnis.
+07-Da ist jede Hilfe umsonst.
+08-Jeder hat das Recht, sein.../...selbst zu organisieren.
+09-Wem es nicht gefällt, der muss ja nicht hischauen.
+10-Wie kann man sich nur so gehen lassen!?
+11-Es müssen nicht alle Menschen gleich sein!
+12-Das gehört doch verboten!
+
+---------------------------------------------
+Unverständnis ausdrücken
+---------------------------------------------
+
+01-Alles has seine Grenzen. Das geht infach zu weit.
+02-Wenn das jeder machen würde!
+03-Da könnte ja jeder einfach...
+04-Es ist doch wirlich nicht zu viel verlangt, dass...zumal...doch...
+05-Wo kommen wir denn da hin!
+06-Es gibt halt ein paaar Regeln...
+07-Das ist doch einfach schrecklich.
+08-Hat...denn gar kein Ehrgefühl?
+
+
+---------------------------------------------
+Glecigültigkeit ausdrücken
+---------------------------------------------
+
+01- Von mir aus 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

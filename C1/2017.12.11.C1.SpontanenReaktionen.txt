@@ -140,7 +140,28 @@ Unverständnis ausdrücken
 Glecigültigkeit ausdrücken
 ---------------------------------------------
 
-01- Von mir aus 
+01-Von mir aus kann jeder machen, was er will.
+02-Was macht...den schon Schlimmes?
+03-Worüber regen wir uns eigentlich auf?
+04-Na wenn schon!
+05-Ich verstehe die ganze Aufregung nicht.
+06-Mir ist das ziemlich egal, wenn ehrlich bin.
+07-Da hab ich mich schon mehr aufgeregt.
+08-Das berührt uns doch eigentlich gar nicht.
+09-Das geht uns doch eigentlich gar nichts an.
+
+---------------------------------------------
+Mitleid ausdrücken
+---------------------------------------------
+
+01-...tut mir einfach nur leid.
+02-Die/Der..., was wird wohl in ihr/ihm vorgehen!
+03-Es ist einfach schrecklich, sich vorzustellen. dass...
+04-Wenn man...nur irgendwie helfen könnte
+05-Wenn..sich nur helfen ließe.
+06-Da empfinde ich tiefstes Mitgefühl.
+07-Ich kann...nur bebauern.
+ 
 
 
 

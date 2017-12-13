@@ -128,17 +128,61 @@ C1 63/153
 Präsens im Kontext
 ---------------------
 
-01-
+01-Allgemeine Bedingungen
 Um etwas zu werden, *braucht* man drei Dinge.
 
-02-
+02-Allgemeingültigkeit
 Wasser *ist* lebesnotwendig.
 
-03-
+03-Regelmäßigkeit
 Wenn man Prof. Girtler treffeb wil muss man zum Cafe Landtmann gehen. Da *hält* er Hof.
 
-04-
-Ich bin gegen Idologien.
+04-Haltung
+Ich *bin* gegen Idologien.
+
+-----------------------
+Artikel bei Namen
+-----------------------
+Grundsätzlich werden Namen ohne Artikel gebraucht.
+Ausnahmen: in der Kindersprache oder bei emotionaler Redeweise (freundlich, aggressiv).
+Regionale Unterschiede: Im Süden weitaus häufiger.
+
+Also, das mit *dem* Girtler finde ich einfach unmöglich.
+*Der* Girtler, das ist doch ein super Typ!
+
+----------------------
+Funktionen von es
+----------------------
+
+01-fester Ausdruck => *Es* kann nicht wegfallen.
+*Es* ist meinstens kalt im Januar.
+Im Januer ist *es* meistens kalt.
+
+02-sich bewähren+es (lohnen)
+*Es* hat sich bewährt, regelmäßig zum Art zu gehen.
+Im Allgemeinen hat *es* sich bewährt regelmäßig zum Art zu gehen.
+
+02-*es* kann nur wegfallen, wenn das Subject vorne steht.
+  -Das ist bei diese Ausdrücken aber selten.
+*Regelmäßige Artzbesuche* haben sich bewährt.
+
+03-*es* als Platzhalter, wenn nichts anderes an der ersten Stelle im Satz steht.
+*Es* darf gelacht werden.
+
+04-referenzielle *es* => 
+bezihet sich auf etwas, was Sprecher und Hörer wissen oder kennen.
+*es* steht hinter dem Verb und fällt weg, wenn gesagt wird, worum es geht.
+
+Ich hab's gefunden. (Ich habe das Handy gefunden.)
+Ich hab's doch gewust (Ich hab doch gewusst, dass du wider zu spät kommst.)
+
+05-thematische *es*
+Man leitet eine Aussage aus stilistischen oder Betonungsgründen mit *es* ein,
+oft in Gedichten.
+
+*Es* müssen nicht alle Menschen gleich sein.
+*Es* blühen mit  Garten die Rosen so schön. (Die Rosen blühen so schön im Garten.)
+
 
 =======================================================================================================
 

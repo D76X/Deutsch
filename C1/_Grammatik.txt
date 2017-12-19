@@ -228,6 +228,80 @@ Sie wolle lediglich einen Rastplatz.
 
 C1 81/153
 
+---------------------------
+Partizip I als Adjectiv
+---------------------------
+
+Er gab eine *ausweichende* Antwort. (Attribut, mit Endung)
+Er antwortete *ausweichend* (Adverb)
+
+---------------------------
+Negation: Vorsilben
+---------------------------
+des-, in-, dis-, de-, non-
+
+des-interessiert = uninteressiert
+in-kompetent
+dis-harmonisch
+de-zentral
+non-verbal
+
+-------------------------------------------------------
+Aufforderung in Notizform mit Nomen + Verb (Infinitiv)
+-------------------------------------------------------
+
+Budget kalkulieren = Ich/Jemand muss das Budget kalkulieren
+Vertrieb informieren = den Vertrieb informieren
+Tagungsraum buchen = einen Tagungsraum buchen.
+
+-------------------------
+die Stelle vor dem Verb
+-------------------------
+
+A- normale Wortstellungsvarianten (ohne besondere Betonung)
+
+01-*Morgen* kaufe ich mir neue Schuhe. (Zeitangabe)
+02-*Ich* kaufe mir morgen neue Schuhe. (Subjekt)
+
+03-*Wenn ich wieder Geld habe*, kaufe ich mir neue Schuhe. (Angabesatz, Bedingug)
+
+04-*Meine neuen Schuhe* habe ich im Internet gekauft. (bestimmtes Ort)
+
+05-*Im diesem Geschäft* bekommt man tolle Schuhe. (Ortsangabe)
+
+B- Wortstellungsvarianten mit besonderer Betonung
+
+01-*Neue Schuhe* kaufe ich mir morgen. (unbestimmtes Objekt)
+
+02-*Zum Verkauf* kommen heute die neuen Frühjahrsmodelle. (Nomen-Verb-Verbindung)
+
+03-*Kaufen* würde ich diese Schuhe nicht. (Verb)
+
+04-Schöh sind diese Schuhe schon. (prädikatives Adjektiv)
+
+-----------------------------
+die Stelle nach dem Satzende
+-----------------------------
+
+01-Aufzählung
+Wir haben Anfragen bekommen *von Finanzinvestoren,
+von strategischen Investoren, von Deutschen und Ausländern.*
+
+02-Relativsatz
+Man kann nicht immer auf dem Weg weitermarschieren,
+*den man einmal eingeschlagen hat.*
+
+03-Erläuterung *mit und zwar*
+Es gibt derzeit einen Fachkräftemangel,
+*und zwar im Berech Medizin und Medizintechnik.*
+
+04-Vergleich
+Ich habe das genauso gemacht *wie du*.
+
+05-Apposition (Erklärung mit verkürztem Relativisatz)
+Hier handelt es sich um den Bonodo, 
+*eine bisher kaum erforschte Menschenaffenart.*
+
 =======================================================================================================
 
 

@@ -346,6 +346,24 @@ Die Straße wird *vor unserem Haus* neu geteert.
 Mengenangaben/Maßeinheiten
 ---------------------------
 
+01-Flächern:
+Quadratmeter = m2
+Quadratkilometer = Km2
+das Hektar (ha) 1 Ar = 100 m2; 1 ha = 10.000 m2; 1 Morgen = 2.500 m2 oder 25 Ar
+
+02-Entfernungen:
+Millimter = mm, Zentimeter = cm, Dezimeter = dm, Meter = m, Kilometer = Km, Meilen, Seemeilen = sm
+1 Seemeilen (sm) = 1.852 m
+
+03-Gewichte:
+Gramm = g, metrisches Pfund, Kilogramm = Kg, europäische Tonne = t, Zentner
+1 Pfund = 500 g; 1 Zentner = 50 Kg, 1 t = 1000 Kg,
+in Österreich: 1 dag oder Deka = 10 g
+
+04-Volumen:
+Milliliter = ml, Kubikzentimeter = cm3, Liter = l, Hektoliter = hl  = 100 l
+
+
 =======================================================================================================
 
 

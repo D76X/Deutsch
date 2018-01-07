@@ -305,7 +305,48 @@ Hier handelt es sich um den Bonodo,
 =======================================================================================================
 
 
+C1 99/153
 
+---------------------------
+Attribuion
+---------------------------
+
+Unter Attribution versteht man sprachliche Möglichkeiten, etwas genauer zu beschreiben.
+
+01-mithilfe des Genitivs
+die Gravitation *des Mondes*
+
+02-durch Wortbildung: zusammengesetzte Nomen
+das *Energiesparprojekt*
+
+03-durch Adjektive
+Alle Klimaschutzprojekte unterstützen *eneuerbare* Energien.
+
+04-duch Partizipien
+Sie werden von *akkreditieten* Prüfern verifiziert.
+Das sind *überzeugende* Argumente.
+
+05-durch Relativsätze
+Ein Klima, *das höher eintwickeltes Leben unmöglich gemacht hätte.*
+...,wird auf der Seite der Erde, *die dem Mond gerade zugewandt ist,* der Wasserspiegel angehoben.
+
+06-durch verkürte Sätze
+Den Roman, *ihren letzten,* schrieb sie mit über 90 Jahren.
+
+07-Adjektive zum Ausdruck von Ort, Zeit...
+Die *heutige* Sitzung muss leider ausfallen.
+
+08-adverbiale Angaben
+Die Straße *vor unserem Haus* wird neu geteert. 
+(vor unserem Haus = die Straße, die vor dem Haus vorbeiführt)
+Die Straße wird *vor unserem Haus* neu geteert.
+(vor unserem Haus = das Stück der Straße, die vor dem Haus vorbeiführt/liegt)
+
+---------------------------
+Mengenangaben/Maßeinheiten
+---------------------------
+
+=======================================================================================================
 
 
 

@@ -820,7 +820,6 @@ gebracht werden.
 In erste Linie muss die Arbeitlossigkeit bekämpft werden.
 --------------------------------------------------------------------------
 
-
 ----------------------
 83 die Hocke
 ----------------------
@@ -828,6 +827,16 @@ In erste Linie muss die Arbeitlossigkeit bekämpft werden.
 (to squat)
 "Was soll denn das sein?", fragte der Kommissar und ging dabei in die 
 Hocke, um sich die Leiche genauer anzuschauen/anzusehen.
+--------------------------------------------------------------------------
+
+----------------------
+83 der Name
+----------------------
+01-sich einen Namen machen als...
+Die Stad Freiburg hat sich mit ihrer ehrgeinzigen Umweltpolitik und einem
+politischen und bürgerschaftlichen Bekenntnis zu erneuerbaren Energiequellen 
+als Green City weltweit einen Namen gemacht.
+
 --------------------------------------------------------------------------
 
 

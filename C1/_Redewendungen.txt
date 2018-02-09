@@ -830,12 +830,36 @@ Hocke, um sich die Leiche genauer anzuschauen/anzusehen.
 --------------------------------------------------------------------------
 
 ----------------------
-83 der Name
+84 der Name
 ----------------------
 01-sich einen Namen machen als...
 Die Stad Freiburg hat sich mit ihrer ehrgeinzigen Umweltpolitik und einem
 politischen und bürgerschaftlichen Bekenntnis zu erneuerbaren Energiequellen 
 als Green City weltweit einen Namen gemacht.
+
+--------------------------------------------------------------------------
+
+----------------------
+84 die Achse
+----------------------
+01-auf (der) Achse sein 
+(to be out and about)
+--------------------------------------------------------------------------
+
+----------------------
+85 das Heim
+01-Wer nie geht, kehrt nie heim.
+----------------------
+
+--------------------------------------------------------------------------
+
+----------------------
+86 scheren
+01- sich nich um jdn/etw scheren
+(not to care about sb/st)
+was schert mich das? 
+----------------------
+
 
 --------------------------------------------------------------------------
 

@@ -1017,6 +1017,66 @@ Himmelskörper enstanden ist.
 
 --------------------------------------------------------------------------
 
+----------------------
+99 das Paroli
+----------------------
+
+01-jdm Paroli bieten
+(to defy sb)
+--------------------------------------------------------------------------
+
+----------------------
+100 die Auflage
+----------------------
+
+01-das Buch hat hohe Auflagen erreicht.
+02-die Zeitung hat hohe Auflagen erreicht.
+03-limitierte Auflage.
+
+04-jdm etw zur Auflage (Bedingung) machen
+05-jdm zur Auflage machen, etw zu tun.
+er kommt unter Auflagen frei.
+--------------------------------------------------------------------------
+
+----------------------
+101 die Socke
+----------------------
+
+01-sich auf die Socken machen
+(to get going)
+--------------------------------------------------------------------------
+
+----------------------
+102 zugagen
+----------------------
+
+01-jdm etw auf den Kopf zusagne
+(to tell sb outright)
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

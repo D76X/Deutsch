@@ -1054,6 +1054,44 @@ er kommt unter Auflagen frei.
 (to tell sb outright)
 --------------------------------------------------------------------------
 
+----------------------
+103 die Strippe
+----------------------
+
+01-die Strippe ziehen
+(to pull the strings)
+02-an der Strippe hängen
+(to be on the phone)
+03-jdn an die Strippe haben
+(to have so on the line)
+--------------------------------------------------------------------------
+
+----------------------
+104 Knall auf Fall = plötzlich, auf einmal
+----------------------
+
+01-jdn Knall auf Fall entlassen
+--------------------------------------------------------------------------
+
+----------------------
+105 der Storch
+----------------------
+
+01-wie die Storch im Salat gehen
+(to pick one's way carefully)
+02-vom Storch gebissen worden sein
+(to be/become pregnant)
+--------------------------------------------------------------------------
+
+----------------------
+105 die Kulisse
+----------------------
+
+01-die Kulisse für etwas bilden
+(to provide teh backdrop for sth)
+--------------------------------------------------------------------------
+
+
 
 
 

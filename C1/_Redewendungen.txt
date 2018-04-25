@@ -1091,7 +1091,18 @@ er kommt unter Auflagen frei.
 (to provide teh backdrop for sth)
 --------------------------------------------------------------------------
 
+----------------------
+106 die Bahn
+----------------------
 
+01-Bahn frei!
+(make way)
+02-die Bahn ist frei
+03-von der rechten Bahn abkommen
+04-jdn auf die rechte Bahn bringen
+(to put sb on the straight and narrow)
+05-auf the Bahn schaden
+(to set off course?)
 
 
 

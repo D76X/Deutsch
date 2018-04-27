@@ -808,7 +808,7 @@ davon weiß ich ein Lied zu singen.
 --------------------------------------------------------------------------
 
 ----------------------
-81 die Kante
+81 die Linie
 ----------------------
 01- jdn/etw auf die Linie bringen.
 Wenn das der SPD geht soll die Nahrungsmittelindustrie auch auf die Linie 
@@ -821,6 +821,9 @@ gebracht werden.
 
 04-in erste Linie
 In erste Linie muss die Arbeitlossigkeit bekämpft werden.
+
+05-etwas/jdn auf Linie halten/bleiben
+sie genießt die Lage auf die Linie zu halten zu können.
 --------------------------------------------------------------------------
 
 ----------------------
@@ -1101,12 +1104,41 @@ er kommt unter Auflagen frei.
 03-von der rechten Bahn abkommen
 04-jdn auf die rechte Bahn bringen
 (to put sb on the straight and narrow)
-05-auf the Bahn schaden
+05-auf die Bahn schaden
 (to set off course?)
 
+--------------------------------------------------------------------------
 
+----------------------
+107 die Klinke (door hanlde)
+----------------------
 
+01-die Interessenten geben sich die Klinke in die Hand
+(there's a constant stream of interested parties)
+02-sie geben sich die Klinke in die Hand in den Weißenhaus...
+(ther's lots of interest - a constant stream of people getting to...)
 
+--------------------------------------------------------------------------
+
+----------------------
+108 der Draht
+----------------------
+
+01-auf Draht sein 
+(to be on teh ball)
+02-einen guten Draht zu jdm haben
+(to be on good term with sb)
+03-der politischer Draht zwischen die Beide is nicht good
+
+--------------------------------------------------------------------------
+
+----------------------
+109 der Spagat (balancing act/split)
+----------------------
+
+01-Spagat machen
+(do teh splits)
+02-so einen Spagat gelingen ist äußerst schwierieg/kompliziert
 
 
 

@@ -75,6 +75,44 @@ sich einigen
 03-Ein guter Kompromiss wäre vielleicht auch, wenn...
 04-Wie wärees, wenn wir einfach...?
 05-Könnten wir uns darauf einigen,...?
+06-Sind wir uns da jetzt einig?
+07-Einigen wir uns also darauf, dass...
+08-Damit wäre ich im Großen und Ganzen einvertsanden.
+09-Ich weiß nicht recht,...
+10-Ja, vielleich, aber,...
+11-Ich weiß nicht, ob das...
+
+----------------------------
+eine Entscheidung begründen
+----------------------------
+
+01-Ausschlaggebend für unser Whal war,...
+02-Es war uns wichtig, dass...
+03-Wir haben dabei berücksichtigt, dass...
+04-Wir hielten den Aspekt, dass...,für...
+05-Wenn man bedenkt, dass..., dann war die Entscheidung ziemlich eindeutig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

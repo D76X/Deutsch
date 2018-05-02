@@ -367,6 +367,47 @@ Milliliter = ml, Kubikzentimeter = cm3, Liter = l, Hektoliter = hl  = 100 l
 =======================================================================================================
 
 
+C1 118/153
+
+---------------------------
+von + Dat/Gen
+---------------------------
+
+01a-diese Masse von älteren Menschen (Dativ)
+01b-diese Masse älterer Menschen     (Genitiv) 		
+
+02a-die Zahl von hilfe- und pflegebedürfigen Menschen (Dativ)
+02b-die Zahl hilfe- und pflegebedürfiger Menschen (Genitiv)
+
+-------------------------------------------------------------
+Treffen zwei Genitive aufeinander, nimmt man einmal *von*.
+Man nimmt *von*, wenn ein Nullartikel folgt und kein Genitiv
+erkennbar ist.
+-------------------------------------------------------------
+
+03-Zusammentreffen *von* Vertretern aller 500 Einrichtungen.
+
+-------------------------------------------------------------
+als fester Ausdruck, keine Umschreibung mit von
+-------------------------------------------------------------
+
+04-eine Umfrage *von* Kienbaum Management           (von+Name)
+   zeigt...in welchen Bereichen *der* Gesellschaft
+   19% *der* Bevölkerung
+
+**************************************************************
+
+---------------------------
+all
+1-Indefinitpronomen => wird dekliniert wie ein Adjektiv.
+2-bezeichnet zusammenfassend eine Menge von Dingen, Personen und zwar die gesamte Menge.
+3-wird deshalb generalisierend verwenden. 
+4-Bei zählbaren Dingen im Plural.
+5-Bei nich zählbaren, abstrakten Dingen im Singular.
+---------------------------
+
+=======================================================================================================
+
 
 
 

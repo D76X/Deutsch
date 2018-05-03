@@ -399,12 +399,51 @@ als fester Ausdruck, keine Umschreibung mit von
 
 ---------------------------
 all
+
 1-Indefinitpronomen => wird dekliniert wie ein Adjektiv.
 2-bezeichnet zusammenfassend eine Menge von Dingen, Personen und zwar die gesamte Menge.
 3-wird deshalb generalisierend verwenden. 
 4-Bei zählbaren Dingen im Plural.
 5-Bei nich zählbaren, abstrakten Dingen im Singular.
 ---------------------------
+
+01-Alle Bären lieben Honig.
+02-Nach vorläufigen Schätzungen spart alles das dem Staat viele Millionen.
+
+----------------------------------------------------------------------
+all
+
+Plural: feste Verbindungen mit *diese, jener, Possesivartikel*.
+In diese Verbindung ist sowohl *all* als auch *alle* möglich.
+----------------------------------------------------------------------
+
+01-All(e) diese pflegebedürftigen Menschen haben einen Anspruch auf...
+
+----------------------------------------------------------------------
+all
+
+Plural: nach einem Personalpronomen 
+----------------------------------------------------------------------
+01-Wir alle haben ihn geglaubt.
+
+**************************************************************
+
+--------------------------------------------------------------
+werden: Partizip I
+
+werden buildet ein Partzip I, meistens mit Komparativ.
+--------------------------------------------------------------
+
+01-Die immer älter *werdende* Bevölkerung
+02-Kostenlose Zeitschrift für werdende Eltern
+
+**************************************************************
+
+--------------------------------------------------------------
+Präpositionen der Schriftsprache
+
+...
+--------------------------------------------------------------
 
 =======================================================================================================
 

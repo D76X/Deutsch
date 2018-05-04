@@ -442,8 +442,38 @@ werden buildet ein Partzip I, meistens mit Komparativ.
 --------------------------------------------------------------
 Präpositionen der Schriftsprache
 
-...
+- anhand, anhand von
+- statt/anstatt/anstelle
+- um...willen
+- seitens/vonseiten (on the part of)
+- angesichts
+- mithilfe
+- kraft (...kraft meines Amtes, erkläre ich Ihnen Herr und Frau.)
+- anlässlich (der...)
+- aufgrund (der...)
+
+
+
+01-Rede von Kulturstaatsminister Bernd Neuman *annlässlich*
+   *der* Eöffnung der 60. Internationalen Filmfestspiele
+   Berlin 2010.
+   (anlässlich der...)
+
+02-*Aufgrund* geringener Nachfrage geht unser Umsatzt zurück.
 --------------------------------------------------------------
+
+**************************************************************
+
+-------------
+Sprecherbezug
+-------------
+
+01a- Der Bürgermeister: "..." 
+=> mithilfe von Verben
+01b- Der Bürgermeister *hat betont*, dass...
+
+
+
 
 =======================================================================================================
 

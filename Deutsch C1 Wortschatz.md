@@ -1,7 +1,5 @@
 # Deutsch C1 Wortschatz
 
----
-
 ## Wortschatz
 
 Christbäume Abruf
@@ -7130,4 +7128,3 @@ Das Thema wäre deshalb mit euch zu vertiefen, ob dieser standardisierte Adapter
 Garnele**n** und Granat**e** sind kleine [**krebsartig**](https://www.collinsdictionary.com/us/dictionary/german-english/krebsartig) Tiere, die zwischen Felsen und [Koralle](https://www.collinsdictionary.com/us/dictionary/german-english/koralle)n leben. Sie sind üblicherweise **von** eine**m** weiche**n** [**Panzer**](https://www.collinsdictionary.com/dictionary/german-english/panzer) **gekleidet, der** **leicht rot** oder gelegentlich auch **grau** sein kann. Sie [**kriechen**](https://www.collinsdictionary.com/dictionary/german-english/kriechen) auf den Bode**n** de**r [See](https://translate.google.com/?sl=en&tl=de&text=a%20set%20of&op=translate)** und **[futtern](https://www.collinsdictionary.com/dictionary/german-english/futtern_1)** sich auf..**.**  
    
 ---
-

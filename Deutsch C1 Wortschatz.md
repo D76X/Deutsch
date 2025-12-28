@@ -4,6 +4,14 @@
 
 Christbäume Abruf
 
+[triftig](https://www.collinsdictionary.com/dictionary/german-english/triftig) = 1[überzeugend](https://www.collinsdictionary.com/dictionary/german-english/uberzeugend), 2[gültig](https://www.collinsdictionary.com/dictionary/german-english/gultig)
+
+Er hat natürlich den Fall viel übertrieben, aber **es gibt einen triftigen Grund**.
+
+[jdn veräppeln](https://www.collinsdictionary.com/dictionary/german-english/verappeln) 
+[witzeln](https://www.collinsdictionary.com/dictionary/german-english/verappeln) : [über djn Witzen machen]
+
+
 [https://www.collinsdictionary.com/dictionary/german-english/abruf](https://www.collinsdictionary.com/dictionary/german-english/abruf)  
 sich auf Abruf bereithalten  
 dabei üben manche Orte eine besonders starke Anziehung auf uns Menschen aus  

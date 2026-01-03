@@ -4569,9 +4569,7 @@ Sie möchten doch **sicherlich**, dass die Benutzer mit ihren **geschäftlichen 
 
 ---
 
-## 
-
-## Wichtige Konstruktionen 
+## PART: Wichtige Konstruktionen 
 
 nach einem Muster | etwas nach einem Muster sagen/tun..  
 Diese Antwort klingt viel zu **[forsc](https://www.collinsdictionary.com/dictionary/german-english/forsch),  besser eine Antwort nach diesem Muster..**
@@ -4833,9 +4831,7 @@ Wegen der Verlust eines Freundes, in große **Betrübtheit geraten**.
 
 ---
 
-## Adverbien und Präpositionen, die sehr nützlich sind
-
-#### 
+## PART: Adverbien und Präpositionen, die sehr nützlich sind
 
 #### [mitsamt](https://www.collinsdictionary.com/dictionary/german-english/mitsamt) / [samt](https://www.collinsdictionary.com/dictionary/german-english/samt) / [nebst](https://www.collinsdictionary.com/dictionary/german-english/nebst)
 
@@ -5223,7 +5219,7 @@ Bitte **gebe** Sie ihre [Bestätigung](https://www.collinsdictionary.com/diction
 
 ---
 
-## Häufig genutzt Ausdrücken
+## PART: Häufig genutzt Ausdrücken
 
 #### Nicht [anstehen](https://www.collinsdictionary.com/dictionary/german-english/anstehen) etwas zu tun \= nicht [verzögern](https://www.collinsdictionary.com/dictionary/german-english/verzogern)
 
@@ -6623,7 +6619,7 @@ an etw (dative) Anteil nehmen (an Leid)
 
 ---
 
-## Redewendungen
+## PART: Redewendungen
 
 ### [Redewendungen von A-Z](https://www.geo.de/geolino/redewendungen/) 
 

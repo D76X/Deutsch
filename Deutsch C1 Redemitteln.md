@@ -1,14 +1,5 @@
 # Deutsch C1 Redemitteln 01
 
-
-ä → Ctrl+Shift+U 00e4 Space
-ö → Ctrl+Shift+U 00f6 Space
-ü → Ctrl+Shift+U 00fc Space
-Ä → Ctrl+Shift+U 00c4 Space
-Ö → Ctrl+Shift+U 00d6 Space
-Ü → Ctrl+Shift+U 00dc Space
-ß → Ctrl+Shift+U 00df Space
-
 Jedem unter die Arme greifen = helfen
 
 Wir werden einen Experte für dieses Thema, über diese wichtige Angelegenheit, besprechen (= befragen). Wir hoffen, dass er uns unter die Arme greift. 

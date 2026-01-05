@@ -1,6 +1,11 @@
 
 # Häufig genutzt Ausdrücken
 
+[äußerst](https://www.collinsdictionary.com/dictionary/german-english/ausserst)
+> äußerst schwierig
+> Wie kann man eine Platine herstellen, die nicht **rechteckig** ist? 
+> Das ist ohne zusätzliche Hilfe eigentlich **äußerst schwierig**.
+
 ---
 
 Die [Bredouille](https://www.collinsdictionary.com/dictionary/german-english/bredouille)

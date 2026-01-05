@@ -1,6 +1,18 @@
 
 # Häufig genutzt Ausdrücken
 
+---
+
+> eine [Kerbe](https://www.collinsdictionary.com/dictionary/german-english/kerbe)
+> Der Chip hat immer eine Kerbe nach oben, wo das erste Pin sitzt.
+
+> * in die gleiche or dieselbe Kerbe hauen or schlagen
+Sie sind gängige idiomatische Ausdrücke mit fast identischer Bedeutung: 
+Sie bedeuten, dass jemand etwas Ähnliches sagt, argumentiert oder tut wie andere, oft um eine bereits bestehende Kritik oder Richtung zu unterstützen, im Sinne von **„auf derselben Linie liegen“** oder **„ins gleiche Horn stoßen“**. 
+„Gleiche“ und „dieselbe“ sind hier austauschbar; beide betonen die Übereinstimmung in der Sache. 
+
+---
+
 [äußerst](https://www.collinsdictionary.com/dictionary/german-english/ausserst)
 > äußerst schwierig
 > Wie kann man eine Platine herstellen, die nicht **rechteckig** ist? 

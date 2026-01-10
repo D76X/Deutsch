@@ -4,6 +4,9 @@
 
 Christbäume Abruf
 
+die [Fluggesellschaft](https://www.collinsdictionary.com/dictionary/german-english/fluggesellschaft)
+Viele Fluggesellschaften erfahren finanzielle Schwierigkeiten.
+
 [triftig](https://www.collinsdictionary.com/dictionary/german-english/triftig) = 1[überzeugend](https://www.collinsdictionary.com/dictionary/german-english/uberzeugend), 2[gültig](https://www.collinsdictionary.com/dictionary/german-english/gultig)
 
 Er hat natürlich den Fall viel übertrieben, aber **es gibt einen triftigen Grund**.

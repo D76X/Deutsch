@@ -1,6 +1,11 @@
 
 # Häufig genutzt Ausdrücken
 
+> Der [Wurm](https://www.collinsdictionary.com/dictionary/german-english/wurm) is drin | sitzt drin = Es gibt etwas falsch.
+> In diese ganze Lage skeckt der Wurm darin.
+
+> Der Wurm des schlechten Gewiss
+
 ---
 
 > eine [Kerbe](https://www.collinsdictionary.com/dictionary/german-english/kerbe)

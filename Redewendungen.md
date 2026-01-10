@@ -1,5 +1,16 @@
 ## PART: Redewendungen
 
+---
+
+### Etwas für di Katze sein / machen
+
+[vergeblich](https://www.collinsdictionary.com/dictionary/german-english/vergeblich) = zum Nichts
+[umsonst](https://www.collinsdictionary.com/dictionary/german-english/umsonst)  
+[vergebens][https://www.collinsdictionary.com/dictionary/german-english/vergebens] 
+ohne Grund
+
+---
+
 ### [Redewendungen von A-Z](https://www.geo.de/geolino/redewendungen/) 
 
 [**Redensarten Index Portal**](https://www.redensarten-index.de/suche.php) 

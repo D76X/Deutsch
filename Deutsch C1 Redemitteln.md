@@ -179,6 +179,8 @@ In dieser Folge **geht es um** zusätzliches Lernmaterial, das für die Prüfung
 * Welch**e Gründe** gibt es für…? | Welch**er** [Grund](https://www.collinsdictionary.com/dictionary/german-english/grund) (m) gibt es für…?  
 * Die Idee dahinter besteht einfach darin ( nicht…) (sondern…)  
 * Es ist der Grund warum…
+* Man kann KiCad aus diversen Grunden verwenden. 
+* Ein Grund **dafür** ist, dass KiCad, im Gegensatz zu anderen Angeboten, keine EInschränkungen auflegt.
 
 #### 
 
@@ -193,10 +195,6 @@ In dieser Folge **geht es um** zusätzliches Lernmaterial, das für die Prüfung
 * [das Fazit der Untersuchungen war](https://www.collinsdictionary.com/dictionary/german-english/fazit)…  
 * [der Abschluss](https://www.collinsdictionary.com/dictionary/german-english/abschluss) der Umfrage ist.. 
 
-> die [Folge](https://www.collinsdictionary.com/dictionary/german-english/folge)  
-> Das har zur Folge, dass...
-
-
 #### Folgen nennen
 
 * **Aus** diese**m** Grund…  
@@ -205,6 +203,9 @@ In dieser Folge **geht es um** zusätzliches Lernmaterial, das für die Prüfung
   Er war sehr beschäftigt und konnte [**folglich**](https://www.dwds.de/wb/folglich]) **von** seiner Arbeit nicht [abkommen](https://www.collinsdictionary.com/dictionary/german-english/abkommen).  
 * Deswegen / deshalb / daher…  
 * Ich möchte Sie noch **auf** etwas [**hinweisen**](https://www.collinsdictionary.com/dictionary/german-english/hinweisen)**…**
+
+> die [Folge](https://www.collinsdictionary.com/dictionary/german-english/folge)  
+> Das har zur Folge, dass...
 
 
 #### Kompromiss / Lösung finden

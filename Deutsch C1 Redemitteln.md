@@ -193,6 +193,10 @@ In dieser Folge **geht es um** zusätzliches Lernmaterial, das für die Prüfung
 * [das Fazit der Untersuchungen war](https://www.collinsdictionary.com/dictionary/german-english/fazit)…  
 * [der Abschluss](https://www.collinsdictionary.com/dictionary/german-english/abschluss) der Umfrage ist.. 
 
+> die [Folge](https://www.collinsdictionary.com/dictionary/german-english/folge)  
+> Das har zur Folge, dass...
+
+
 #### Folgen nennen
 
 * **Aus** diese**m** Grund…  

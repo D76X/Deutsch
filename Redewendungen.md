@@ -1,5 +1,14 @@
 ## PART: Redewendungen
 
+
+### man kann nicht über seinen eigenen Schatten springen
+### sich vor seinem eigenen Schatten fürchten
+
+> [Schatten](https://www.collinsdictionary.com/dictionary/german-english/schatten)  
+
+> Wenn etwas abschreckend klingen sein mag, soll man über seinen Schatten springen und sich trotzdem versuchen, es zu tun. 
+
+
 ---
 
 ### Etwas für di Katze sein / machen

@@ -1,5 +1,22 @@
-
 # Häufig genutzt Ausdrücken
+
+---
+
+> das [Fass](https://www.collinsdictionary.com/dictionary/german-english/fass) : kein / ein Fass aufmachen
+
+Hallo Isabelle, 
+
+bezüglich des Tickets war ich bereits mit dem Compliance-Team und den Purview-Kollegen in Kontakt. 
+Sie können derzeit auch nicht - zumindest nicht ohne erheblichen Aufwand - nachschauen, wer wann welche Einstellungen geändert hat.
+
+Generell **würd ich hier aber kein Fass aufmachen**, da die Neuorganisation von Fabric ja gerade stattfindet (auch im Blick auf das andere unten genannte Ticket). Ausserdem gibt es noch "Tenant-wide security implications" auf ganz anderen Leveln...
+
+Wann die Kommunikation Richtung Davide und den anderen Kollegen stattfindet, weiss ich leider nicht.
+Die einzige Frage wäre also, ob du zufällig weisst, wann und warum die Einstellung gesetzt wurde. 
+
+Beste Grüsse
+
+---
 
 > Der [Wurm](https://www.collinsdictionary.com/dictionary/german-english/wurm) is drin | sitzt drin = Es gibt etwas falsch.
 > In diese ganze Lage skeckt der Wurm darin.

@@ -2,6 +2,26 @@
 
 ## Wortschatz
 
+das [Steuer](https://www.collinsdictionary.com/dictionary/german-english/steuer)  
+das [Pauschalsteuer](https://www.collinsdictionary.com/dictionary/german-english/pauschalsteuer)  
+die [Pauschalsumme](https://www.collinsdictionary.com/dictionary/german-english/pauschalsumme)   
+der [Pauschalbetrag](https://www.collinsdictionary.com/dictionary/german-english/pauschalbetrag) 
+
+[Steuerbegünstigung](https://www.collinsdictionary.com/dictionary/german-english/steuerbegunstigung) = Steuervegünstigung  
+
+Steuerbegünstigungen genießen.
+Familienmitglieder mit Einbeziehen werden Steuerbegünstigungen genießen.
+Eine 7% **Paushalsteuer** anwenden.
+Ab diesem Jahr können ausländische Rentner eine 7% **Paushalsteuer** in Anspruch nehmen.
+
+die [Voraussetzung](https://www.collinsdictionary.com/dictionary/german-english/voraussetzung)  
+[forderfähig] = [berechtigt](https://www.collinsdictionary.com/dictionary/german-english/berechtigt): berechtigt sein, etwas zu tun.  
+das [Steuersubjekt](https://www.collinsdictionary.com/dictionary/german-english/subjekt)  
+Voraussetzung für solche **Steuerbegünstigung** wird, dass die **Wohnsitzung** des **Steuersubjekts** in Italien ist, aber das gilt nur für **forderfähige Orte**. 
+
+[begünstigenm](https://www.collinsdictionary.com/dictionary/german-english/begunstigen)
+Durch di Dunkelheit begünstigt.
+
 Christbäume Abruf
 
 die [Fluggesellschaft](https://www.collinsdictionary.com/dictionary/german-english/fluggesellschaft)

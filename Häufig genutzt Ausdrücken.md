@@ -1,5 +1,11 @@
 # Häufig genutzt Ausdrücken
 
+
+der [Förderungssatz]
+[zu guter Letzt](https://www.collinsdictionary.com/dictionary/german-english/letzt): die Letzt
+> [Last but not least]
+**Zu guter Letzt** kommen wir zu dem Thema Renovierung, wo man entsprechend die Maßnahmen, die untergenommen werden, unterschiedliche Förderungsätze sieht.
+
 ---
 
 > das [Fass](https://www.collinsdictionary.com/dictionary/german-english/fass) : kein / ein Fass aufmachen

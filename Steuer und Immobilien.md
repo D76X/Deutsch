@@ -3,11 +3,21 @@
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
+der [Förderungssatz]
+[zu guter Letzt](https://www.collinsdictionary.com/dictionary/german-english/letzt): die Letzt
+> [Last but not least]
+**Zu guter Letzt** kommen wir zu dem Thema Renovierung, wo man entsprechend die Maßnahmen, die untergenommen werden, unterschiedliche Förderungsätze sieht.
+
+
 die [Sanierung](https://www.collinsdictionary.com/dictionary/german-english/sanierung)  
 die [Sanierungskosten](https://www.collinsdictionary.com/dictionary/german-english/sanierungskosten)  
 Etwas in Abzug bringen
 Man wird einen **Steuerabzug von 50% erhalten**, wenn ein Haus oder eine Wohnung energetisch saniert ist.
 Die Sanierungskosten werden in diesem Fall bis zu 50% in Abzug gebracht.
+Sehr wichtig hier ist, dass diese Maßnahmen einige technische Voraussetzungen entspreschen müssen.
+> besser: Sehr wichtig hier ist, dass diese Maßnahmen einige technische Voraussetzungen **erfüllen** müssen.
+
+Der Zuschuss und der Steuerabzug für die energetische Sanierung der einigen Wohnung oder des einigen Hauses decken Sachen wie Wärmepumpe, Dämmung und neue Fenster.
 
 der [Zuschuss](https://www.collinsdictionary.com/dictionary/german-english/zuschuss): die Zuschüsse  
 Der Zuschuss zu Sardinien.

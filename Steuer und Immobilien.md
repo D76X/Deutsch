@@ -3,6 +3,12 @@
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
+die [Sanierung](https://www.collinsdictionary.com/dictionary/german-english/sanierung)  
+die [Sanierungskosten](https://www.collinsdictionary.com/dictionary/german-english/sanierungskosten)  
+Etwas in Abzug bringen
+Man wird einen **Steuerabzug von 50% erhalten**, wenn ein Haus oder eine Wohnung energetisch saniert ist.
+Die Sanierungskosten werden in diesem Fall bis zu 50% in Abzug gebracht.
+
 der [Zuschuss](https://www.collinsdictionary.com/dictionary/german-english/zuschuss): die Zuschüsse  
 Der Zuschuss zu Sardinien.
 Einen Zuschuss zu einer Sache gewähren or geben.
@@ -39,6 +45,7 @@ die [Pauschalsumme](https://www.collinsdictionary.com/dictionary/german-english/
 der [Pauschalbetrag](https://www.collinsdictionary.com/dictionary/german-english/pauschalbetrag) 
 
 [Steuerbegünstigung](https://www.collinsdictionary.com/dictionary/german-english/steuerbegunstigung) = Steuervegünstigung  
+der [Abzug](https://www.collinsdictionary.com/dictionary/german-english/abzug): der Steuerabzug
 
 Steuerbegünstigungen genießen.
 Familienmitglieder mit Einbeziehen werden Steuerbegünstigungen genießen.

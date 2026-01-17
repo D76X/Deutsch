@@ -1,7 +1,20 @@
 # Steuer und Immobilie
 
+
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
+der [Zuschuss](https://www.collinsdictionary.com/dictionary/german-english/zuschuss): die Zuschüsse  
+Der Zuschuss zu Sardinien.
+Einen Zuschuss zu einer Sache gewähren or geben.
+
+der [Zuzüger](https://www.collinsdictionary.com/dictionary/german-english/zuzuger): die Zuzügering = (= neues Mitglied)  
+[fördern](https://www.collinsdictionary.com/dictionary/german-english/fordern_2) = unterstützen  
+der [Euro](https://www.collinsdictionary.com/dictionary/german-english/euro)  
+die [REnovierung](https://www.collinsdictionary.com/dictionary/german-english/renovierung)  
+Der Region Sardinien fördert Zuzüge in kleine Gemeinden mit Zuschüssen bis zu 15000 Euro **unter der Bedingug** einer Renovierung oder auch eines **Erstwohnsitz** in einem Ort, in dem **die Bevölkerung immer schwächer wird**.
+
+[fordern](https://www.collinsdictionary.com/dictionary/german-english/fordern_1) = verlangen
+Er fordert zu viel von sich selbst.
 
 der [Bauträger](https://www.collinsdictionary.com/dictionary/german-english/bautrager): die Bauträgerin
 die [Immobilie](https://www.collinsdictionary.com/dictionary/german-english/immobilie)  

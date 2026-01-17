@@ -3,11 +3,15 @@
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
-der [Förderungssatz]
+die [Fotovoltaik](https://www.collinsdictionary.com/dictionary/german-english/fotovoltaik)  
+[fotovoltaisch](https://www.collinsdictionary.com/dictionary/german-english/fotovoltaisch): fotovoltaische Anlagen
+der [Förderungssatz]  
+der [Brandschutz](https://www.collinsdictionary.com/dictionary/german-english/brandschutz)  
+
 [zu guter Letzt](https://www.collinsdictionary.com/dictionary/german-english/letzt): die Letzt
 > [Last but not least]
 **Zu guter Letzt** kommen wir zu dem Thema Renovierung, wo man entsprechend die Maßnahmen, die untergenommen werden, unterschiedliche Förderungsätze sieht.
-
+Bezüglich des Abzugs von Sanierungskosten oder Renovierungskosten von Immobilien, werden spezifische **bauerliche Maßnahmen** gelten wie fotovoltaische Anlagen, **Badenzimmersanierung**, **Elektroinstallationen**, **Wasserinstallationen**, Mauern, Boden, Putzen, Dach, Innen- und Außerarbeiten, **Brandschutzmaßnahmen** usw.
 
 die [Sanierung](https://www.collinsdictionary.com/dictionary/german-english/sanierung)  
 die [Sanierungskosten](https://www.collinsdictionary.com/dictionary/german-english/sanierungskosten)  

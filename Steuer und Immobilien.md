@@ -3,15 +3,38 @@
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
+[besteuern](https://www.collinsdictionary.com/dictionary/german-english/besteuern)  
+die [Besteuerung](https://www.collinsdictionary.com/dictionary/german-english/besteuerung)   
+
+Neuer **Freiberufliche** und **Selbständige** werden **viel weniger besteuert**.
+Eine **vereinfachte Besteuerung** wird auf alle, die **freiberufliche Tätigkeit** sind / haben, angewendet.
+
+der [Einzelunternehmer]
+die [Grüundung](https://www.collinsdictionary.com/dictionary/german-english/grundung)  
+Die Gründung eine Famile oder einen Geschäft  
+**Selbstständigkeit und Gründung**  
+[anmelden](https://www.collinsdictionary.com/dictionary/german-english/anmelden)  
+sich bei jdm anmelden, sich für Etwas anmelden (lassen)
+
+Diese Förderung gilt für alle die in Jahr 2026 sich für eine Selbstständigkeit anmelden.
+Sie gelten auch für alle, die in **freiberufliche Tätigkeit** sind.
+
+der [Hauptwohnsitz](https://www.collinsdictionary.com/dictionary/german-english/hauptwohnsitz)   
+der [Zweitwohnsitz](https://www.collinsdictionary.com/dictionary/german-english/zweitwohnsitz)  
+
 die [Fotovoltaik](https://www.collinsdictionary.com/dictionary/german-english/fotovoltaik)  
 [fotovoltaisch](https://www.collinsdictionary.com/dictionary/german-english/fotovoltaisch): fotovoltaische Anlagen
 der [Förderungssatz]  
 der [Brandschutz](https://www.collinsdictionary.com/dictionary/german-english/brandschutz)  
 
+[barrierefrei](https://www.collinsdictionary.com/dictionary/german-english/barrierefrei)  
+die [Barrierefreiheit](https://www.collinsdictionary.com/dictionary/german-english/barrierefreiheit)  
+der Barrierebau
+
 [zu guter Letzt](https://www.collinsdictionary.com/dictionary/german-english/letzt): die Letzt
 > [Last but not least]
 **Zu guter Letzt** kommen wir zu dem Thema Renovierung, wo man entsprechend die Maßnahmen, die untergenommen werden, unterschiedliche Förderungsätze sieht.
-Bezüglich des Abzugs von Sanierungskosten oder Renovierungskosten von Immobilien, werden spezifische **bauerliche Maßnahmen** gelten wie fotovoltaische Anlagen, **Badenzimmersanierung**, **Elektroinstallationen**, **Wasserinstallationen**, Mauern, Boden, Putzen, Dach, Innen- und Außerarbeiten, **Brandschutzmaßnahmen** usw.
+Bezüglich des Abzugs von Sanierungskosten oder Renovierungskosten von Immobilien, werden spezifische **bauerliche Maßnahmen** gelten wie fotovoltaische Anlagen, **Badenzimmersanierung**, **Elektroinstallationen**, **Wasserinstallationen**, Mauern, Boden, Putzen, Dach, Innen- und Außerarbeiten, **Brandschutzmaßnahmen**, **Barrierebau**, usw.
 
 die [Sanierung](https://www.collinsdictionary.com/dictionary/german-english/sanierung)  
 die [Sanierungskosten](https://www.collinsdictionary.com/dictionary/german-english/sanierungskosten)  

@@ -3,6 +3,16 @@
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
+
+die [Steuerpflicht](https://www.collinsdictionary.com/dictionary/german-english/steuerpflicht)  
+[steuerpflichtig](https://www.collinsdictionary.com/dictionary/german-english/steuerpflichtig): steuerpflichtiges Einkommen / Umsatz  
+der [Steuerpflichtige](https://www.collinsdictionary.com/dictionary/german-english/steuerpflichtige)  
+Jeder Steuerpflichtige muss seine ausstehende Steuer rechtzeitig bezahlen.
+
+[befreien](https://www.collinsdictionary.com/dictionary/german-english/befreien)  
+Jeden von der Steuerpflicht befreien
+
+
 [besteuern](https://www.collinsdictionary.com/dictionary/german-english/besteuern)  
 die [Besteuerung](https://www.collinsdictionary.com/dictionary/german-english/besteuerung)   
 

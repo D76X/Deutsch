@@ -4,6 +4,36 @@
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
 
+
+
+die [Nueigkeit](https://www.collinsdictionary.com/dictionary/german-english/neuigkeit)   
+der [Haushalt](https://www.collinsdictionary.com/dictionary/german-english/haushalt_1)  > [budget]
+[initiativ](https://www.collinsdictionary.com/dictionary/german-english/initiativ)  > die Initiative
+Als größte Neuigkeit des Haushalts für 2026 kommt die Initiative "Smart&Start Italia" genannt.
+Diese Initiative gilt für innovative Tecjnologiestartups in ganz Italien.
+Businesspläne von €100000 bis zu €1,5 Millionen können durch diese Initiative göfordert werden.
+
+[permanent](https://www.collinsdictionary.com/dictionary/german-english/permanent) .. ständig, dauernd, andauernd 
+der [Bewtrieb](https://www.collinsdictionary.com/dictionary/german-english/betrieb) > die Betribe (=Firma) (=die Fabrick)
+Ein Programm für die Förderung neue Betriebe.
+Diese Initiative ist ein permanentes nationales Förderrungsprogram.
+das [Datum]  > das Programm
+Das Förderungsprogramm wird laufend und hat kein Enddatum.
+Es wird ien Förderungsprogramm **ohne Enddatum**.
+
+der [Anteil](https://www.collinsdictionary.com/dictionary/german-english/anteil) > Zuschussanteil 
+Es wird ein größerer zinsfreier Zuschussanteil für manche Betriebe für das Jahr 2026. 
+
+das [Darlehen](https://www.collinsdictionary.com/dictionary/german-english/darlehen) > *summe/*konto/*bank/*geber/*nehmer/*schuld/*kasse  
+[zinzfrei](https://www.collinsdictionary.com/dictionary/german-english/zinsfrei)  
+Seit dem Jahr 2025 gibt es auch ein zinsfreies Darlehen für Freiberufliche und Selbstständige.
+
+
+der [Zuschuss](https://www.collinsdictionary.com/dictionary/german-english/zuschuss): die Zuschüsse
+[zurückzahlen](https://www.collinsdictionary.com/dictionary/german-english/zuruckzahlen)  > zuückzahlend > zuückzuzahlende Zuschüsse
+**Die Gründung von Betrieben** oder **freiberufliche** Existenzen wird mit **nicht zurückzuzahlenden Zuschüssen** gefördet.
+**Freiberufliche Existenzen** werden von deren Steuerpflicht binnen fünf Jahren von der Gründung befreit.
+
 die [Steuerpflicht](https://www.collinsdictionary.com/dictionary/german-english/steuerpflicht)  
 [steuerpflichtig](https://www.collinsdictionary.com/dictionary/german-english/steuerpflichtig): steuerpflichtiges Einkommen / Umsatz  
 der [Steuerpflichtige](https://www.collinsdictionary.com/dictionary/german-english/steuerpflichtige)  

@@ -4,6 +4,14 @@
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
 
 
+[konkretisieren](https://www.collinsdictionary.com/dictionary/german-english/konkretisieren)
+Die Firma hilft großen Betrieben ihre **Pläne zu konkretisieren**.
+Könnten Sie vielleicht **dieses Konzept ein bisschen konkretisieren**?
+
+der Antragsberechtig = der [Anspruchsberechtigt](https://www.collinsdictionary.com/dictionary/german-english/anspruchsberechtigte)  > die Ansprucchsberechtigte
+[anspruchsberechtigt](https://www.collinsdictionary.com/dictionary/german-english/anspruchsberechtigt)   
+der [Inhaber](https://www.collinsdictionary.com/dictionary/german-english/inhaber) (von Geschäft / Firma / Restaurant / Hotel / Lizenz / Patent / Rekord / Orden / Pass / Scheck) 
+Anspruchsbrechtigte werden überwiegend weibliche Inhaber im Alter unter 36 Jahren.
 
 
 die [Nueigkeit](https://www.collinsdictionary.com/dictionary/german-english/neuigkeit)   
@@ -12,6 +20,7 @@ der [Haushalt](https://www.collinsdictionary.com/dictionary/german-english/haush
 Als größte Neuigkeit des Haushalts für 2026 kommt die Initiative "Smart&Start Italia" genannt.
 Diese Initiative gilt für innovative Tecjnologiestartups in ganz Italien.
 Businesspläne von €100000 bis zu €1,5 Millionen können durch diese Initiative göfordert werden.
+Die Förderungen **bestehen** vor allem von zinslosen Darlehnen bis zu 80% des gesamten **Investitionskosten**.
 
 [permanent](https://www.collinsdictionary.com/dictionary/german-english/permanent) .. ständig, dauernd, andauernd 
 der [Bewtrieb](https://www.collinsdictionary.com/dictionary/german-english/betrieb) > die Betribe (=Firma) (=die Fabrick)

@@ -4,6 +4,20 @@
 
 Christbäume Abruf
 
+[sträuben](collinsdictionary.com/dictionary/german-english/strauben) (Haare, Fell) 
+> Der Katze sträubt sich das Fell.
+> Da sträuben sich einem die Haare.
+
+[2] [widerstehen](https://www.collinsdictionary.com/dictionary/german-english/widerstehen) [gegen etwas]  (= nicht nachgeben) 
+> Die Zunge sträubt sich, das zu schildern.
+> Es sträubt sich alles in mir, das zu tun
+
+der [Missstand](https://www.collinsdictionary.com/dictionary/german-english/missstand)  
+[haarsträubend](https://www.collinsdictionary.com/dictionary/german-english/haarstraubend)  (= empörend, unglaublich)  
+
+
+
+
 die [Fluggesellschaft](https://www.collinsdictionary.com/dictionary/german-english/fluggesellschaft)
 Viele Fluggesellschaften erfahren finanzielle Schwierigkeiten.
 

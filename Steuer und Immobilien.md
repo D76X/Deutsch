@@ -1,8 +1,25 @@
 # Steuer und Immobilie
 
+[Häuser ab 1 Euro: Die günstigsten Immobilien Italiens🇮 Selina Tossut](https://www.youtube.com/watch?v=jx969feuBkc&t=27s)  
+[Haus in Italien für nur 1€ – Das steckt WIRKLICH dahinter! Selina Tossut](https://www.youtube.com/watch?v=jx969feuBkc&t=27s)   
+
+der [Hacken](https://www.collinsdictionary.com/dictionary/german-english/hacken)  != der Haken (=die Ferse)
+[hacken](https://www.collinsdictionary.com/dictionary/german-english/hacken) (= zerkleinern) (mit spitzem Gegenstand)  
+
+[haken](https://www.collinsdictionary.com/dictionary/german-english/haken) (= klemmen) 
+> es hakt bei jdm | die Sache hakt (es geht nicht ganz als wir es geplant haben)  
+> die Sache hat einen Haken
+
+Der Haken mit diesen Angeboten, die oft zu gut, um wahr zu sein, scheinen, ist, dass sie in sehr schlechtem Zustand sind.
+Der Besitz könnte doch von Jahrzehnten verlassen gewesen sein, deshalb nötigen sie fast immer sehr teure Reparaturen.
+
+[leerstehend](https://www.collinsdictionary.com/dictionary/german-english/leerstehend)  
+Leerstehende alte Häuser in kleine Gemeinde **im Süden von Italien** z.B. Sizilie, Sardinien oder Kalabrien werden sehr günstig verkauft.
+
+
+---
 
 [Italy is giving away money! An overview of the new subsidies for 2026 Selina Tossut](https://www.youtube.com/watch?v=w-WFzMUoryE&t=201s) 
-
 
 [konkretisieren](https://www.collinsdictionary.com/dictionary/german-english/konkretisieren)
 Die Firma hilft großen Betrieben ihre **Pläne zu konkretisieren**.

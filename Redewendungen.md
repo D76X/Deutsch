@@ -4,6 +4,14 @@
 ### man kann nicht über seinen eigenen Schatten springen
 ### sich vor seinem eigenen Schatten fürchten
 
+---
+
+das [Brett](https://www.collinsdictionary.com/dictionary/german-english/brett) > die Bretter
+Die Dübel werden, um die Bretter miteinander zu verbinden.
+> Ich habe heute ein Brett vor dem Kopf. (= Ich kann heute nicht richtig denken)
+
+---
+
 > [Schatten](https://www.collinsdictionary.com/dictionary/german-english/schatten)  
 
 > Wenn etwas abschreckend klingen sein mag, soll man über seinen Schatten springen und sich trotzdem versuchen, es zu tun. 

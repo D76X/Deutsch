@@ -2,10 +2,25 @@
 
 [Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
-[anschreoben](https://www.collinsdictionary.com/dictionary/german-english/anschreiben)  
+[anschreiben](https://www.collinsdictionary.com/dictionary/german-english/anschreiben)  
 [zusammenbauen](https://www.collinsdictionary.com/dictionary/german-english/zusammenbauen) = montieren
 Man wird die Bretter mit Kreide anschreiben, um die verschiedenen Teile später richtig zusammenbauen zu können.
 Die Bretter werden das Anschreiben tragen, das das Zusammenbauen später leichter machen wird.
+
+die [Numerierung](https://www.collinsdictionary.com/dictionary/german-english/numerierung) 
+die [Nummerierung](https://www.collinsdictionary.com/dictionary/german-english/nummerierung)  
+[nummerieren](https://www.collinsdictionary.com/dictionary/german-english/nummerieren)  
+[markieren](https://www.collinsdictionary.com/dictionary/german-english/markieren)   
+die [Markierung](https://www.collinsdictionary.com/dictionary/german-english/markierung)  
+> der Markierungspunkt , die Markierungslinie, die Markierungszeichnung, das Markierungszeichnen
+
+[vertauschen](https://www.collinsdictionary.com/dictionary/german-english/vertauschen) 
+1: [verwechseln](https://www.collinsdictionary.com/dictionary/german-english/verwechseln)  
+2: [austauschen](https://www.collinsdictionary.com/dictionary/german-english/austauschen) : gegen, untereinander = gegenseitig
+
+Die Markierung und Numerierung der Bretter werden es vermeiden, dass wir die Bretter der Kiste während der Montierung vertauschen.
+Ohne die richtigen Markierungen auf den Brettern wird man sie wahrscheinlich miteinander verwechseln.
+Man kann in die Regel
 
 die [Holzkiste](https://www.collinsdictionary.com/dictionary/german-english/kiste)
 

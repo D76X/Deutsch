@@ -4,6 +4,15 @@
 
 Christbäume Abruf
 
+[vorbehaltlich](https://www.collinsdictionary.com/dictionary/german-english/vorbehaltlich)  
+> vorbehaltlich anderer Bestimmungen
+> vorbehaltlich Artikel 3 des Gesetzes
+> vorbehaltlich der Bestätigung
+Die Bereitstellung von Ressourcen wird immer vorbehaltlich Bestätigung der Finanzabteilung sein.
+
+> better: Die Bereitstellung von Ressourcen erfolgt immer vorbehaltlich der Bestätigung der Finanzabteilung.
+[erfolgen](https://www.collinsdictionary.com/dictionary/german-english/erfolgen)
+
 [sträuben](collinsdictionary.com/dictionary/german-english/strauben) (Haare, Fell) 
 > Der Katze sträubt sich das Fell.
 > Da sträuben sich einem die Haare.
@@ -12,11 +21,13 @@ Christbäume Abruf
 > Die Zunge sträubt sich, das zu schildern.
 > Es sträubt sich alles in mir, das zu tun
 
-der [Missstand](https://www.collinsdictionary.com/dictionary/german-english/missstand)  
+der [Missstand](https://www.collinsdictionary.com/dictionary/german-english/missstand)  (= Ungerechtigkeit) 
+> Einen Missstand/Missstände beseitigen.
+> Missstände in der Regierung / im Management [anprangern](https://www.collinsdictionary.com/dictionary/german-english/anprangern)   
+> jdn als Betrüger/etw als Korruption anprangern
+
 [haarsträubend](https://www.collinsdictionary.com/dictionary/german-english/haarstraubend)  (= empörend, unglaublich)  
-
-
-
+> Haarsträubende Missstände 
 
 die [Fluggesellschaft](https://www.collinsdictionary.com/dictionary/german-english/fluggesellschaft)
 Viele Fluggesellschaften erfahren finanzielle Schwierigkeiten.

@@ -2,6 +2,11 @@
 
 [Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
+[anschreoben](https://www.collinsdictionary.com/dictionary/german-english/anschreiben)  
+[zusammenbauen](https://www.collinsdictionary.com/dictionary/german-english/zusammenbauen) = montieren
+Man wird die Bretter mit Kreide anschreiben, um die verschiedenen Teile später richtig zusammenbauen zu können.
+Die Bretter werden das Anschreiben tragen, das das Zusammenbauen später leichter machen wird.
+
 die [Holzkiste](https://www.collinsdictionary.com/dictionary/german-english/kiste)
 
 [zuschneiden](https://www.collinsdictionary.com/dictionary/german-english/zuschneiden)  

@@ -1,5 +1,15 @@
 # Häufig genutzt Ausdrücken
 
+der [Pfenning](https://www.collinsdictionary.com/dictionary/german-english/pfennig)  
+[umdrehen](https://www.collinsdictionary.com/dictionary/german-english/umdrehen)  
+
+> jeden Pfennig (zweimal / dreimal) umdrehen
+In schwierigen finanziellen Zeiten wie diesen wird man jeden Pfennig zweimal umdrehen, bevor man etwas zu teuer kauft.
+
+> jdm den Arm umdrehen
+Er wollte es nicht bezahlen, aber er hat es später getan, nur weil **wir ihm den Arm umgedreht hatten**.
+
+---
 
 der [Förderungssatz]
 [zu guter Letzt](https://www.collinsdictionary.com/dictionary/german-english/letzt): die Letzt

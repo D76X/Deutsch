@@ -1,5 +1,19 @@
 # Steuer und Immobilie
 
+
+
+
+der [Steuerzahler](https://www.collinsdictionary.com/dictionary/german-english/steuerzahler)
+[versteuern](https://www.collinsdictionary.com/dictionary/german-english/versteuern) = Steuern bezahlen
+> versteuerte Waren oder Einkommen > das zu versteuernde Einkommen
+
+Dieser Steuervorteil ermöglicht Steuerzahlerinnen und Steuerzahler ihren **zu versteuernden Einkommen** bedeutlich zu reduzieren.
+> bedeutlich = eherblich
+
+> verlängerbar > [verlängern](https://www.collinsdictionary.com/dictionary/german-english/verlangern)  
+> der Vorteil > [vorteilhaft](https://www.collinsdictionary.com/dictionary/german-english/vorteilhaft) > der Steuervorteil 
+Dieser erhebliche Steuervorteil gilt für Untenehmer, qualifizierte Fachkräfte und Selbstständige, über die ersten fünf Jahre und ist **sogar** **bis zu** 10 Jahre verlängerbar. 
+
 [Häuser ab 1 Euro: Die günstigsten Immobilien Italiens🇮 Selina Tossut](https://www.youtube.com/watch?v=jx969feuBkc&t=27s)  
 [Haus in Italien für nur 1€ – Das steckt WIRKLICH dahinter! Selina Tossut](https://www.youtube.com/watch?v=jx969feuBkc&t=27s)   
 
@@ -15,7 +29,6 @@ Der Besitz könnte doch von Jahrzehnten verlassen gewesen sein, deshalb nötigen
 
 [leerstehend](https://www.collinsdictionary.com/dictionary/german-english/leerstehend)  
 Leerstehende alte Häuser in kleine Gemeinde **im Süden von Italien** z.B. Sizilie, Sardinien oder Kalabrien werden sehr günstig verkauft.
-
 
 ---
 

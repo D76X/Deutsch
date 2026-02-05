@@ -2,10 +2,48 @@
 
 [Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
-[anschreoben](https://www.collinsdictionary.com/dictionary/german-english/anschreiben)  
+[zerfallen](https://www.collinsdictionary.com/dictionary/german-english/zerfallen)  = sich auslösen
+[auseinanderfallen](https://www.collinsdictionary.com/dictionary/german-english/auseinanderfallen) = zerfallen
+Nachdem die Bretter verleimt sind, bindet man sie mit einem Schnur zusammen, damit sie nicht auseinanderfallen.
+
+der [Leim](https://www.youtube.com/watch?v=viUi_MzPqXo)  
+[verleimen](https://www.collinsdictionary.com/dictionary/german-english/verleimen)  
+[ratsam](https://www.collinsdictionary.com/dictionary/german-english/ratsam) = empfehlenswert
+> Es ist empfehlenswert / ratsam etwas zu tun.
+
+Es ist empfehlenswert etwas Leim in die Dübellöcher einzusetzen.
+Nachdem die Bretter gedübelt sind, überprüft man, dass die Ganze wieder zusammenpasst, bevor die Bretter schließlich verleimt werden.
+
+der [Bohrer](https://www.collinsdictionary.com/dictionary/german-english/bohrer)  
+das[Klebeband](https://www.collinsdictionary.com/dictionary/german-english/klebeband)   
+[anmachen](https://www.collinsdictionary.com/dictionary/german-english/anmachen) = befestigen
+> die Dübel in die Löcher einsetzen
+
+Man wird die Bretter dübeln und miteinander anschließen.
+Die Dübel werden dann in die Löcher sanft von Hand eingesetzt.  
+Die Löcher sollen schließlich **etwa halb so lang wie** die Dübel sein.
+Man kann etwas Klebeband an den Bohrer anmachen, damit die Löcher nicht zu tief werden.
+Die Bretter der Kiste, die sich berühren werden, mit der gleichen Zahl nummeriert.
+
+[anschreiben](https://www.collinsdictionary.com/dictionary/german-english/anschreiben)  
 [zusammenbauen](https://www.collinsdictionary.com/dictionary/german-english/zusammenbauen) = montieren
 Man wird die Bretter mit Kreide anschreiben, um die verschiedenen Teile später richtig zusammenbauen zu können.
 Die Bretter werden das Anschreiben tragen, das das Zusammenbauen später leichter machen wird.
+
+die [Numerierung](https://www.collinsdictionary.com/dictionary/german-english/numerierung) 
+die [Nummerierung](https://www.collinsdictionary.com/dictionary/german-english/nummerierung)  
+[nummerieren](https://www.collinsdictionary.com/dictionary/german-english/nummerieren)  
+[markieren](https://www.collinsdictionary.com/dictionary/german-english/markieren)   
+die [Markierung](https://www.collinsdictionary.com/dictionary/german-english/markierung)  
+> der Markierungspunkt , die Markierungslinie, die Markierungszeichnung, das Markierungszeichnen
+
+[vertauschen](https://www.collinsdictionary.com/dictionary/german-english/vertauschen) 
+1: [verwechseln](https://www.collinsdictionary.com/dictionary/german-english/verwechseln)  
+2: [austauschen](https://www.collinsdictionary.com/dictionary/german-english/austauschen) : gegen, untereinander = gegenseitig
+
+Die Markierung und Numerierung der Bretter werden es vermeiden, dass wir die Bretter der Kiste während der Montierung vertauschen.
+Ohne die richtigen Markierungen auf den Brettern wird man sie wahrscheinlich miteinander verwechseln.
+Man kann in die Regel
 
 die [Holzkiste](https://www.collinsdictionary.com/dictionary/german-english/kiste)
 

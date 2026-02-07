@@ -2,6 +2,25 @@
 
 [Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
+
+die [Lasur](https://www.collinsdictionary.com/dictionary/german-english/lasur)  
+Man könnte die Kiste mit transparenter Lasur für Holz bemalen.
+
+[mahlen](https://www.collinsdictionary.com/dictionary/german-english/mahlen) [=grind]
+> Das Material fein mahlen
+[malen](https://www.collinsdictionary.com/dictionary/german-english/malen) = streichen  
+[streichen](https://www.collinsdictionary.com/dictionary/german-english/streicheln)  > gestriechen
+[bemalen](https://www.collinsdictionary.com/dictionary/german-english/bemalen)  
+> die Kiste rot malen = die Kiste ist rot gemalt ( = gestrichen)
+
+Nachdem man die Dübeln eingesetzt hat und auch das Ganze etwas Zeit gegeben hat, um der Leim gut wirken zu lassen, 
+kann man die Kiste schließlich schleifen und natürlich vielleicht mahlen.
+
+die [Diagonale](https://www.collinsdictionary.com/dictionary/german-english/diagonale)  
+[diagonal](https://www.collinsdictionary.com/dictionary/german-english/diagonal)  
+Eine diagolale Markierung machen / zeichnen.
+Eine Markierung entlang der Diagonalen zeichnen.
+
 [zerfallen](https://www.collinsdictionary.com/dictionary/german-english/zerfallen)  = sich auslösen
 [auseinanderfallen](https://www.collinsdictionary.com/dictionary/german-english/auseinanderfallen) = zerfallen
 Nachdem die Bretter verleimt sind, bindet man sie mit einem Schnur zusammen, damit sie nicht auseinanderfallen.
@@ -11,6 +30,7 @@ der [Leim](https://www.youtube.com/watch?v=viUi_MzPqXo)
 [ratsam](https://www.collinsdictionary.com/dictionary/german-english/ratsam) = empfehlenswert
 > Es ist empfehlenswert / ratsam etwas zu tun.
 
+Man sollte auch etwas Leim zwischen die Dübeln auf dem Bretter geben. (=anwenden) 
 Es ist empfehlenswert etwas Leim in die Dübellöcher einzusetzen.
 Nachdem die Bretter gedübelt sind, überprüft man, dass die Ganze wieder zusammenpasst, bevor die Bretter schließlich verleimt werden.
 

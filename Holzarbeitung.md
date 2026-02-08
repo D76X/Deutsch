@@ -1,7 +1,38 @@
 # Holzarbeitung
 
-[Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
+---
+
+[Holzkiste einfach selbst bauen Renzo's Projekte](https://www.youtube.com/watch?v=u_Co9cS-LH0&t=19s)  
+
+
+> regenbeständig, wasserbeständig
+**Fichtenholz** oder auch **Tannenholz** ist nicht **regenbeständig**, deshalb ist es empfehlenswert, es immer mit Wetterschutz-Lasur oder Holzschutz-Lasur anzuwenden.
+
+die [Tanne](https://www.collinsdictionary.com/dictionary/german-english/tanne) = der [Tannenbaum](https://www.collinsdictionary.com/dictionary/german-english/tannenbaum) 
+der [Tannenwald](https://www.collinsdictionary.com/dictionary/german-english/tannenwald)  
+die [Fichte](https://www.collinsdictionary.com/dictionary/german-english/fichte)    
+der [Fichtennadelextrakt](https://www.collinsdictionary.com/dictionary/german-english/fichtennadelextrakt)  
+
+[hobeln](https://www.collinsdictionary.com/dictionary/german-english/hobeln) > gehobelt
+> gehobeltes Holz / Brett 
+
+Was wir benötigen:
+
+10 **Glattkantbretter** Fichte / Tanne (1,8 x 10 x 200cm)  [=smooth-edged-board] = [=travetto]
+1 **Rahmenholz** Fichte/Tanne gehobelt (7,4 x 4,4 x 300cm) [=framewood] [=listello]
+1 Rahmenholz Fichte/Tanne gehobelt (5,4 x 3,4 x 300cm)
+**Holzschrauben** (5,0 x 50mm, 100 Stück)
+**Holzschutz-Lasur** (z. B. **Wetterschutz-Lasur** von toom, 750ml)
+**Schleifpapier**
+
+Werkzeuge:
+- Akkubohrer [M]
+- Pinsel [M]
+
+---
+
+[Holzkiste bauen - Eine einfach Kiste aus Holz selbst herstellen Lukas Jordi](https://www.youtube.com/watch?v=viUi_MzPqXo)  
 
 die [Lasur](https://www.collinsdictionary.com/dictionary/german-english/lasur)  
 Man könnte die Kiste mit transparenter Lasur für Holz bemalen.

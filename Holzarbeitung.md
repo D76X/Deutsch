@@ -6,6 +6,9 @@
 [Holzkiste einfach selbst bauen Renzo's Projekte](https://www.youtube.com/watch?v=u_Co9cS-LH0&t=19s)  
 
 
+> [umentscheiden]: deine Meining änderen
+Man braucht drei **Glattkantenbretter a 96 cm**, hier seht euch nur 2, weil ich später **umentschieden** habe.
+
 > regenbeständig, wasserbeständig
 **Fichtenholz** oder auch **Tannenholz** ist nicht **regenbeständig**, deshalb ist es empfehlenswert, es immer mit Wetterschutz-Lasur oder Holzschutz-Lasur anzuwenden.
 

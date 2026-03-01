@@ -6,6 +6,10 @@
 [Holzkiste einfach selbst bauen Renzo's Projekte](https://www.youtube.com/watch?v=u_Co9cS-LH0&t=19s)  
 
 
+> der Kegelsenker
+> nach einem Schema vorgehen
+Ich **bin** immer nach demselben Schema vorgegangen...
+
 > [umentscheiden]: deine Meining änderen
 Man braucht drei **Glattkantenbretter a 96 cm**, hier seht euch nur 2, weil ich später **umentschieden** habe.
 

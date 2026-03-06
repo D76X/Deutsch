@@ -2,6 +2,10 @@
 
 [How NotebookLM has CHANGED the way I work forever! Christoph Magnussen](https://www.youtube.com/watch?v=FP0gf5BNQww)   
 
+
+Was macht diese Werkzeug anders?
+Wir zeigen genau wie man diesen Werkzeug optimal einsetzen kann
+
 [hüpfen](https://www.collinsdictionary.com/dictionary/german-english/hupfen_2) = ([hupfen](https://www.collinsdictionary.com/dictionary/german-english/hupfen_1)) 
 > Das ist gehupft wie gesprungen [it doesn’t make any difference; it’s six of one and half a dozen of the other]
 [cool](https://www.collinsdictionary.com/dictionary/german-english/cool) : angenehm > Das Party war cool. ; Du musst cool bleiben.  

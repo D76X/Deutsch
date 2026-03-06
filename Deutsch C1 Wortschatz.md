@@ -2,7 +2,12 @@
 
 ## Wortschatz
 
-Christbäume Abruf
+
+Christbäume **Abruf**
+der [Anruf](https://www.collinsdictionary.com/dictionary/german-english/abruf)  
+> sich auf Abruf (für etwas) bereithalten = sich bereitet sein etwas zu tun
+> auf Abruf zu Verfügung stehen
+
 
 [vorbehaltlich](https://www.collinsdictionary.com/dictionary/german-english/vorbehaltlich)  
 > vorbehaltlich anderer Bestimmungen

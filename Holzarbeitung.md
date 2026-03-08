@@ -5,6 +5,41 @@
 
 [Holzkiste einfach selbst bauen Renzo's Projekte](https://www.youtube.com/watch?v=u_Co9cS-LH0&t=19s)  
 
+[einschrauben](https://www.collinsdictionary.com/dictionary/german-english/einschrauben)  
+Adj/Adv: [versetzt](https://www.collinsdictionary.com/dictionary/german-english/versetzen): 
+(= an andere Stelle setzen)  
+
+**Man sollte darauf achten, dass** die neuen Schrauben nicht eingeschraubt werden, 
+wo die alte Schrauben sind.
+
+**Man sollte beachten**, dass die letzten Schrauben **nicht am selben Platz** 
+**wie die** anderen Schrauben eingescraubt werden, sondern **etwas versetzt**.
+
+**Man sollte beachten**, dass die Schrauben ein Versetzungsmuster respektieren.
+
+**Man sollte darauf achten, dass** die Schrauben **gut versetzt** **miteinander** eingeschraubt werden.
+
+> Was ist ein Kegelsenker?
+
+Ein Kegelsenker ist ein meist dreischneidiges Werkzeug zum **Entgraten** und **Ansenken**
+von Bohrlöchern in Metall, Kunststoff oder Holz. 
+**Er erzeugt eine konische Vertiefung**, damit **Senkkopfschrauben** **bündig mit** der 
+Oberfläche **abschließen**. 
+Typische Anwendungsgebiete sind Maschinenbau, Holzverarbeitung und Metallbau.
+
+[entgraten] = [deburr]
+[ansenken] = [sink]
+
+[bündig](https://www.collinsdictionary.com/dictionary/german-english/bundig) [Adj,Adv]  
+[1]: kurz, bestimmt, schlüssig
+[2]: in gleicher Ebene
+
+[abschließen](https://www.collinsdictionary.com/dictionary/german-english/abschliessen) =zuschließen  
+
+eine [Vertiefung](https://www.collinsdictionary.com/dictionary/german-english/vertiefung) erzeugen  
+sich in etwas [vertiefen](https://www.collinsdictionary.com/dictionary/german-english/vertiefen)  
+
+Den Loch im Holz vertiefen mittels eines Kegelsenkers.
 
 > der Kegelsenker
 > nach einem Schema vorgehen

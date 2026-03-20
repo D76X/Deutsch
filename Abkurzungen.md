@@ -9,3 +9,7 @@ Das Thema wäre deshalb mit euch zu vertiefen, ob dieser standardisierte Adapter
 #### [MwSt. (= Mehrwertsteuer) (VAT)](https://www.collinsdictionary.com/dictionary/german-english/mwst)
 
 #### [bzgl.](https://www.collinsdictionary.com/dictionary/german-english/bzgl) (=[bezüglich](https://www.collinsdictionary.com/dictionary/german-english/bezuglich) \= in Bezug auf | in puncto | **im** Zusammenhang mit) 
+
+#### vor allem, abgekürzt: v. a
+
+Thekazellen (TK-Zellen) besitzen LH-Rezeptoren und produzieren unter LH-Einfluss Androgene (v.a. Androstendion) aus Cholesterin.

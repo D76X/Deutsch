@@ -1,5 +1,11 @@
 # NotebookLM (NBLM)
 
+---
+
+[10 mal Effizienter! - Google NotebookLM Tutorial für Anfänger (deutsch) Akademie für KI](https://www.youtube.com/watch?v=34iV-9LbK8A)  
+
+---
+
 [How NotebookLM has CHANGED the way I work forever! Christoph Magnussen](https://www.youtube.com/watch?v=FP0gf5BNQww)   
 
 

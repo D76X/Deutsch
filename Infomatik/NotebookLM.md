@@ -2,7 +2,17 @@
 
 ---
 
+[NotebookLM Tutorial / Anleitung 2026 robert Leitinger](https://www.youtube.com/watch?v=ct1TOVa3mHA&t=69s)  
+
 [10 mal Effizienter! - Google NotebookLM Tutorial für Anfänger (deutsch) Akademie für KI](https://www.youtube.com/watch?v=34iV-9LbK8A)  
+
+[Diese kostenlosen Google KI-Tools machen bezahlte Tools sinnlos AI Mentors](https://www.youtube.com/watch?v=l1yYW0B_E4Y&t=16s)  
+
+---
+
+[Gemini Banana 2](https://gemini.google/us/overview/image-generation/?hl=en-US)  
+
+[Google Flow Music](https://www.flowmusic.app/)  
 
 ---
 

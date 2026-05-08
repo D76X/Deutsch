@@ -14,6 +14,8 @@
 
 [Google Flow Music](https://www.flowmusic.app/)  
 
+[Google Labs Mixboard](https://mixboard.google.com/welcome?regionError=true)  
+
 ---
 
 [How NotebookLM has CHANGED the way I work forever! Christoph Magnussen](https://www.youtube.com/watch?v=FP0gf5BNQww)   

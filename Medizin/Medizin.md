@@ -10,4 +10,6 @@
 
 [Diese Nährstoffe bekämpfen Tumorzellen im Körper DoktorWeigl](https://www.youtube.com/watch?v=laLjHHnYrqc)  
 
+[Krank durch Nahrungsergänzungsmittel DoktorWeigl](https://www.youtube.com/watch?v=wL2LV5W8Ijk)  
+
 ---

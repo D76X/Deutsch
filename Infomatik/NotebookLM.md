@@ -18,6 +18,10 @@
 
 ---
 
+[NotebookLM explained simply the best free AI tool? Felicia Simon](https://www.youtube.com/watch?v=pZ2Z1XG-sMQ&t=14s)    
+
+---
+
 [How NotebookLM has CHANGED the way I work forever! Christoph Magnussen](https://www.youtube.com/watch?v=FP0gf5BNQww)   
 
 

@@ -16,5 +16,10 @@
 
 [Krank durch Nahrungsergänzungsmittel DoktorWeigl](https://www.youtube.com/watch?v=wL2LV5W8Ijk)  
 
+---
+
+# ArzneiZeit | Apothekerin Maren Torkler
+
+[Ibuprofen Basic ➡️ Das sollten Sie zur Einnahme Ihres Schmerzmittels wissen! ArzneiZeit | Apothekerin Maren Torkler](https://www.youtube.com/watch?v=XR1aNSqTJvY)
 
 ---

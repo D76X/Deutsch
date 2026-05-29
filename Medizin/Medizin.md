@@ -51,5 +51,52 @@ In Deutschland ist es rezeptpflichtig (in Österreich und der Schweiz bedarf es 
 
 Ein plötzlicher Blutdruckabfall ist möglich, insbesondere bei schneller intravenöser Gabe.Agranulozytose: Eine sehr seltene, aber potenziell lebensbedrohliche Nebenwirkung ist die Agranulozytose (ein extremer Mangel an bestimmten weißen Blutkörperchen, der das Immunsystem schwächt). Bei plötzlichem Fieber, Halsschmerzen oder Entzündungen im Mund sollte sofort ein Arzt aufgesucht werden.Kontraindikation: Darf nicht in der Schwangerschaft (besonders letztes Drittel), bei bestimmten Vorerkrankungen (z. B. Asthma, Knochenmarkschädigung) oder bei Unverträglichkeit eingenommen werden.
 
+---
+
+## Was ist das Glomerulus?
+
+Der Glomerulus (Mehrzahl: Glomeruli) ist ein kleines, knäuelartiges Netzwerk 
+aus feinen Blutgefäßen (Kapillaren) in der Niere. 
+
+Er bildet zusammen mit der ihn umschließenden `Bowman-Kapsel` das sogenannte 
+Nierenkörperchen (`Corpusculum renale`). 
+
+Pro menschlicher Niere gibt es etwa eine Million dieser Filtereinheiten.
+
+### Die Hauptaufgaben: 
+
+- Blutfiltration:  
+
+Der Glomerulus funktioniert wie ein biologisches Sieb. 
+Er presst das Blutplasma ab, hält dabei aber größere Bestandteile 
+wie rote Blutkörperchen und wichtige Proteine zurück.
+
+- Primärharnbildung:  
+
+Die herausgefilterte Flüssigkeit nennt sich Primärharn. 
+Sie fließt weiter in das Kanälchensystem der Niere, 
+wo sie stark konzentriert wird, bevor sie als Urin 
+ausgeschieden wird.
+
+###  Wie der Prozess abläuft
+
+- Zufuhr: 
+
+Das Blut fließt über das `Vas afferens` (die zuführende `Arteriole`) 
+mit Druck in das Kapillarknäuel.
+
+- Filtration: 
+
+Durch den Druck werden Wasser, Elektrolyte, Salze und Stoffwechselprodukte 
+durch die feinen Wände in den Hohlraum der `Bowman-Kapsel` gepresst.
+
+- Abtransport: 
+
+Das gefilterte Blut verlässt den `Glomerulus` über das `Vas efferens` 
+(die abführende `Arteriole`).
+
+###  Klinik und Erkrankungen
+
+Sind die Glomeruli durch Entzündungen oder chronische Krankheiten (z. B. durch Diabetes oder Bluthochdruck) geschädigt, können sie ihre Filterfunktion nicht mehr richtig ausüben. Dies führt beispielsweise dazu, dass fälschlicherweise Proteine in den Urin gelangen. Eine Entzündung dieser Nierenkörperchen wird medizinisch als Glomerulonephritis bezeichnet
 
 ---

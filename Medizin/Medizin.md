@@ -53,6 +53,46 @@ Ein plötzlicher Blutdruckabfall ist möglich, insbesondere bei schneller intrav
 
 ---
 
+##  Was sind ACE-hemmer?
+
+ACE-Hemmer (Angiotensin-Converting-Enzyme-Hemmer) sind weit verbreitete, gefäßerweiternde Medikamente. 
+
+Sie werden hauptsächlich zur Behandlung von die follgende Fälle eingesetzt:
+
+- Bluthochdruck 
+- Herzschwäche (Herzinsuffizienz) 
+- nach einem Herzinfarkt, um das Herz zu entlasten und zu schützen
+
+### Wie sie wirken
+
+Im Körper reguliert das sogenannte `Renin-Angiotensin-Aldosteron-System (RAAS)` den Blutdruck.
+
+Der natürliche Prozess: 
+
+Ein Enzym (ACE) wandelt das körpereigene Hormon `Angiotensin I` in `Angiotensin II` um. 
+Dieses Hormon verengt die Blutgefäße und lässt den Blutdruck steigen.
+
+Die Wirkung der Hemmer: 
+
+`ACE-Hemmer` blockieren dieses Enzym. Die Gefäße bleiben weit, der Blutdruck sinkt und 
+das Herz muss weniger Kraft aufwenden, um das Blut durch den Körper zu pumpen.
+
+### Häufige Wirkstoffe
+
+Zu dieser Medikamentengruppe gehören unter anderem:
+
+- Ramipril
+- Enalapril
+- Lisinopril
+- Captopril
+- Quinapril
+
+### Typische Nebenwirkungen
+
+Wie bei allen Medikamenten können Nebenwirkungen auftreten, darunter:Trockener Reizhusten: Eine sehr häufige Nebenwirkung, die durch die veränderte Verarbeitung bestimmter Gewebshormone im Körper (Bradykinin) entsteht.Kaliumanstieg: Der Kaliumspiegel im Blut kann ansteigen (Hyperkaliämie), weshalb dieser Wert ärztlich kontrolliert werden sollte.Nierenwerte: Zu Beginn der Einnahme kann sich die Nierenfunktion leicht verschlechtern.
+
+---
+
 ## Was ist das Glomerulus?
 
 Der Glomerulus (Mehrzahl: Glomeruli) ist ein kleines, knäuelartiges Netzwerk 

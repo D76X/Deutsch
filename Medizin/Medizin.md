@@ -89,7 +89,21 @@ Zu dieser Medikamentengruppe gehören unter anderem:
 
 ### Typische Nebenwirkungen
 
-Wie bei allen Medikamenten können Nebenwirkungen auftreten, darunter:Trockener Reizhusten: Eine sehr häufige Nebenwirkung, die durch die veränderte Verarbeitung bestimmter Gewebshormone im Körper (Bradykinin) entsteht.Kaliumanstieg: Der Kaliumspiegel im Blut kann ansteigen (Hyperkaliämie), weshalb dieser Wert ärztlich kontrolliert werden sollte.Nierenwerte: Zu Beginn der Einnahme kann sich die Nierenfunktion leicht verschlechtern.
+Wie bei allen Medikamenten können Nebenwirkungen auftreten, darunter:
+
+- Trockener Reizhusten: 
+
+Eine sehr häufige Nebenwirkung, die durch die veränderte Verarbeitung bestimmter 
+Gewebshormone im Körper (Bradykinin) entsteht.
+
+- Kaliumanstieg (`Hyperkaliämie`): 
+
+Der Kaliumspiegel im Blut kann ansteigen , weshalb dieser Wert ärztlich kontrolliert 
+werden sollte.
+
+- Nierenwerte: 
+
+Zu Beginn der Einnahme kann sich die Nierenfunktion leicht verschlechtern.
 
 ---
 
@@ -108,8 +122,9 @@ Pro menschlicher Niere gibt es etwa eine Million dieser Filtereinheiten.
 - Blutfiltration:  
 
 Der Glomerulus funktioniert wie ein biologisches Sieb. 
-Er presst das Blutplasma ab, hält dabei aber größere Bestandteile 
-wie rote Blutkörperchen und wichtige Proteine zurück.
+Er presst das Blutplasma ab, hält dabei aber größere 
+Bestandteile wie rote Blutkörperchen und wichtige Proteine 
+zurück.
 
 - Primärharnbildung:  
 
@@ -127,7 +142,13 @@ mit Druck in das Kapillarknäuel.
 
 - Filtration: 
 
-Durch den Druck werden Wasser, Elektrolyte, Salze und Stoffwechselprodukte 
+Durch den Druck werden 
+
+    - Wasser
+    - Elektrolyte
+    - Salze 
+    - Stoffwechselprodukte 
+
 durch die feinen Wände in den Hohlraum der `Bowman-Kapsel` gepresst.
 
 - Abtransport: 
@@ -137,6 +158,14 @@ Das gefilterte Blut verlässt den `Glomerulus` über das `Vas efferens`
 
 ###  Klinik und Erkrankungen
 
-Sind die Glomeruli durch Entzündungen oder chronische Krankheiten (z. B. durch Diabetes oder Bluthochdruck) geschädigt, können sie ihre Filterfunktion nicht mehr richtig ausüben. Dies führt beispielsweise dazu, dass fälschlicherweise Proteine in den Urin gelangen. Eine Entzündung dieser Nierenkörperchen wird medizinisch als Glomerulonephritis bezeichnet
+Sind die `Glomeruli` durch Entzündungen oder chronische Krankheiten 
+(z. B. durch Diabetes oder Bluthochdruck) geschädigt, können sie ihre 
+Filterfunktion nicht mehr richtig ausüben. 
+
+Dies führt beispielsweise dazu, dass fälschlicherweise Proteine in den 
+Urin gelangen. 
+
+Eine Entzündung dieser Nierenkörperchen wird medizinisch als `Glomerulonephritis` 
+bezeichnet.
 
 ---

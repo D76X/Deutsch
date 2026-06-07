@@ -169,3 +169,67 @@ Eine Entzündung dieser Nierenkörperchen wird medizinisch als `Glomerulonephrit
 bezeichnet.
 
 ---
+
+## Was ist Tramadol?
+
+Tramadol ist ein zentral wirkendes, synthetisches Opioid-Schmerzmittel. 
+Es wird ärztlich verschrieben, um mäßig starke bis starke akute und chronische 
+Schmerzen zu behandeln. 
+
+Aufgrund seines Sucht- und Abhängigkeitspotenzials ist der Wirkstoff streng 
+verschreibungspflichtig.
+
+### Wirkungsweise und Einsatzgebiete
+
+- Schmerzstillung: 
+
+Tramadol bindet an die körpereigenen Opioid-Rezeptoren im Gehirn und Rückenmark. 
+Dadurch wird die Schmerzwahrnehmung blockiert oder deutlich abgeschwächt.
+
+- Neurotransmitter: 
+
+Zusätzlich hemmt der Wirkstoff die Wiederaufnahme von `Serotonin` und `Noradrenalin`. 
+Diese Eigenschaft teilen sich viele.
+
+- Einsatz: 
+
+Es wird beispielsweise bei starken Schmerzen eingesetzt.
+
+    - nach Operationen
+    - chronischen Tumorschmerzen 
+    - Nervenschmerzen 
+    
+-Darreichungsformen:
+die [Darreichungsform](https://www.collinsdictionary.com/dictionary/german-english/darreichungsform)  
+
+Tramadol ist in vielfältiger Form erhältlich, unter anderem als:
+
+    - Tabletten 
+    - Kapseln (oft als Retardtabletten mit verzögerter Freisetzung)
+    - Tropfen 
+    - Lösungen
+    - Zäpfchen
+    - Injektions- oder Infusionslösungen
+    
+- Häufige Nebenwirkungen
+
+Wie bei allen Opioiden können bei der Einnahme von Tramadol Nebenwirkungen auftreten. 
+Zu den häufigsten zählen:
+
+- Übelkeit 
+- Erbrechen
+- Schwindel 
+- [Benommenheit](https://www.collinsdictionary.com/dictionary/german-english/benommenheit) (weiblich)
+- Kopfschmerzen 
+- Müdigkeit
+- Mundtrockenheit 
+- vermehrtes Schwitzen
+- Verstopfung
+
+### Wichtige Warnhinweise und Kontraindikationen
+
+- Abhängigkeit: 
+
+Bei einer längeren Einnahme kann sich eine körperliche und psychische Abhängigkeit entwickeln.Wechselwirkungen: In Kombination mit Alkohol, Schlafmitteln oder Psychopharmaka kann das zentrale Nervensystem lebensgefährlich stark gedämpft werden.Weitere Risiken: Tramadol kann die Krampfschwelle senken und sollte daher bei Epilepsie nur unter strengster ärztlicher Kontrolle eingenommen werden. Auch das sogenannte Serotonin-Syndrom (eine gefährliche Überdosierung des Botenstoffs Serotonin) kann bei gleichzeitiger Einnahme bestimmter Antidepressiva auftreten.
+
+---

@@ -230,6 +230,17 @@ Zu den häufigsten zählen:
 
 - Abhängigkeit: 
 
-Bei einer längeren Einnahme kann sich eine körperliche und psychische Abhängigkeit entwickeln.Wechselwirkungen: In Kombination mit Alkohol, Schlafmitteln oder Psychopharmaka kann das zentrale Nervensystem lebensgefährlich stark gedämpft werden.Weitere Risiken: Tramadol kann die Krampfschwelle senken und sollte daher bei Epilepsie nur unter strengster ärztlicher Kontrolle eingenommen werden. Auch das sogenannte Serotonin-Syndrom (eine gefährliche Überdosierung des Botenstoffs Serotonin) kann bei gleichzeitiger Einnahme bestimmter Antidepressiva auftreten.
+Bei einer längeren Einnahme kann sich eine körperliche und psychische Abhängigkeit entwickeln.
+
+- Wechselwirkungen: 
+
+In Kombination mit Alkohol, Schlafmitteln oder Psychopharmaka kann das zentrale Nervensystem 
+lebensgefährlich stark gedämpft werden.
+
+- Weitere Risiken: 
+
+Tramadol kann die `Krampfschwelle` senken und sollte daher bei `Epilepsie` nur unter strengster ärztlicher Kontrolle 
+eingenommen werden. Auch das sogenannte `Serotonin-Syndrom` (eine gefährliche Überdosierung des Botenstoffs Serotonin) 
+kann bei gleichzeitiger Einnahme bestimmter Antidepressiva auftreten.
 
 ---

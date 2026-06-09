@@ -244,3 +244,24 @@ eingenommen werden. Auch das sogenannte `Serotonin-Syndrom` (eine gefährliche �
 kann bei gleichzeitiger Einnahme bestimmter Antidepressiva auftreten.
 
 ---
+
+# Was ist Tilidin?
+
+Tilidin ist ein stark wirksames Schmerzmittel aus der Gruppe der Opioide 
+(synthetisch hergestellte, morphinähnliche Substanzen). 
+
+Es wird in der Medizin vor allem bei starken bis sehr starken Schmerzen eingesetzt, wie: 
+
+- nach Operationen
+- bei Krebsleiden 
+- bei chronischen Beschwerden
+
+## Der Wirkstoff im Detail:
+
+- Wie es wirkt: 
+
+Als sogenannte `Prodrug` entfaltet Tilidin seine schmerzstillende Wirkung nicht sofort. 
+
+Erst wenn es im Körper, hauptsächlich in der Leber, zu Nortilidin umgewandelt wird, kann es im zentralen Nervensystem die Schmerzsignale dämpfen.Darreichungsformen: Es wird meist als Tropfen oder Retardtablette (verzögerte Wirkstofffreisetzung über 12 Stunden) verschrieben.Sicherheit durch Naloxon: Um Missbrauch und eine Überdosierung zu verhindern, wird Tilidin in der Regel in Kombination mit Naloxon verabreicht. Naloxon hebt die opioide Wirkung bei Überdosierung auf und blockiert den "Rausch"-Effekt, wenn Tabletten zerkaut oder unrechtmäßig hoch dosiert werden.Nebenwirkungen: Typische Begleitsymptome bei der Einnahme sind Übelkeit, Schwindel, Müdigkeit, Benommenheit und Verstopfung.Abhängigkeitspotenzial: Tilidin birgt ein hohes Suchtpotenzial. Daher darf es nur streng nach ärztlicher Anweisung eingenommen und nach längerer Nutzung keinesfalls abrupt abgesetzt werden, um Entzugserscheinungen zu vermeiden.
+
+---

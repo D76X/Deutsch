@@ -30,26 +30,73 @@
 
 [Novaminsulfon ( Metamizol ) Basic➡️ Apothekerin erklärt: "DAS sollten Sie zur Einnahme wissen!" ArzneiZeit | Apothekerin Maren Torkler](https://www.youtube.com/watch?v=czfPA884WMo)  
 
+[Was ist der Triple Whammy ➡️Akute Niereninsuffizienz durch Blutdrucksenker, Diuretikum & NSAR - ArzneiZeit | Apothekerin Maren Torkler](https://www.youtube.com/watch?v=aVfMtjEruOM&t=534s)    
+
+---
+
 ## Was ist Novaminsulfon (Metamizol - Novalgin)?
 
-Novaminsulfon (international auch als Metamizol bekannt) ist ein starkes, nicht-opioides Schmerz- und Fiebermittel. 
-Es lindert nicht nur Schmerzen und senkt Fieber, sondern wirkt zusätzlich krampflösend (spasmolytisch).
-In Deutschland, Österreich und der Schweiz ist es ein häufig verschriebenes Medikament (z. B. unter dem Markennamen Novalgin), 
-während es in anderen Ländern (wie den USA oder Großbritannien) aufgrund seltener Nebenwirkungen nicht zugelassen ist.
+Novaminsulfon (international auch als Metamizol bekannt) ist ein starkes, 
+nicht-opioides Schmerz- und Fiebermittel. 
+
+Es lindert nicht nur Schmerzen und senkt Fieber, sondern wirkt zusätzlich 
+krampflösend (spasmolytisch).
+
+In Deutschland, Österreich und der Schweiz ist es ein häufig verschriebenes 
+Medikament (z. B. unter dem Markennamen Novalgin), während es in anderen Ländern 
+(wie den USA oder Großbritannien) aufgrund seltener Nebenwirkungen nicht zugelassen ist.
 
 Hier sind die wichtigsten Details auf einen Blick:
 
 ### AnwendungsgebieteStarke Schmerzen: 
 
-Nach Operationen, bei Verletzungen, Koliken (z. B. Gallensteine) oder Krebserkrankungen.Fieber: Wenn anderes fiebersenkendes Mittel nicht anschlägt.Besonderheit: Es wirkt im Gegensatz zu Ibuprofen oder ASS nicht entzündungshemmend.
+- Nach Operationen
+- bei Verletzungen
+- bei Koliken (z. B. Gallensteine) 
+- bei Krebserkrankungen.
 
-### Darreichungsformen & EinnahmeVerschreibungspflichtig: 
+- Fieber: 
 
-In Deutschland ist es rezeptpflichtig (in Österreich und der Schweiz bedarf es ebenfalls eines Rezepts).Formen: Es ist als Tropfen und Tabletten zur oralen Einnahme sowie als Injektionslösung erhältlich.Wirkungseintritt: Tritt meist sehr schnell, innerhalb von 30 bis 60 Minuten ein.
+Wenn anderes fiebersenkendes Mittel nicht anschlägt.
+
+- Besonderheit: 
+
+Es wirkt im Gegensatz zu Ibuprofen oder ASS nicht entzündungshemmend.
+
+### Darreichungsformen & Einnahme
+
+- Verschreibungspflichtig: 
+
+In Deutschland ist es rezeptpflichtig 
+(in Österreich und der Schweiz bedarf es ebenfalls eines Rezepts).
+
+- Formen: 
+
+Es ist als Tropfen und Tabletten zur oralen Einnahme sowie als Injektionslösung erhältlich.
+
+- Wirkungseintritt: 
+
+Tritt meist sehr schnell, innerhalb von 30 bis 60 Minuten ein.
 
 ### Wichtige Hinweise & RisikenNebenwirkungen: 
 
-Ein plötzlicher Blutdruckabfall ist möglich, insbesondere bei schneller intravenöser Gabe.Agranulozytose: Eine sehr seltene, aber potenziell lebensbedrohliche Nebenwirkung ist die Agranulozytose (ein extremer Mangel an bestimmten weißen Blutkörperchen, der das Immunsystem schwächt). Bei plötzlichem Fieber, Halsschmerzen oder Entzündungen im Mund sollte sofort ein Arzt aufgesucht werden.Kontraindikation: Darf nicht in der Schwangerschaft (besonders letztes Drittel), bei bestimmten Vorerkrankungen (z. B. Asthma, Knochenmarkschädigung) oder bei Unverträglichkeit eingenommen werden.
+Ein plötzlicher Blutdruckabfall ist möglich, insbesondere bei schneller 
+intravenöser Gabe.
+
+- Agranulozytose: 
+
+Eine sehr seltene, aber **potenziell lebensbedrohliche Nebenwirkung** 
+ist die `Agranulozytose` (ein extremer Mangel an bestimmten weißen Blutkörperchen, 
+der das Immunsystem schwächt). 
+
+Bei plötzlichem Fieber, Halsschmerzen oder Entzündungen im Mund sollte sofort 
+ein Arzt aufgesucht werden.
+
+- Kontraindikation: 
+
+Darf nicht in der Schwangerschaft (besonders letztes Drittel), bei bestimmten 
+Vorerkrankungen (z. B. Asthma, Knochenmarkschädigung) oder bei Unverträglichkeit 
+eingenommen werden.
 
 ---
 
@@ -262,6 +309,37 @@ Es wird in der Medizin vor allem bei starken bis sehr starken Schmerzen eingeset
 
 Als sogenannte `Prodrug` entfaltet Tilidin seine schmerzstillende Wirkung nicht sofort. 
 
-Erst wenn es im Körper, hauptsächlich in der Leber, zu Nortilidin umgewandelt wird, kann es im zentralen Nervensystem die Schmerzsignale dämpfen.Darreichungsformen: Es wird meist als Tropfen oder Retardtablette (verzögerte Wirkstofffreisetzung über 12 Stunden) verschrieben.Sicherheit durch Naloxon: Um Missbrauch und eine Überdosierung zu verhindern, wird Tilidin in der Regel in Kombination mit Naloxon verabreicht. Naloxon hebt die opioide Wirkung bei Überdosierung auf und blockiert den "Rausch"-Effekt, wenn Tabletten zerkaut oder unrechtmäßig hoch dosiert werden.Nebenwirkungen: Typische Begleitsymptome bei der Einnahme sind Übelkeit, Schwindel, Müdigkeit, Benommenheit und Verstopfung.Abhängigkeitspotenzial: Tilidin birgt ein hohes Suchtpotenzial. Daher darf es nur streng nach ärztlicher Anweisung eingenommen und nach längerer Nutzung keinesfalls abrupt abgesetzt werden, um Entzugserscheinungen zu vermeiden.
+Erst wenn es im Körper, hauptsächlich in der Leber, zu `Nortilidin` umgewandelt wird, 
+kann es im zentralen Nervensystem die Schmerzsignale dämpfen.
+
+- Darreichungsformen: 
+
+Es wird meist als `Tropfen` oder `Retardtablette` (verzögerte Wirkstofffreisetzung über 12 Stunden) verschrieben.
+
+- Sicherheit durch `Naloxon`: 
+
+Um Missbrauch und eine `Überdosierung` zu verhindern, wird Tilidin in der Regel 
+in Kombination mit `Naloxon` verabreicht. 
+
+Naloxon hebt die opioide Wirkung bei Überdosierung auf und blockiert den "Rausch"-Effekt, 
+wenn Tabletten zerkaut oder unrechtmäßig hoch dosiert werden.
+
+- Nebenwirkungen: 
+
+Typische `Begleitsymptome` bei der Einnahme sind 
+
+    - Übelkeit 
+    - Schwindel 
+    - Müdigkeit 
+    - Benommenheit 
+    - Verstopfung
+
+- Abhängigkeitspotenzial: 
+
+Tilidin birgt ein hohes Suchtpotenzial. 
+
+Daher darf es nur streng nach ärztlicher Anweisung eingenommen und 
+nach längerer Nutzung keinesfalls abrupt abgesetzt werden, um 
+Entzugserscheinungen zu vermeiden.
 
 ---

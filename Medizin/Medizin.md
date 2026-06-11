@@ -10,9 +10,13 @@
 
 [Novalgin: Warum ich es als Arzt nur im Notfall verschreibe. DoktorWeigl](https://www.youtube.com/watch?v=_Y5sMndVL9U&t=14s)   
 
+[Diclofenac gefährlich? Tipps zu Dosierung, Wirkung & Nebenwirkungen vom Arzt DoktorWeigl](https://www.youtube.com/watch?v=4eT9_fOKOO4)
+
 [Hochdosiertes Magnesium: Diesen Fehler machen die meisten Menschen DoktorWeigl](https://www.youtube.com/watch?v=UtPIZwgiQFo)  
 
-[Diclofenac gefährlich? Tipps zu Dosierung, Wirkung & Nebenwirkungen vom Arzt DoktorWeigl](https://www.youtube.com/watch?v=4eT9_fOKOO4)
+---
+
+## Nahrungsergänzungsmittel, Nährstoffe (Supplements)
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
 

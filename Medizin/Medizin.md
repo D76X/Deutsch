@@ -20,6 +20,12 @@
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
 
+1. Vitamin D:
+
+- Es ist ein fettlöslich Vitamin
+- Ein guter Vitamin-D Wert ist 50 nanomol pro Liter
+- Von ein Mangel spricht man wenn der Wert ist unter 30 nanomol pro Liter  
+
 [Diese Nährstoffe bekämpfen Tumorzellen im Körper DoktorWeigl](https://www.youtube.com/watch?v=laLjHHnYrqc)  
 
 [Krank durch Nahrungsergänzungsmittel DoktorWeigl](https://www.youtube.com/watch?v=wL2LV5W8Ijk)  

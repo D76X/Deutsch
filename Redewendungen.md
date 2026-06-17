@@ -6,6 +6,42 @@
 
 ---
 
+## zwei Fliegen mit einer Klappe schlagen
+
+[Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
+---
+
+## Ich habe schon Pferde vor der Apotheke kotzen sehen
+
+[Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
+Der Spruch „Ich habe schon Pferde vor der Apotheke kotzen sehen“ 
+ist eine umgangssprachliche deutsche Redewendung. Sie wird verwendet, 
+um auszudrücken, dass absolut nichts unmöglich ist und man selbst die
+unwahrscheinlichsten Dinge schon einmal erlebt hat.
+
+Die Redewendung stützt sich auf zwei bizarre Bilder:
+
+- Die Biologie: 
+
+Pferde können anatomisch bedingt nicht erbrechen. Ihr Magen ist so 
+konstruiert, dass Futter nur in eine Richtung transportiert werden 
+kann. Ein Pferd kotzen zu sehen, ist also rein physisch betrachtet 
+eigentlich unmöglich.
+
+- Der Ort: 
+
+Die Apotheke im Spruch dient als rein absurde Verstärkung dieses 
+ohnehin schon unmöglichen Ereignisses. Sie unterstreicht, dass 
+selbst Dinge passieren könnten, für die man eigentlich medikamentöse 
+Hilfe bräuchte.
+
+Je nach Kontext wird der Spruch oft schlicht auf 
+„Ich habe schon Pferde kotzen sehen“ verkürzt. 
+
+---
+
 das [Brett](https://www.collinsdictionary.com/dictionary/german-english/brett) > die Bretter
 Die Dübel werden, um die Bretter miteinander zu verbinden.
 > Ich habe heute ein Brett vor dem Kopf. (= Ich kann heute nicht richtig denken)

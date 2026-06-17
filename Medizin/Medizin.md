@@ -1,8 +1,11 @@
 
 # Medizin
 
+---
 
 # DoktorWeigl
+
+[Unsere Produkte für Ihre Gesund­heit und Ihr Wissen](https://shop.doktorweigl.de/)   
 
 [Schmerzmittel Ibuprofen & Diclofenac - Wirkung und Nebenwirkungen // IHR Medikamenten-Check DoktorWeigl](https://www.youtube.com/watch?v=nsK9UAPvfPw&t=17s)  
 
@@ -19,6 +22,8 @@
 ## Nahrungsergänzungsmittel, Nährstoffe (Supplements)
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
+[Mangel an Vitamin D? Auf diese Symptome achten: Erste Anzeichen und was Sie tun können! DoktorWeigl](https://www.youtube.com/watch?v=QLn1P1A1gpA)  
 
 1. Vitamin D:
 

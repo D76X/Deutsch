@@ -2,6 +2,23 @@
 
 ## Wortschatz
 
+---
+
+[erwiesenermaßen](https://www.collinsdictionary.com/dictionary/german-english/erwiesenermassen)  
+= [nachgewiesenermaßen](https://www.collinsdictionary.com/dictionary/german-english/nachgewiesenermassen)  
+
+Der Angeklagte ist erwiesenermaßen schuldig.
+
+Der [Beweis](https://www.collinsdictionary.com/dictionary/german-english/beweis).
+[beweisbar](https://www.collinsdictionary.com/dictionary/german-english/beweisbar)    
+
+Es gibt klarer  für etwas.
+Es gibt kein Beweis dafür.
+Den Beweis für etwas antreten / suchen / erbringen.
+Jedem Beweis für etwas geben.
+Es ist (nicht) beweisbar.
+
+---
 
 Christbäume **Abruf**
 der [Anruf](https://www.collinsdictionary.com/dictionary/german-english/abruf)  

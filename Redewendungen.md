@@ -10,6 +10,8 @@
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
 
+Ich nehem immer Vitamin-D-Supplementen zusammen mit Fett, z.B. Nüsse oder so,
+
 ---
 
 ## Ich habe schon Pferde vor der Apotheke kotzen sehen

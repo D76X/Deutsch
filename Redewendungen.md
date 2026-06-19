@@ -6,6 +6,23 @@
 
 ---
 
+## fertig ist die Kiste! [that's done!]
+
+[FreeCAD - LIVE - EP. 02 - Weiteres zum FreeCAD Sketcher - 19. April 10 Uhr MESZ Stolz3D | CAD done right](https://www.youtube.com/watch?v=7SCAcvgPrtQ)   
+
+Na gut, ein weitere Änderung dort drüber auf der Skizze und fertig ist die Kiste!
+
+die [Kiste](https://www.collinsdictionary.com/dictionary/german-english/kiste)  
+die [Skizze](https://www.collinsdictionary.com/dictionary/german-english/skizze)  
+
+[drüber](https://www.collinsdictionary.com/dictionary/german-english/druber)
+=
+[darüber](https://www.collinsdictionary.com/dictionary/german-english/daruber)
+=
+[hinüber](https://www.collinsdictionary.com/dictionary/german-english/hinuber)
+
+---
+
 ## zwei Fliegen mit einer Klappe schlagen
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   

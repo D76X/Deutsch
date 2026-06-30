@@ -1,4 +1,23 @@
-## Informelle verbale Kommunikation
+# Informelle verbale Kommunikation
+
+
+---
+
+## Ohne Gewähr
+
+[FreeCAD - LIVE - EP. 02 - More on FreeCAD Sketcher - April 19, 10 AM CEST Stolz3D | CAD done right](https://www.youtube.com/watch?v=7SCAcvgPrtQ&t=2736s)  
+
+Man könnte es so tun, aber wie gesagt, Ohne Gewähr! 
+Es könnte auf diesem Weg ihm vielleicht gelingen, aber wie gesagt: Ohne Gewähr! 
+
+„Alle Angaben ohne Gewähr“ (z. B. bei Immobilienanzeigen, Wettervorhersagen oder Fahrplänen).
+
+- Bedeutung: 
+
+Die Information wurde nach bestem Wissen gegeben, aber wenn sie falsch ist oder 
+sich ändert, kann der Empfänger den Überbringer nicht haftbar machen.
+
+---
 
 **Wie soll denn da jemals was daraus werden?**  
 Nach…. 

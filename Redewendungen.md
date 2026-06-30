@@ -6,6 +6,17 @@
 
 ---
 
+## Viel hilft viel!
+
+[Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
+Das Motto „Viel hilft viel“ (oder more is more) klingt verlockend, führt aber in 
+vielen Bereichen eher zu Überlastung oder Verschwendung als zum gewünschten Ziel.
+
+> Viel hilft viel? Wirklich?
+
+---
+
 ## fertig ist die Kiste! [that's done!]
 
 [FreeCAD - LIVE - EP. 02 - Weiteres zum FreeCAD Sketcher - 19. April 10 Uhr MESZ Stolz3D | CAD done right](https://www.youtube.com/watch?v=7SCAcvgPrtQ)   

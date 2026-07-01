@@ -38,16 +38,24 @@ die [Blutplättchen](https://www.collinsdictionary.com/dictionary/german-english
 [verklumpen](https://www.collinsdictionary.com/dictionary/german-english/verklumpen)  
 [stillen](https://www.collinsdictionary.com/dictionary/german-english/stillen)  
 [entzundungshemmend](https://www.collinsdictionary.com/dictionary/german-english/entzundungshemmend)  
+der [Einfluss](https://www.collinsdictionary.com/dictionary/german-english/einfluss)  
+> einen Einfluss auf etwas haben
+der [Blutkreislauf](https://www.collinsdictionary.com/dictionary/german-english/blutkreislauf)  
+> der Herzkreislauf
 
 - Omega-3-Fettsäuren: 
 
 Sie sind lebensnotwendig, weil der Körper sie nicht selbst herstellen kann, deshalb mussen wir **über die Nahrung aufnehmen**.
+Ein Mangel an den Omega-3-Fettsäuren-Kofaktoren kann **zu schwerweigenden Erkrankungen führen**.
+
 Sie sorgen dass:
 
     - Die Blutplättchen nicht verklumpen
     - Sie können erhörte **Triglizeridwerte und Blutfettwerte senken**
     - Sie unterstüzen die Zellebildung
     - Sie haben eine **entzundungshemmende Funktion**, deshalb stillen sie Entzündungen in Körper 
+    - Sie haben einen großen Einfluss auf die **Herzkreislaufgesundheit**
+    
 
 - 
 

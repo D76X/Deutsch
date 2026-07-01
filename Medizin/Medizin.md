@@ -24,8 +24,32 @@
 ## Nahrungsergänzungsmittel, Nährstoffe (Supplements)
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
-
 [Mangel an Vitamin D? Auf diese Symptome achten: Erste Anzeichen und was Sie tun können! DoktorWeigl](https://www.youtube.com/watch?v=QLn1P1A1gpA)  
+[Kofaktoren: Nimmst du Vitamin D falsch ein? Wegen diesen Einnahmefehlern steigt dein Vitamin D nicht DoktorWeigl](https://www.youtube.com/watch?v=WWUTS8ati7Q)  
+
+[Warum dieses Öl so genial ist DoktorWeigl](https://www.youtube.com/watch?v=8m3c5TYT_84)  
+
+2. Notwendige Kofaktoren
+
+die [Drogerie](https://www.collinsdictionary.com/dictionary/german-english/drogerie)
+Man kann üblicherweise Kapseln von allen notwendigen Kofaktoren in der Drogerie sehen.  
+
+die [Blutplättchen](https://www.collinsdictionary.com/dictionary/german-english/blutplattchen)  
+[verklumpen](https://www.collinsdictionary.com/dictionary/german-english/verklumpen)  
+[stillen](https://www.collinsdictionary.com/dictionary/german-english/stillen)  
+[entzundungshemmend](https://www.collinsdictionary.com/dictionary/german-english/entzundungshemmend)  
+
+- Omega-3-Fettsäuren: 
+
+Sie sind lebensnotwendig, weil der Körper sie nicht selbst herstellen kann, deshalb mussen wir **über die Nahrung aufnehmen**.
+Sie sorgen dass:
+
+    - Die Blutplättchen nicht verklumpen
+    - Sie können erhörte **Triglizeridwerte und Blutfettwerte senken**
+    - Sie unterstüzen die Zellebildung
+    - Sie haben eine **entzundungshemmende Funktion**, deshalb stillen sie Entzündungen in Körper 
+
+- 
 
 1. Vitamin D:
 

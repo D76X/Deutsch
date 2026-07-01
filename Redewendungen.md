@@ -6,6 +6,13 @@
 
 ---
 
+# mit jdm / etw Schindluder treiben
+
+das [Schindluder](https://www.collinsdictionary.com/dictionary/german-english/schindluder)  
+> mit seiner Gesundheit/seinen Kräften Schindluder treiben 
+
+---
+
 ## Viel hilft viel!
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
@@ -389,10 +396,27 @@ Wenn man die Lotterie spielt, hofft man mit der Wurst nach der Speckseite zu wer
 
 \[the moment of truth\] Letztlich kann man die Entertaste drücken und **jetzt geht es um die Wurst**.
 
-#### da liegt der Hase im Pfeffer
+#### da liegt der Hase im Pfeffer [the crux of the matter]
 
 [der Hase](https://www.collinsdictionary.com/dictionary/german-english/hase)  
-Wenn die Rede ist **von** Umwelt[**schonung**](https://www.collinsdictionary.com/dictionary/german-english/schonung) oder [Energiewende](https://www.collinsdictionary.com/dictionary/german-english/energiewende), denn man muss unbedingt etwas auf einige Themen wie z.B. die Stromversorgung, die Industrie, de**n** [Verkehr](https://www.collinsdictionary.com/dictionary/german-english/verkehr) (m) wissen 
+
+Die Redewendung „da liegt der Hase im Pfeffer“ bedeutet, dass hier der entscheidende Punkt, 
+die eigentliche Ursache eines Problems oder die wesentliche Schwierigkeit einer Situation liegt.
+
+[Externe Geometrie - FreeCAD 1.1 ändert den Standard und du solltest es wissen! Stolz3D | CAD done right](https://www.youtube.com/watch?v=Al1wcNClpI8&t=257s)  
+[projizieren](https://www.collinsdictionary.com/dictionary/german-english/projizieren)  
+
+Rein projizierte Geometrie wird nicht automatisch als Hilfsgeometrie gesetzt, da liegt der Hase im Pfeffer!
+
+Wenn die Rede ist von Umweltschonung oder Energiewende, denn man muss unbedingt etwas auf einige Themen 
+wie z.B. die Stromversorgung, die Industrie, den Verkehr wissen; da liegt der Hase im Pfeffer! 
+
+die [Schonung**](https://www.collinsdictionary.com/dictionary/german-english/schonung)
+die [Energiewende](https://www.collinsdictionary.com/dictionary/german-english/energiewende)
+der [Verkehr](https://www.collinsdictionary.com/dictionary/german-english/verkehr)
+
+Wenn die Rede ist **von** Umweltschonung oder Energiewende, denn man muss unbedingt etwas auf einige 
+Themen wie z.B. die Stromversorgung, die Industrie, den Verkehr wissen; da liegt der Hase im Pfeffer!  
 
 #### mein Name ist Hase(, ich weiß von nichts) 
 

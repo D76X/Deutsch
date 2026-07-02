@@ -42,6 +42,7 @@ der [Einfluss](https://www.collinsdictionary.com/dictionary/german-english/einfl
 > einen Einfluss auf etwas haben
 der [Blutkreislauf](https://www.collinsdictionary.com/dictionary/german-english/blutkreislauf)  
 > der Herzkreislauf
+die [Prävention](https://www.collinsdictionary.com/dictionary/german-english/pravention)  
 
 - Omega-3-Fettsäuren: 
 
@@ -55,9 +56,48 @@ Sie sorgen dass:
     - Sie unterstüzen die Zellebildung
     - Sie haben eine **entzundungshemmende Funktion**, deshalb stillen sie Entzündungen in Körper 
     - Sie haben einen großen Einfluss auf die **Herzkreislaufgesundheit**
-    
+    - Sie sind sehr wichtig und wirksam **bei** der **Prävention** von **Demenzerkrankung**
 
-- 
+ALA, EPA und DHA sind die drei wichtigsten Vertreter der essenziellen Omega-3-Fettsäuren. 
+Sie sind lebenswichtige Nährstoffe für den menschlichen Körper, da sie nicht selbst produziert 
+und nur über die Nahrung aufgenommen werden können.
+
+Zu den drei wichtigsten Omega-3-Fettsäuren gehören:
+
+1. ALA (Alpha-Linolensäure): 
+
+Ist die pflanzliche Vorstufe der Omega-3-Fettsäuren. 
+Sie kommt in pflanzlichen Ölen wie `Leinöl` und in Lebensmitteln wie **Walnüssen** oder **Chiasamen** vor.
+
+- Die Umwandlung von ALA: 
+
+Der Körper kann ALA teilweise in die aktiven Formen EPA und DHA umwandeln. 
+Diese Umwandlungsrate ist jedoch sehr gering (oft unter 10 %). 
+Daher ist es ratsam, EPA und DHA direkt aus marinen Quellen (wie fettem Fisch oder veganem Algenöl) 
+zu beziehen.
+
+2. EPA (Eicosapentaensäure): 
+
+Ist eine langkettige Omega-3-Fettsäure, die essenzielle entzündungshemmende Eigenschaften besitzt 
+und für das Herz-Kreislauf-System wichtig ist. Sie ist direkt in fettem `Meeresfisch`
+(z. B. Lachs oder Makrele) und `Mikroalgen` enthalten.
+
+3. DHA (Docosahexaensäure): 
+
+die [Sehkraft](https://www.collinsdictionary.com/dictionary/german-english/sehkraft)  
+> die Behaltung der Sehkraft
+
+Ist ebenfalls eine langkettige Omega-3-Fettsäure und ein essenzieller Baustein der Zellmembranen. 
+Sie ist maßgeblich an der `Gehirnfunktion` und der Erhaltung der `Sehkraft` beteiligt. 
+Sie findet sich in denselben marinen Quellen wie EPA.
+
+- Nüssen
+- Fischölkapseln
+- Mikroalgenkapseln
+- Algenölkapseln
+
+---
+
 
 1. Vitamin D:
 

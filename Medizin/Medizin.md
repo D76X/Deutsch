@@ -29,6 +29,10 @@
 
 [Warum dieses Öl so genial ist DoktorWeigl](https://www.youtube.com/watch?v=8m3c5TYT_84)  
 
+[Lose Belly Fat With This Genius Trick - NEW STUDY DoktorWeigl](https://www.youtube.com/watch?v=1w8nerNl5xQ&t=4s)  
+
+---
+
 2. Notwendige Kofaktoren
 
 die [Drogerie](https://www.collinsdictionary.com/dictionary/german-english/drogerie)
@@ -39,10 +43,15 @@ die [Blutplättchen](https://www.collinsdictionary.com/dictionary/german-english
 [stillen](https://www.collinsdictionary.com/dictionary/german-english/stillen)  
 [entzundungshemmend](https://www.collinsdictionary.com/dictionary/german-english/entzundungshemmend)  
 der [Einfluss](https://www.collinsdictionary.com/dictionary/german-english/einfluss)  
+
 > einen Einfluss auf etwas haben
 der [Blutkreislauf](https://www.collinsdictionary.com/dictionary/german-english/blutkreislauf)  
+
 > der Herzkreislauf
 die [Prävention](https://www.collinsdictionary.com/dictionary/german-english/pravention)  
+
+[zurückgreifen](https://www.collinsdictionary.com/dictionary/german-english/zuruckgreifen)
+Auf Supplemente zurückgreifen.
 
 - Omega-3-Fettsäuren: 
 

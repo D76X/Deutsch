@@ -2,6 +2,18 @@
 
 ## Wortschatz
 
+
+---
+
+[unumstößlich](https://www.collinsdictionary.com/dictionary/german-english/unumstosslich)
+
+Lange Zeit galt es nähmlich in der Sportwissenschaft, und in der Sportmedizin
+als absolut unumstößliches Gesetz, dass gezielter Fetterbau an einer frei 
+wählbare Körperstelle, also z.B. nur am Bauch, technisch vollkommen unmöglich ist.
+
+Man ging fest davon aus, dass unser Körper immer nur nur systemisch, also gleichmäßich über
+den gesamten Organismus, verteilt verbrennt.
+
 ---
 
 [erwiesenermaßen](https://www.collinsdictionary.com/dictionary/german-english/erwiesenermassen)  

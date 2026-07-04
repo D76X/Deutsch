@@ -23,12 +23,25 @@
 ## Nahrungsergänzungsmittel, Nährstoffe (Supplements)
 
 [Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
 [Mangel an Vitamin D? Auf diese Symptome achten: Erste Anzeichen und was Sie tun können! DoktorWeigl](https://www.youtube.com/watch?v=QLn1P1A1gpA)  
+
 [Kofaktoren: Nimmst du Vitamin D falsch ein? Wegen diesen Einnahmefehlern steigt dein Vitamin D nicht DoktorWeigl](https://www.youtube.com/watch?v=WWUTS8ati7Q)  
 
 [Warum dieses Öl so genial ist DoktorWeigl](https://www.youtube.com/watch?v=8m3c5TYT_84)  
 
+---
+
 [Lose Belly Fat With This Genius Trick - NEW STUDY DoktorWeigl](https://www.youtube.com/watch?v=1w8nerNl5xQ&t=4s)  
+
+[unumstößlich](https://www.collinsdictionary.com/dictionary/german-english/unumstosslich)
+
+Lange Zeit galt es nähmlich in der Sportwissenschaft, und in der Sportmedizin
+als absolut unumstößliches Gesetz, dass gezielter Fetterbau an einer frei 
+wählbare Körperstelle, also z.B. nur am Bauch, technisch vollkommen unmöglich ist.
+
+Man ging fest davon aus, dass unser Körper immer nur nur systemisch, also gleichmäßich über
+den gesamten Organismus, verteilt verbrennt.
 
 ---
 

@@ -30,6 +30,8 @@
 
 [Warum dieses Öl so genial ist DoktorWeigl](https://www.youtube.com/watch?v=8m3c5TYT_84)  
 
+[Großer ALDI-Haul: Proteinreiche Superfoods für den nächsten Einkauf DoktorWeigl](https://www.youtube.com/watch?v=7qzGw4l5hmU)  
+
 ---
 
 [Lose Belly Fat With This Genius Trick - NEW STUDY DoktorWeigl](https://www.youtube.com/watch?v=1w8nerNl5xQ&t=4s)  

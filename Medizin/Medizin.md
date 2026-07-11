@@ -22,8 +22,6 @@
 
 ## Nahrungsergänzungsmittel, Nährstoffe (Supplements)
 
-[Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
-
 [Mangel an Vitamin D? Auf diese Symptome achten: Erste Anzeichen und was Sie tun können! DoktorWeigl](https://www.youtube.com/watch?v=QLn1P1A1gpA)  
 
 [Kofaktoren: Nimmst du Vitamin D falsch ein? Wegen diesen Einnahmefehlern steigt dein Vitamin D nicht DoktorWeigl](https://www.youtube.com/watch?v=WWUTS8ati7Q)  
@@ -31,6 +29,21 @@
 [Warum dieses Öl so genial ist DoktorWeigl](https://www.youtube.com/watch?v=8m3c5TYT_84)  
 
 [Großer ALDI-Haul: Proteinreiche Superfoods für den nächsten Einkauf DoktorWeigl](https://www.youtube.com/watch?v=7qzGw4l5hmU)  
+
+---
+
+[Dietary supplements, vitamin D, omega 3, protein shakes, supplements, microalgae oil, cofactors DoktorWeigl](https://www.youtube.com/watch?v=JaO2KrY7_A0&t=15s)   
+
+> dennoch, doch trotz, trotzdem, nichtsdestotrotz, nichtsdestoweniger, immer noch, nach wie vor, 
+
+Nahrungsergänzungsmittel **sein**, **wie der Name schon sagt**, eine Ergänzung zu einer ausgewogenen Nahrung.
+Man soll nie eine ausgewogene Nahrung mit Nahrungsergänzungsmitteln ersetzen.
+Außerdem **gibt es eine Reihe** von Nahrungsergänzungsmitteln, die sinnvoll **sind** regelmäßig (zu sich) zu nehemen.
+Man kann Nahrungsergänzungsmittel **in den meisten Fällen** **schon von über Vierzig** vernünftig **verwenden**.
+Es ist oft der Fall, mit über Vierzig, dass alle Blutwerte doch im Normbereich sind. 
+Jedoch, gleich wenn doch dieser der Fall ist, soll man, mit über Vierzig, etwa Speicher bilden.
+**Dennoch** ist es empfehlenswert, Nahrungsergänzungsmittel in Kombination mit einer ausgewogenen Nahrung über sich zu nehmen, um überhaupt diese Speicher **über die Zeit** zu bilden.
+Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden.
 
 ---
 
@@ -44,6 +57,19 @@ wählbare Körperstelle, also z.B. nur am Bauch, technisch vollkommen unmöglich
 
 Man ging fest davon aus, dass unser Körper immer nur nur systemisch, also gleichmäßich über
 den gesamten Organismus, verteilt verbrennt.
+
+---
+
+[-10 kg Gewicht mit diesen Lebensmitteln DoktorWeigl](https://www.youtube.com/watch?v=hwDip2MflDA)  
+
+der [Mückenstich](https://www.collinsdictionary.com/dictionary/german-english/muckenstich)  
+die [Metapher](https://www.collinsdictionary.com/dictionary/german-english/metapher)  
+die [Quaddel](https://www.collinsdictionary.com/dictionary/german-english/quaddel)  
+
+
+Die Mückenstichmetapher erleutärn.
+Man kann eine juckende Quaddel bilden nach einem Mückenstich.
+Man will auf der Quaddel kratzen, weil sie lästig ist.
 
 ---
 

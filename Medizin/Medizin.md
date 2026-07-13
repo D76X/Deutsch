@@ -36,6 +36,9 @@
 
 > dennoch, doch trotz, trotzdem, nichtsdestotrotz, nichtsdestoweniger, immer noch, nach wie vor, 
 
+die [Ernährung](https://www.collinsdictionary.com/dictionary/german-english/ernahrung)  
+die [Nahrung](https://www.collinsdictionary.com/dictionary/german-english/nahrung)  
+
 Nahrungsergänzungsmittel **sein**, **wie der Name schon sagt**, eine Ergänzung zu einer ausgewogenen Nahrung.
 Man soll nie eine ausgewogene Nahrung mit Nahrungsergänzungsmitteln ersetzen.
 Außerdem **gibt es eine Reihe** von Nahrungsergänzungsmitteln, die sinnvoll **sind** regelmäßig (zu sich) zu nehemen.
@@ -43,7 +46,7 @@ Man kann Nahrungsergänzungsmittel **in den meisten Fällen** **schon von über 
 Es ist oft der Fall, mit über Vierzig, dass alle Blutwerte doch im Normbereich sind. 
 Jedoch, gleich wenn doch dieser der Fall ist, soll man, mit über Vierzig, etwa Speicher bilden.
 **Dennoch** ist es empfehlenswert, Nahrungsergänzungsmittel in Kombination mit einer ausgewogenen Nahrung über sich zu nehmen, um überhaupt diese Speicher **über die Zeit** zu bilden.
-Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden.
+Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden, deshalb soll man frühzeitig für diese ausgleichen.
 
 ---
 

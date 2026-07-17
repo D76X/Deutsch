@@ -48,6 +48,13 @@ Jedoch, gleich wenn doch dieser der Fall ist, soll man, mit über Vierzig, etwa 
 **Dennoch** ist es empfehlenswert, Nahrungsergänzungsmittel in Kombination mit einer ausgewogenen Nahrung über sich zu nehmen, um überhaupt diese Speicher **über die Zeit** zu bilden.
 Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden, deshalb soll man frühzeitig für diese ausgleichen.
 
+Woran erkennt man einen Mangel überhaupt? 
+
+---
+
+[Leere Mitochondrien? Warum sind Sie chronisch müde trotz gesundem Lebensstil? DoktorWeigl](https://www.youtube.com/watch?v=724t68jL3Xo)  
+
+
 ---
 
 [Lose Belly Fat With This Genius Trick - NEW STUDY DoktorWeigl](https://www.youtube.com/watch?v=1w8nerNl5xQ&t=4s)  

@@ -50,6 +50,11 @@ Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden, deshalb
 
 Woran erkennt man einen Mangel überhaupt? 
 
+> als Faustregel [rule of thumb]
+
+Als Faustregel soll man **ab Mitte fünfzig** supplementieren, aber nicht 
+ohne vorheriges Gespräch mit dem Hausarzt über die Blutbildwerte. 
+
 ---
 
 [Leere Mitochondrien? Warum sind Sie chronisch müde trotz gesundem Lebensstil? DoktorWeigl](https://www.youtube.com/watch?v=724t68jL3Xo)  

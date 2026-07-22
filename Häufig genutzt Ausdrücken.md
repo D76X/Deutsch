@@ -1,5 +1,12 @@
 # Häufig genutzt Ausdrücken
 
+> als Faustregel [rule of thumb]
+
+Als Faustregel soll man **ab Mitte fünfzig** supplementieren, aber nicht 
+ohne vorheriges Gespräch mit dem Hausarzt über die Blutbildwerte. 
+
+---
+
 der [Pfenning](https://www.collinsdictionary.com/dictionary/german-english/pfennig)  
 [umdrehen](https://www.collinsdictionary.com/dictionary/german-english/umdrehen)  
 

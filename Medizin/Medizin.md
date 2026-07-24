@@ -41,11 +41,15 @@ die [Nahrung](https://www.collinsdictionary.com/dictionary/german-english/nahrun
 
 Nahrungsergänzungsmittel **sein**, **wie der Name schon sagt**, eine Ergänzung zu einer ausgewogenen Nahrung.
 Man soll nie eine ausgewogene Nahrung mit Nahrungsergänzungsmitteln ersetzen.
+
 Außerdem **gibt es eine Reihe** von Nahrungsergänzungsmitteln, die sinnvoll **sind** regelmäßig (zu sich) zu nehemen.
 Man kann Nahrungsergänzungsmittel **in den meisten Fällen** **schon von über Vierzig** vernünftig **verwenden**.
+
 Es ist oft der Fall, mit über Vierzig, dass alle Blutwerte doch im Normbereich sind. 
 Jedoch, gleich wenn doch dieser der Fall ist, soll man, mit über Vierzig, etwa Speicher bilden.
+
 **Dennoch** ist es empfehlenswert, Nahrungsergänzungsmittel in Kombination mit einer ausgewogenen Nahrung über sich zu nehmen, um überhaupt diese Speicher **über die Zeit** zu bilden.
+
 Wir wissen, dass mit dem Alter die Blutwerte generell schlechter werden, deshalb soll man frühzeitig für diese ausgleichen.
 
 Woran erkennt man einen Mangel überhaupt? 
@@ -54,6 +58,16 @@ Woran erkennt man einen Mangel überhaupt?
 
 Als Faustregel soll man **ab Mitte fünfzig** supplementieren, aber nicht 
 ohne vorheriges Gespräch mit dem Hausarzt über die Blutbildwerte. 
+
+das [Symptom](https://www.collinsdictionary.com/dictionary/german-english/symptom)
+> ein (un)spezifishes Symptom > unspezifische Symptome
+Das Problem mit Vitamin-D-Mangel ist, dass die Symptome immer unspezifisch sind.
+Die Liste
+
+- Muskelschäche 
+- Knochenschmerzen
+- Stimmungsveränderung
+- Erschöpfung
 
 ---
 

@@ -62,7 +62,10 @@ ohne vorheriges Gespräch mit dem Hausarzt über die Blutbildwerte.
 das [Symptom](https://www.collinsdictionary.com/dictionary/german-english/symptom)
 > ein (un)spezifishes Symptom > unspezifische Symptome
 Das Problem mit Vitamin-D-Mangel ist, dass die Symptome immer unspezifisch sind.
-Die Liste
+
+[erleiden](https://www.collinsdictionary.com/dictionary/german-english/erleiden)  > leiden
+> unter etwas leiden
+Die Liste darunter zeigt einige der unspezifischen Symptome, unter deren man leiden kann.
 
 - Muskelschäche 
 - Knochenschmerzen

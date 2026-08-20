@@ -1,11 +1,17 @@
 
 # Cameron Riecker
 
+[Demon Expert Reveals What Every Catholic Needs To Know Cameron Riecker and The Demonologist Podcast](https://www.youtube.com/watch?v=xmz5JVIuekA)   
+
 ## Fatima
+
+[Fátima, Portugal](https://en.wikipedia.org/wiki/F%C3%A1tima,_Portugal)   
 
 [The Largest Miracle Of The 20th Century: Scientifically Proven Cameron Riecker](https://www.youtube.com/watch?v=0kB9QOAVrxI)
 
-[The Largest Miracle Since Jesus Just Proved Catholicism Cameron Riecker](https://www.youtube.com/watch?v=RedO0rmfaGM)  
+[The Largest Miracle Since Jesus Just Proved Catholicism Cameron Riecker](https://www.youtube.com/watch?v=RedO0rmfaGM)   
+
+[Fatima, Portugal: The Story of the ‘Miracle of the Sun’](https://followthecamino.com/en/fatima-portugal-the-story-of-the-miracle-of-the-sun/)   
 
 ---
 
@@ -17,7 +23,9 @@
 
 # BLK SHP Bible Talk
 
-[Genesis’ Numbers Are Built Different BLK SHP Bible Talk](https://www.youtube.com/watch?v=EfdxxeeecBM&t=405s)  
+[Genesis’ Numbers Are Built Different BLK SHP Bible Talk](https://www.youtube.com/watch?v=EfdxxeeecBM&t=405s)   
+
+[Noah vs Gilgamesh: Who Came First? BLK SHP Bible Talk](https://www.youtube.com/watch?v=8vR_lGII7Aw)   
 
 ---
 

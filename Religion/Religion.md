@@ -15,6 +15,14 @@
 
 ---
 
+# Ethan Muse
+
+[Ethan Muse](https://substack.com/@ethanmuse)
+
+[Ethan Muse Graduate Student Profile](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1399-muse-ethan)  
+
+---
+
 # Biblical Bookworm
 
 [I tested Christianity for 5 years (!) Biblical Bookworm](https://www.youtube.com/watch?v=mSVM83aAAbU&t=1264s)  

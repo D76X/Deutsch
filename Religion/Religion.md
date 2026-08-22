@@ -38,6 +38,8 @@
 
 [Noah vs Gilgamesh: Who Came First? BLK SHP Bible Talk](https://www.youtube.com/watch?v=8vR_lGII7Aw)   
 
+[Heaven Isn't the Whole Story BLK SHP Bible Talk](https://www.youtube.com/watch?v=fouffdu6dDk)   
+
 ---
 
 # Religiosity Plus
@@ -55,3 +57,7 @@
 [St. Maria Goretti Gabi After Hours](https://www.youtube.com/watch?v=FjuZJQdEcdg)   
 
 [8,000 Witnesses Swear They Saw It Come to Life Christian Way](https://www.youtube.com/watch?v=D_2BGQj6xRE)  
+
+[Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=1433s)  
+
+---

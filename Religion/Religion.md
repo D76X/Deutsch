@@ -2,6 +2,8 @@
 
 [Demon Expert Reveals What Every Catholic Needs To Know Cameron Riecker and The Demonologist Podcast](https://www.youtube.com/watch?v=xmz5JVIuekA)   
 
+[The Demonologist Podcast](https://www.thedemonologistpodcast.com/)   
+
 ---
 
 # Miracles
@@ -20,9 +22,10 @@
 
 # Ethan Muse
 
-[Ethan Muse](https://substack.com/@ethanmuse)
-
 [Ethan Muse Graduate Student Profile](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1399-muse-ethan)  
+
+[Ethan Muse](https://substack.com/@ethanmuse)
+[St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
 
 ---
 
@@ -59,5 +62,12 @@
 [8,000 Witnesses Swear They Saw It Come to Life Christian Way](https://www.youtube.com/watch?v=D_2BGQj6xRE)  
 
 [Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=1433s)  
+
+[A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)  
+
+## Padre Pio
+
+[The BEST Padre Pio Documentary (His Life and Miracles) Capturing Catholicism](https://www.youtube.com/watch?v=3gZgwnuLC1s&t=24s)    
+[St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
 
 ---

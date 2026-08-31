@@ -4,6 +4,13 @@
 ### man kann nicht über seinen eigenen Schatten springen
 ### sich vor seinem eigenen Schatten fürchten
 
+
+# damit/mit jdm nichts am Hut haben
+
+der [Hut](https://www.collinsdictionary.com/dictionary/german-english/hut)  
+
+nicht zu tun mit jdm / etwas zu tun haben wollen
+
 ---
 
 # mit jdm / etw Schindluder treiben

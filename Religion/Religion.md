@@ -24,8 +24,11 @@
 
 [Ethan Muse Graduate Student Profile](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1399-muse-ethan)  
 
-[Ethan Muse](https://substack.com/@ethanmuse)
+[Ethan Muse](https://substack.com/@ethanmuse)  
+
 [St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
+
+[This Miracle Should Convert Every Protestant with Ethan Muse - Cameron Riecker](https://www.youtube.com/watch?v=eQv_pJEIfzI) 
 
 ---
 
@@ -65,10 +68,25 @@
 
 [A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)  
 
+---
+
 ## Padre Pio
 
+[This Miracle Should Convert Every Protestant with Ethan Muse - Cameron Riecker](https://www.youtube.com/watch?v=eQv_pJEIfzI)   
+
 [The BEST Padre Pio Documentary (His Life and Miracles) Capturing Catholicism](https://www.youtube.com/watch?v=3gZgwnuLC1s&t=24s)    
+
 [St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
+
+---
+
+# Exorcisms
+
+[Fr. Carlos Martins Explains Spiritual Warfare Cameron Riecker](https://www.youtube.com/watch?v=kzVvTclTwcI&t=1290s)   
+
+[LISTEN TO THE INTERNATIONAL HIT PODCAST The Real Case Files Of Exorcist Father Carlos Martins](https://www.exorcistfiles.tv/)  
+
+[The Exorcist Files Podcast Ryan Bethea, Fr. Carlos Martins](https://open.spotify.com/show/4Rs76ZgP5iIwZCs51oHdvk)  
 
 ---
 

@@ -5,7 +5,15 @@
 ### sich vor seinem eigenen Schatten fürchten
 
 
-# damit/mit jdm nichts am Hut haben
+---
+
+## etwas jdm unter die Haut gehen
+
+das geht or dringt unter die Haut [ that gets under one’s skin ]
+
+---
+
+## damit/mit jdm nichts am Hut haben
 
 der [Hut](https://www.collinsdictionary.com/dictionary/german-english/hut)  
 

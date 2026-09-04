@@ -18,6 +18,8 @@
 
 [Fatima, Portugal: The Story of the ‘Miracle of the Sun’](https://followthecamino.com/en/fatima-portugal-the-story-of-the-miracle-of-the-sun/)   
 
+[Miracle Expert Explains The Greatest Miracles Of The 20th Century Cameron Riecker and Magis Center](https://www.youtube.com/watch?v=VwCreT5UhZg)  
+
 ---
 
 # Ethan Muse
@@ -28,7 +30,9 @@
 
 [St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
 
-[This Miracle Should Convert Every Protestant with Ethan Muse - Cameron Riecker](https://www.youtube.com/watch?v=eQv_pJEIfzI) 
+[This Miracle Should Convert Every Protestant with Ethan Muse - Cameron Riecker](https://www.youtube.com/watch?v=eQv_pJEIfzI)  
+
+[Why Ethan Muse Converted to Catholicism Capturing Catholicism](https://www.youtube.com/watch?v=bWv5Ghkb4jw&t=12s)  
 
 ---
 
@@ -78,6 +82,8 @@
 
 [St. Pio of Pietrelcina Inaugurated by Miracles - Part 3 Ethan Muse](https://motivacredibilitatis.substack.com/p/st-pio-of-pietrelcina)  
 
+[Dr. Wanda Półtawska](https://en.wikipedia.org/wiki/Wanda_P%C3%B3%C5%82tawska)  
+
 ---
 
 # Exorcisms
@@ -110,3 +116,18 @@ Having said that, we can take a look at the concept of SANTIFICATION and that of
 
 Why do I say so? If you are still on earth from the moment you have been given SALVATION, you are in Christ and you are supposed to grab it with all your might, 
 all your strength, all your mind, all your soul because nothing more valuable exists anywhere. You MUST pray to be able to keep it, you must pray that the Holy Spirit may live in you and through you, you must pray, accept and welcome all that Jesus is going to lay on your shoulders and the more He gives you, the more you must seek Him and rejoice 
+
+
+---
+
+# Breaking In The Habit
+
+[Understanding Protestants in 20ish Minutes Breaking In The Habit](https://www.youtube.com/watch?v=HIAwaXGrH0U&t=281s)  
+
+---
+
+# Crucifixion
+
+[CHILLING Details About Christ's Crucifixion Most People Don't Know Answers in Genesis](https://www.youtube.com/watch?v=IiY9qVDPwOQ&t=14s)   
+
+---

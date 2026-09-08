@@ -40,6 +40,8 @@
 
 [I tested Christianity for 5 years (!) Biblical Bookworm](https://www.youtube.com/watch?v=mSVM83aAAbU&t=1264s)  
 
+[How many Christians actually wait until marriage - Biblical Bookworm](https://www.youtube.com/watch?v=ubkRoTlgUxU&t=58s)  
+
 ---
 
 # BLK SHP Bible Talk
@@ -58,10 +60,6 @@
 
 ---
 
-[Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! AI Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=803s)   
-
----
-
 # Saints
 
 [St. Maria Goretti Gabi After Hours](https://www.youtube.com/watch?v=FjuZJQdEcdg)   
@@ -71,6 +69,8 @@
 [Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=1433s)  
 
 [A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)  
+
+[Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! AI Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=803s)   
 
 ---
 
@@ -93,6 +93,12 @@
 [LISTEN TO THE INTERNATIONAL HIT PODCAST The Real Case Files Of Exorcist Father Carlos Martins](https://www.exorcistfiles.tv/)  
 
 [The Exorcist Files Podcast Ryan Bethea, Fr. Carlos Martins](https://open.spotify.com/show/4Rs76ZgP5iIwZCs51oHdvk)  
+
+---
+
+# The 10 Commandements
+
+[What "Honor Your Parents" Actually Means in Hebrew Deep Made Simple](https://youtu.be/uXGWlAQ16r4?si=ZyLGZwKkYb-xU_KO)  
 
 ---
 

@@ -66,11 +66,11 @@
 
 [8,000 Witnesses Swear They Saw It Come to Life Christian Way](https://www.youtube.com/watch?v=D_2BGQj6xRE)  
 
+> How to pray:
 [Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=1433s)  
 
+> How to live:
 [A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)  
-
-[Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! AI Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=803s)   
 
 ---
 

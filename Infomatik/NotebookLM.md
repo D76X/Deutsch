@@ -2,6 +2,8 @@
 
 ---
 
+[Gemini Notebook Full Course For Research - Master “NotebookLM 2 0” in 18 Minutes Andy Stapleton](https://www.youtube.com/watch?v=OmHmO-s0Rqo&t=7s)  
+
 [NotebookLM Tutorial / Anleitung 2026 robert Leitinger](https://www.youtube.com/watch?v=ct1TOVa3mHA&t=69s)  
 
 [10 mal Effizienter! - Google NotebookLM Tutorial für Anfänger (deutsch) Akademie für KI](https://www.youtube.com/watch?v=34iV-9LbK8A)  

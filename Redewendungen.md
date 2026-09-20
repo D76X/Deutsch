@@ -3,6 +3,26 @@
 ### man kann nicht über seinen eigenen Schatten springen
 ### sich vor seinem eigenen Schatten fürchten
 
+# jdm auf den Sack gehen
+
+> to get on sb’s tits 
+> belästigen, reizen, aufregen
+der [Sack](https://www.collinsdictionary.com/dictionary/german-english/sack)
+
+Das standardmäßige Menü in FreeCAD sieht aus wie Kraut und Rüben und es geht mit auf den Sack.
+
+---
+
+# Wie Kraut und Rüben sehen / durcheinanderliegen
+
+> untidly, all over the place
+[unordentlich](https://www.collinsdictionary.com/dictionary/german-english/unordentlich)   
+[Unordentlichkeit](https://www.collinsdictionary.com/dictionary/german-english/unordentlichkeit)  
+
+[#147 - FreeCAD 1.x Kurs - Oberfläche Dr. Klipper](https://www.youtube.com/watch?v=c93lhrn4rKE&t=465s)  
+
+Das standardmäßige Menü in FreeCAD sieht aus wie Kraut und Rüben und es belästigt mich.
+
 ---
 
 # Was der Geier! [God knows!]

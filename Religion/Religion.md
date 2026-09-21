@@ -34,6 +34,8 @@
 
 [Why Ethan Muse Converted to Catholicism Capturing Catholicism](https://www.youtube.com/watch?v=bWv5Ghkb4jw&t=12s)  
 
+[If you saw that priest's video, watch this now. Capturing Catholicism](https://www.youtube.com/watch?v=wU0UxTV5rak)   
+
 ---
 
 # Biblical Bookworm

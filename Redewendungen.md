@@ -3,6 +3,16 @@
 ### man kann nicht über seinen eigenen Schatten springen
 ### sich vor seinem eigenen Schatten fürchten
 
+---
+
+# Lange Rede, kurzer Sinn
+>the long and the short of it
+die [Rede](https://www.collinsdictionary.com/dictionary/german-english/rede)  
+
+[#147 - FreeCAD 1.x Kurs - Oberfläche Dr. Klipper](https://www.youtube.com/watch?v=c93lhrn4rKE&t=465s)  
+
+---
+
 # jdm auf den Sack gehen
 
 > to get on sb’s tits 

@@ -4,8 +4,8 @@ The best time to harvest chestnuts in South Tyrol in 2026 is from `early October
 when the fruits reach peak ripeness and drop naturally from the trees.
 
 Generally, the overall season spans from late September until mid-November, aligning with the 
-famous autumn tradition known as `Törggelen`. For this year, the region's main chestnut-themed events are
-scheduled during this exact timeframe: the `Eisacktal Chestnut Weeks` will take place 
+famous autumn tradition known as `Törggelen`. For this year, the region's main chestnut-themed 
+events are scheduled during this exact timeframe: the `Eisacktal Chestnut Weeks` will take place 
 `from October 17 to November 1, 2026`, while the `Keschtnriggl` chestnut days run `from October 15 to November 8, 2026`.
 
 ## Ideal Locations and Hiking Trails for Harvesting

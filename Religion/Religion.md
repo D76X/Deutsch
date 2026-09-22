@@ -143,3 +143,15 @@ all your strength, all your mind, all your soul because nothing more valuable ex
 [CHILLING Details About Christ's Crucifixion Most People Don't Know Answers in Genesis](https://www.youtube.com/watch?v=IiY9qVDPwOQ&t=14s)   
 
 ---
+
+# Christian and Films for Christians
+
+[5 Books I Think Everyone Should Read Ascension Presents](https://www.youtube.com/watch?v=KjMhA_qRCV4&t=90s)  
+
+[Movies That Form the Catholic Mind: Fr. Gregory Pine’s Top 10 Ascension Presents](https://www.youtube.com/watch?v=rPbnI91Ry9g&t=53s)   
+
+---
+
+[Kirche, Tod und Teufel | Die Inquisition (2/2) | Doku HD | ARTE ARTEde](https://www.youtube.com/watch?v=RE35WFmF5SE&t=19s)
+
+---

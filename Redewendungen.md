@@ -5,6 +5,12 @@
 
 ---
 
+# wie der Nadel im Heuhaufen
+
+[Cybersecurity Mittendrin - Folge 9 - Den Netzwerkdatenverkehr mit Wireshark und KI analysieren! Tom Wechsler](https://www.youtube.com/watch?v=nOIcTzPxmX0)    
+
+---
+
 # Lange Rede, kurzer Sinn
 >the long and the short of it
 die [Rede](https://www.collinsdictionary.com/dictionary/german-english/rede)  

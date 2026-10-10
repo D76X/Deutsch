@@ -2,6 +2,30 @@
 
 ---
 
+[The Key to a Good Life Ascension Presents](https://www.youtube.com/watch?v=mzDOU4h0u4U)  
+
+'God's first language is silence. Everything else is a bad translation.'
+
+The famous line, "Silence is God's first language; everything else is a poor translation" 
+(often phrased as a bad translation), comes from [Father Thomas Keating](https://www.google.com/search?q=father+thomas+keating&kgmid=/m/0b3kkr), 
+an American Trappist monk and prominent figure in the modern centering prayer movement. [1, 2, 3] 
+
+* Source: It is featured on page 90 of his 1992 book, [Invitation to Love: The Way of Christian Contemplation](https://www.goodreads.com/quotes/821306-silence-is-god-s-first-language-everything-else-is-a-poor).
+* Historical Roots: Keating expanded upon earlier Christian mysticism, notably drawing from the 16th-century Spanish mystic Saint John of the Cross, who wrote that silence is God's primary language and that the Father spoke an eternal word in silence.
+* Core Meaning: The quote emphasizes that human words, theology, and noise are imperfect approximations of the divine. True communion with God requires stillness, listening, and resting in His presence beyond verbal thought. [1, 2, 3, 4, 5, 6, 7] 
+
+
+[1] [https://literature.stackexchange.com](https://literature.stackexchange.com/questions/12190/did-rumi-actually-say-silence-is-the-language-of-god-all-else-is-poor-translat)
+[2] [https://livingchurch.org](https://livingchurch.org/church-life/why-gods-first-language-is-not-silence/)
+[3] [https://www.facebook.com](https://www.facebook.com/matthewwilliamhester/posts/thomas-keating-said-silence-is-gods-first-language-everything-else-is-a-poor-tra/10240382547274246/)
+[4] [https://www.goodreads.com](https://www.goodreads.com/quotes/821306-silence-is-god-s-first-language-everything-else-is-a-poor)
+[5] [https://www.stillministries.net](https://www.stillministries.net/wp-content/uploads/2023/02/Silence.pdf)
+[6] [https://www.facebook.com](https://www.facebook.com/Canadianmartyrs/posts/gods-first-language-is-silence-everything-else-is-a-bad-translation-648/1524564066366247/)
+[7] [https://www.spiritualityandpractice.com](https://www.spiritualityandpractice.com/quotes/quotations/view/32728/spiritual-quotation)
+
+
+---
+
 [Protestant Pastor Calls Our Lady Of Fatima A Demon... Then This Happens Cameron Riecker](https://www.youtube.com/watch?v=zOypFHULQVw&t=826s)   
 
 @davidespano8674
@@ -32,3 +56,89 @@ Why do I say so? If you are still on earth from the moment you have been given S
 all your strength, all your mind, all your soul because nothing more valuable exists anywhere. You MUST pray to be able to keep it, you must pray that the Holy Spirit may live in you and through you, you must pray, accept and welcome all that Jesus is going to lay on your shoulders and the more He gives you, the more you must seek Him and rejoice 
 
 ----
+
+# The Chestnuts Case and Scrupulosity
+
+
+## Does a catholic sin when they pick chestnuts fallen on a public road or public ground that would otherwise be destroyed by passing vehicles and with the intention of consuming these chestnut himself and his family?
+
+No, a Catholic does not commit a sin by collecting fallen chestnuts from a public road or public ground to feed themselves and their family.
+Catholic moral theology evaluates the morality of taking property under the Seventh Commandment ("You shall not steal") based on ownership rights, the universal destination of goods, and civil law:
+• Universal Destination of Goods: The Catechism of the Catholic Church (CCC 2402–2403) teaches that the goods of creation are destined for the whole human race to sustain life. While the Church upholds private property, naturally occurring produce fallen onto public ground that is not commercially managed or private property generally falls under res nullius (goods belonging to no one) or common property.
+• Absence of Injustice or Harm: Moral theft (furtum) requires taking another person's property against their reasonable will (invito domino). When chestnuts fall naturally onto a public thoroughfare and would otherwise be crushed or rot, no individual owner suffers harm or deprivation. Rescuing food from waste to nourish a family aligns with Catholic stewardship and natural law.
+• Civil Law Considerations: Catholic morality obliges citizens to obey just civil laws (CCC 2240). In most jurisdictions, foraging uncultivated, wild, or fallen nuts on open public land for personal consumption is entirely legal. However, if a specific local ordinance explicitly restricts foraging in a particular park or municipality, an individual should respect those regulations, though non-compliance with minor administrative bylaws regarding wild nuts would not constitute a grave moral offense (mortal sin).
+
+## is it possible for a catholics to realize only later to perhaps have sinned and also be unsure as whether it is the case?
+
+Yes, it is entirely possible for a Catholic to realize later that a past action might have been a sin and to remain unsure whether it actually was one.
+
+Understanding Delayed Realization
+
+• New perspective: People grow, mature, and learn more about their faith over time.
+• Hindsight: An action that seemed normal, harmless, or unimportant in the past may look questionable or wrong when you reflect on it later.
+• Growing conscience: A developing conscience can notice flaws in past choices that you did not see when you were younger or less informed.
+
+Dealing with Doubt
+
+• Doubtful conscience: In Catholic teaching, being unsure if an act was a sin is called having a "doubtful conscience".
+• The rule of knowledge: To commit a serious (mortal) sin, you must know at the exact time you do it that it is a serious wrong. If you did not know it was a sin when it happened, you lacked full knowledge, which means it was not a mortal sin.
+
+## Consider the following situation. The is a public road surrounded by private fields and public woods both with chestnut trees on them. At seaso some of the fruits from the tree fall down on the public road from overhanging branches or just rolled down over it. The fallen chestnuts pn the public road will be eventually crashed by passing cars or rot. Would it be morally wrong for a passerby to gather some of these chestnut for himself and his family without trespassing on private property or picking chestnuts fon any tree either private or public.
+
+It would not be morally wrong for a passerby to gather fallen chestnuts from a public road under these circumstances, provided the gathering is for personal consumption and does not cause harm or danger.
+From major ethical perspectives, this action is generally viewed as morally permissible, and often morally positive:
+
+Ethical Considerations
+
+• Prevention of waste (Utilitarian perspective): If left unattended, the chestnuts will be crushed by vehicles or rot. Collecting them transforms an otherwise wasted resource into sustenance and enjoyment for a family, increasing overall utility without depriving anyone of real value.
+• Absence of harm (Harm Principle): Gathering nuts that have already detached naturally and landed on a public right-of-way causes no physical damage to the trees, does not diminish the landowner’s property on their own land, and does not interfere with the public's right of transit.
+• Respect for boundaries (Deontological perspective): The passerby respects property boundaries by not trespassing onto private land and does not damage property by pulling or shaking branches. The act is limited strictly to collecting detached, discarded items in a shared public space.
+• Proportionality and intent: Foraging modest amounts for personal or family use is grounded in self-reliance and appreciation of nature. Commercial-scale harvesting of the entire road, by contrast, could cross into unfair exploitation of a shared space.
+
+Practical Nuances to Keep in Mind
+
+• Safety: The collector must ensure that foraging on or alongside an active roadway does not endanger themselves, distract drivers, or impede traffic.
+• Legal vs. Moral distinctions: While the act is morally sound, local property laws can vary. In many legal systems (such as common law principles or local foraging ordinances), fruit that falls from private trees onto public land may technically still belong to the tree owner until abandoned, or local bylaws may restrict foraging on public rights-of-way. While this does not make the act inherently immoral, being aware of local regulations helps avoid legal complications.
+AI responses may include mistakes. For legal advice, consult a professional. Learn more
+
+## Does this article say that it is legal to gather the chestnuts that have naturally fallen on public road?
+
+https://www.laleggepertutti.it/amp/702901_posso-raccogliere-frutti-dai-rami-protesi-sulla-strada
+
+Yes, the article states that it is legal to collect fruit—including chestnuts—that has naturally fallen from overhanging branches onto a public road, provided a few conditions are met.
+
+Key Points from the Article
+General Rule (Article 896 of the Italian Civil Code)
+
+When fruit naturally falls from branches extending over private property, it belongs to the owner of the ground on which it lands. Because a public road is accessible to everyone, passersby can freely gather naturally fallen fruit from the public side.
+
+Natural Fall vs. Picking from the Tree
+
+Fallen fruit: Legal to collect once it has detached on its own (e.g., due to natural ripening or wind).
+
+Hanging fruit: Not legal to pick off the branches, even if the branches extend over the public road. You must wait for the fruit to fall naturally.
+
+Exceptions & Local Regulations
+
+The Civil Code explicitly defers to local customs and municipal regulations (usi locali / Regolamenti di polizia rural). A specific municipality may enforce stricter rules or prohibitions regarding foraging, so local guidelines should be checked.
+
+No Entering Private Property
+
+You can only gather what lies on the public road itself. Entering private property or crossing fences to collect fallen chestnuts remains illegal and can constitute trespassing or theft.
+
+# esiste un regolamento comunale o locale del comune di Salorno nella provincia di Bzano o della privincia di Bolzano che proibisce il raccoglimento delle castagne cadute naturalmente su suolo publico?
+
+Non esiste un divieto specifico o universale nel Regolamento di polizia urbana del Comune di Salorno o nelle leggi della Provincia di Bolzano che vieti in assoluto la raccolta di castagne cadute naturalmente su suolo pubblico.
+
+Regole generali sul suolo pubblico e privato
+
+• Suolo pubblico: Se le castagne cadono da alberi situati su un terreno di proprietà pubblica (del demanio o del comune) lungo una via o un'area aperta a tutti, la raccolta di modica quantità non è generalmente vietata da norme specifiche locali, a patto di non danneggiare le piante o creare intralcio.
+• Aree protette: Nei Parchi Naturali della Provincia di Bolzano vigono regole severe che vietano la raccolta o la distruzione della flora e dei prodotti del sottobosco (come i funghi per i non residenti), quindi occorre prestare attenzione se l'albero si trova all'interno di un'area protetta.
+• Proprietà privata: Secondo l'articolo 821 del Codice Civile, i frutti caduti naturalmente appartengono al proprietario del terreno. Raccogliere castagne da alberi su fondi privati o recintati, anche se debordano parzialmente o se i frutti sono caduti ai margini, può configurare il reato di furto ai sensi del codice penale.
+
+Consigli pratici
+
+• Verificare sempre con precisione la mappatura catastale del terreno per accertarsi che non si tratti di una proprietà privata o di un fondo agricolo/castaneto coltivato.
+• Contattare direttamente gli uffici del Comune di Salorno per eventuali ordinanze temporanee o specifiche limitazioni locali.
+
+---

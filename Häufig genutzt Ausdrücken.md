@@ -1,5 +1,16 @@
 # Häufig genutzt Ausdrücken
 
+> es kommen auf etwas [es ist wichtig]
+
+[ankommen](https://www.collinsdictionary.com/dictionary/german-english/ankommen)
+
+darauf kommt es (uns) an..
+es kommt darauf an, dass wir..
+auf eine halbe Stunde kommt es jetzt nicht mehr an.
+darauf soll es mir nicht ankommen.
+
+---
+
 > als Faustregel [rule of thumb]
 
 Als Faustregel soll man **ab Mitte fünfzig** supplementieren, aber nicht 

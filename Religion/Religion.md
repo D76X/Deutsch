@@ -59,6 +59,19 @@ Give. Do not turn away anyone who ask for help.
 
 ---
 
+# Lourdes
+
+[The Lourdes Miracle Doctors Still Can’t Explain Messenger of God](https://www.youtube.com/watch?v=lvydng-r-lA)   
+
+---
+
+# Medjugorje
+
+[INCREDIBLE ! A Priest’s Near-Death Experience: “I Saw Jesus — Heaven Was Beyond Beautiful!”
+Tom Medjugorje](https://www.youtube.com/watch?v=o1enDBAxYLk)    
+
+---
+
 # Ethan Muse
 
 [Ethan Muse Graduate Student Profile](https://philosophy.rutgers.edu/people/graduate-students/graduate-student-profile/1399-muse-ethan)  
@@ -109,14 +122,19 @@ Give. Do not turn away anyone who ask for help.
 
 ---
 
-## Saint Bridget of Sweden
+# Saint Bridget of Sweden
 
 > How to pray:
 [Saint Bridget Saw a Woman Who Prayed Daily — Condemned to Hell! Divine Mysteries of the Saints](https://www.youtube.com/watch?v=MyjEnJV9YNE&t=1433s)  
 
-## Catherine of Genoa
-[The Secret of Purgatory that Almost Nobody Knows – Revealed by Saint Catherine of Genoa Christian Way](https://www.youtube.com/watch?v=P9aoqOZYhU0&t=201s)   
+---
+
+# Catherine of Genoa
+
+[The Secret of Purgatory that Almost Nobody Knows – Revealed by Saint Catherine of Genoa Christian Way](https://www.youtube.com/watch?v=P9aoqOZYhU0&t=201s)    
+
 [The Life of Saint Catherine of Genoa Radio Immaculata](https://www.youtube.com/watch?v=KkSicb6iUzk)    
+
 [](https://www.youtube.com/watch?v=tfjEST2DTbs)  
 
 > How to live:
@@ -124,12 +142,20 @@ Give. Do not turn away anyone who ask for help.
 # Fr. Benedict / Fr Benedict 
 
 [Fr. Benedict’s Spiritual Path @Fr.BenedictSpiritualPath](https://www.youtube.com/@Fr.BenedictSpiritualPath)   
-[A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)  
+
+[A Soul Trapped in Purgatory for 700 Years For this One Sin - Fr Benedict Groeschel THE ETERNAL TRUTHS](https://www.youtube.com/watch?v=Uqh_pJDA7Xg)   
+
 [Catholic Priest Interns at PSYCHIATRIC Institute, THEN THIS HAPPENS Daily Dose of Christ Daily Dose of Christ ](https://www.youtube.com/watch?v=ulmCFHX8V1E)  
 
 ---
 
-## Padre Pio
+# St. Gabriel Possenti
+
+[The Greatest Saint You Never Knew | St. Gabriel Possenti Gabi After Hours](https://www.youtube.com/watch?v=stmIETffI6I)  
+
+---
+
+# Padre Pio
 
 [This Miracle Should Convert Every Protestant with Ethan Muse - Cameron Riecker](https://www.youtube.com/watch?v=eQv_pJEIfzI)   
 
@@ -184,6 +210,12 @@ Give. Do not turn away anyone who ask for help.
 # The Secret of the Rosary by St. Louis De Monfort
 
 [The Secret of the Rosary by St. Louis De Monfort (Author)](https://www.amazon.co.uk/Secret-Rosary-St-Louis-Monfort/dp/0895550563)  
+
+---
+
+# AI
+
+[3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
 
 ---
 

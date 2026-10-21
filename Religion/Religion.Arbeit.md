@@ -8,3 +8,7 @@
 [I Feel Trapped in My Job — What Should I Do? Desiring God](https://www.youtube.com/watch?v=8by1UOf7IHs&t=255s)   
 
 [I Don’t Like My Job — Now What? Desiring God](https://www.youtube.com/watch?v=G40fWpxPJcs)  
+
+[How Your Career Could Crush You Desiring God](https://www.youtube.com/watch?v=1xYmFSSIcMc)  
+
+[Trapped in a Meaningless Life Desiring God](https://www.youtube.com/watch?v=RrLEjljxbYc)   

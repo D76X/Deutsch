@@ -97,6 +97,29 @@ Historical & Cultural Impact
 • The Basilica: The original tilma is preserved today inside the Basilica of Our Lady of Guadalupe in Mexico City, one of the most-visited Catholic shrines in the world. [1] (https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe)
 • Feast Day: Celebrated annually on December 12. [1] (https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe)
 
+---
+
+# Las Lajas miracle 
+
+The Las Lajas miracle refers to an 18th-century Marian apparition and a mysterious rock-imprinted image of the Virgin Mary in southern Colombia. [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas), [2] (https://hozana.org/en/miracles-and-apparitions/marian-apparitions/las-lajas)
+
+The Story and Apparition
+
+• Location: Guáitara River canyon near Ipiales, Nariño, Colombia (close to the Ecuadorian border). [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas)
+• Year: 1754. [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas)
+• The Witness: An indigenous woman named María Mueses de Quiñones and her deaf-mute daughter, Rosa. [1] (https://catholicexchange.com/miraculous-image-lady-las-lajas/), [2] (https://aleteia.org/2026/02/23/have-you-seen-the-miraculous-image-of-our-lady-of-las-lajas/)
+• The Miracle of Speech: While sheltering from a storm in a canyon grotto, Rosa suddenly spoke for the first time, stating that a "beautiful woman" was calling her. [1] (https://americaneedsfatima.org/articles/our-lady-of-las-lajas-a-continuous-miracle), [2] (https://www.facebook.com/ParousiaMedia/videos/our-lady-of-las-lajas-the-miraculous-image-is-4-feet-into-the-rock-ourladyoflasl/638056602549885/)
+• The Resurrection: When Rosa later died from an illness, María brought her body back to the grotto to pray for intercession, and the child was miraculously restored to life. [1] (https://www.quora.com/What-is-the-miracle-of-our-lady-of-Las-Lajas-that-took-place-250-years-ago), [2] (https://americaneedsfatima.org/articles/our-lady-of-las-lajas-a-continuous-miracle)
+
+The Miraculous Image
+
+• Discovery: Villagers visiting the cave discovered a luminous, unpainted image of the Virgin Mary holding the Infant Jesus, flanked by Saint Dominic and Saint Francis of Assisi, imprinted directly into the stone wall. [1] (https://www.facebook.com/ParousiaMedia/videos/our-lady-of-las-lajas-the-miraculous-image-is-4-feet-into-the-rock-ourladyoflasl/638056602549885/), [2] (https://catholicexchange.com/miraculous-image-lady-las-lajas/)
+• Scientific Claims: Proponents and historical accounts state that core samples taken by geologists found no paint, dye, or artificial pigments on the surface, and that the natural coloration penetrates several feet deep into the rock. [1] (https://www.churchpop.com/the-spectacular-shrine-and-miraculous-image-of-our-lady-of-las-lajas/), [2] (https://americaneedsfatima.org/articles/our-lady-of-las-lajas-a-continuous-miracle)
+
+Sanctuary and Recognition
+
+• Church Approval: The local Catholic Church authorized devotion to Our Lady of Las Lajas in 1951, and Pope Pius XII granted a canonical crowning in 1952, followed by its elevation to a minor basilica in 1954. [1] (https://www.miraclehunter.com/marian_apparitions/approved_apparitions/guaitara/index.html), [2] (https://www.roman-catholic-saints.com/our-lady-of-las-lajas.html), [3] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas), [4] (https://americaneedsfatima.org/articles/our-lady-of-las-lajas-a-continuous-miracle)
+• The Basilica: A dramatic Neo-Gothic minor basilica was built over the canyon site between 1916 and 1949, spanning the river gorge via a 50-meter bridge. It remains a major South American pilgrimage destination. [1] (https://hozana.org/en/miracles-and-apparitions/marian-apparitions/las-lajas), [2] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas)
 
 ---
 

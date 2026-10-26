@@ -5,6 +5,8 @@
 
 [How to Make Romanian Cozonac | Soft, Fluffy & Full of Walnuts Prestige Patisserie](https://www.youtube.com/watch?v=JSuiqdHeaqE)  
 
+[Easy Radicchio Lasagna Lasagna with Radicchio very Quick and easy Rapanello](https://www.youtube.com/watch?v=yYrVEwIG8PE)  
+
 ---
 
 # Pumpking and ricotta cake

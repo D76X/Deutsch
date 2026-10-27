@@ -7,6 +7,8 @@
 
 [Easy Radicchio Lasagna Lasagna with Radicchio very Quick and easy Rapanello](https://www.youtube.com/watch?v=yYrVEwIG8PE)  
 
+[Trentino-Style Apple Strudel by Claudio Sadler](https://www.youtube.com/watch?v=Lg8HjFLJwvE)   
+
 ---
 
 # Pumpking and ricotta cake

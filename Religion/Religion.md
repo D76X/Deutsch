@@ -4,6 +4,8 @@
 
 [The Demonologist Podcast](https://www.thedemonologistpodcast.com/)   
 
+[Trent Horn Just Broke Sola Scriptura Forever...Cameron Riecker](https://www.youtube.com/watch?v=gp-ay2R242s)  
+
 ---
 
 # Miracles
@@ -100,6 +102,11 @@ Historical & Cultural Impact
 ---
 
 # Las Lajas miracle 
+
+> Michael O'Neill
+[Explore with the Miracle Hunter | Las Lajas, Colombia EWTN](https://www.youtube.com/watch?v=WGxPxgDJwj0)  
+
+[Marian Shrines of the World #4: Our Lady of Las Lajas franciscanfriars](https://www.youtube.com/watch?v=Qhm3r-u3d3g)  
 
 The Las Lajas miracle refers to an 18th-century Marian apparition and a mysterious rock-imprinted image of the Virgin Mary in southern Colombia. [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas), [2] (https://hozana.org/en/miracles-and-apparitions/marian-apparitions/las-lajas)
 

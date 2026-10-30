@@ -108,6 +108,8 @@ Historical & Cultural Impact
 
 [Marian Shrines of the World #4: Our Lady of Las Lajas franciscanfriars](https://www.youtube.com/watch?v=Qhm3r-u3d3g)  
 
+[Victory of Our Lady of Las Lajas Mother & Refuge of the End Times](https://www.youtube.com/watch?v=bzWZebuRJXk)  
+
 The Las Lajas miracle refers to an 18th-century Marian apparition and a mysterious rock-imprinted image of the Virgin Mary in southern Colombia. [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas), [2] (https://hozana.org/en/miracles-and-apparitions/marian-apparitions/las-lajas)
 
 The Story and Apparition

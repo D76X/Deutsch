@@ -347,5 +347,13 @@ Religious Foundations & Legacy
 
 [3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
 
+[A.I is bad for you. Yes, even Catholic A.I. Breaking In The Habit](https://www.youtube.com/watch?v=UbT4mXhRE8Q&t=1s)  
+
+---
+
+# Scrupolosity
+
+[How to Overcome Scrupulosity | Fr Chad Ripperger Radio Immaculata](https://www.youtube.com/watch?v=YhlV3TiSXEo)  
+
 ---
 

@@ -345,9 +345,11 @@ Religious Foundations & Legacy
 
 ---
 
-# AI
+# AI in the Catholic Church
 
 [3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
+
+[How Does ChatGPT Really Work? (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=42I2j7zFHLo&t=1s)  
 
 ---
 

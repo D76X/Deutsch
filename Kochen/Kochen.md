@@ -9,6 +9,8 @@
 
 [Trentino-Style Apple Strudel by Claudio Sadler](https://www.youtube.com/watch?v=Lg8HjFLJwvE)   
 
+[Bechamel Smart without Butter without Oil without Flour is recipe of Vegetables with Bechamel Rapanello](https://www.youtube.com/watch?v=SySODG8hSC8)  
+
 ---
 
 # Pumpking and ricotta cake

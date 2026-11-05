@@ -110,6 +110,8 @@ Historical & Cultural Impact
 
 [Marian Shrines of the World #4: Our Lady of Las Lajas franciscanfriars](https://www.youtube.com/watch?v=Qhm3r-u3d3g)  
 
+[Victory of Our Lady of Las Lajas Mother & Refuge of the End Times](https://www.youtube.com/watch?v=bzWZebuRJXk)  
+
 The Las Lajas miracle refers to an 18th-century Marian apparition and a mysterious rock-imprinted image of the Virgin Mary in southern Colombia. [1] (https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas), [2] (https://hozana.org/en/miracles-and-apparitions/marian-apparitions/las-lajas)
 
 The Story and Apparition
@@ -345,10 +347,13 @@ Religious Foundations & Legacy
 
 ---
 
-# AI
+# AI in the Catholic Church
 
 [3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
 
+<<<<<<< HEAD
+[How Does ChatGPT Really Work? (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=42I2j7zFHLo&t=1s)  
+=======
 [A.I is bad for you. Yes, even Catholic A.I. Breaking In The Habit](https://www.youtube.com/watch?v=UbT4mXhRE8Q&t=1s)  
 
 ---
@@ -356,6 +361,7 @@ Religious Foundations & Legacy
 # Scrupolosity
 
 [How to Overcome Scrupulosity | Fr Chad Ripperger Radio Immaculata](https://www.youtube.com/watch?v=YhlV3TiSXEo)  
+>>>>>>> f5eb597be96660c252ae6a73cf86590b4d05fd47
 
 ---
 

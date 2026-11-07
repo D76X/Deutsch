@@ -321,12 +321,6 @@ Religious Foundations & Legacy
 
 ---
 
-# Crucifixion
-
-[CHILLING Details About Christ's Crucifixion Most People Don't Know Answers in Genesis](https://www.youtube.com/watch?v=IiY9qVDPwOQ&t=14s)   
-
----
-
 # Christian and Films for Christians
 
 [5 Books I Think Everyone Should Read Ascension Presents](https://www.youtube.com/watch?v=KjMhA_qRCV4&t=90s)  
@@ -349,9 +343,6 @@ Religious Foundations & Legacy
 
 [3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
 
-<<<<<<< HEAD
-[How Does ChatGPT Really Work? (Aquinas 101) The Thomistic Institute](https://www.youtube.com/watch?v=42I2j7zFHLo&t=1s)  
-=======
 [A.I is bad for you. Yes, even Catholic A.I. Breaking In The Habit](https://www.youtube.com/watch?v=UbT4mXhRE8Q&t=1s)  
 
 ---
@@ -359,7 +350,5 @@ Religious Foundations & Legacy
 # Scrupolosity
 
 [How to Overcome Scrupulosity | Fr Chad Ripperger Radio Immaculata](https://www.youtube.com/watch?v=YhlV3TiSXEo)  
->>>>>>> f5eb597be96660c252ae6a73cf86590b4d05fd47
 
 ---
-

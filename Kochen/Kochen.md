@@ -3,13 +3,25 @@
 
 [Apple strudel - according to the original Viennese recipe - it's that easy! Thomas kocht](https://www.youtube.com/watch?v=izf7yU-FK0c)  
 
-[How to Make Romanian Cozonac | Soft, Fluffy & Full of Walnuts Prestige Patisserie](https://www.youtube.com/watch?v=JSuiqdHeaqE)  
-
 [Easy Radicchio Lasagna Lasagna with Radicchio very Quick and easy Rapanello](https://www.youtube.com/watch?v=yYrVEwIG8PE)  
 
 [Trentino-Style Apple Strudel by Claudio Sadler](https://www.youtube.com/watch?v=Lg8HjFLJwvE)   
 
 [Bechamel Smart without Butter without Oil without Flour is recipe of Vegetables with Bechamel Rapanello](https://www.youtube.com/watch?v=SySODG8hSC8)  
+
+---
+
+# Prestige Patisserie
+
+[How to Make Romanian Cozonac | Soft, Fluffy & Full of Walnuts Prestige Patisserie](https://www.youtube.com/watch?v=JSuiqdHeaqE)  
+
+[Flourless Chocolate Walnut Cookies | Easy Walnetti Recipe Prestige Patisserie](https://www.youtube.com/watch?v=7AS9bmTVnIg)  
+
+---
+
+# Taralli
+
+[Italy's Most Addictive Snack | Taralli Giovanni Siracusa](https://www.youtube.com/watch?v=YCFn2DZSxdk)   
 
 ---
 

@@ -77,7 +77,10 @@ Give. Do not turn away anyone who ask for help.
 
 [Our Lady of Guadalupe](https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe)   
 
-[What People Forget About Our Lady of Guadalupe](https://www.youtube.com/watch?v=8_UFq1AFoBM)  
+[4 Inexplicable Facts about the Tilma of Guadalupe Sips with Serra and Magis Center](https://www.youtube.com/watch?v=AvlyZvoz8Fw)  
+
+[What People Forget About Our Lady of Guadalupe - Ascension Presents](https://www.youtube.com/watch?v=8_UFq1AFoBM)  
+
 [A Compilation of Mind-Blowing Insights About Our Lady of Guadalupe Theology of the Body Institute](https://www.youtube.com/watch?v=h-CXyPWA4KA)  
 
 The Miracle of Our Lady of Guadalupe refers to the December 1531 apparitions of the Virgin Mary to an indigenous convert named Juan Diego on Tepeyac Hill near Mexico City. When Juan Diego opened his cloak (tilma) before the bishop, fresh winter roses fell out, and an unexplained, enduring image of the Virgin miraculously appeared on the fabric. [1] (https://www.denvercatholic.org/our-lady-of-guadalupe-the-miracle-that-changed-history), [2] (https://thewaywardcatholic.com/2025/12/27/the-miracles-of-our-lady-of-guadalupe-explained/), [3] (https://www.britannica.com/question/What-was-the-miracle-of-Our-Lady-of-Guadalupe)

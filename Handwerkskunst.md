@@ -1,5 +1,11 @@
 # Handwerkskunst
 
+[How to Build with Hemp | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=Xr0BF0a1yoM)  
+
+[How to make pasta | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=HShKg4JLMJ0)  
+
+[How a barista makes espresso and latte art | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=syD-w0w2FWM)  
+
 [How to work with wood and epoxy resin | SWR Handwerkskunst SWR Handwerkskunst](https://www.youtube.com/watch?v=ynPt5gN1NnE)    
 
 [How to make pizza | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=vf0god0LtP8)    

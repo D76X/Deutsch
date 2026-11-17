@@ -221,6 +221,73 @@ Investigation and Legacy
 
 ---
 
+# Dr. Alexis Carrel
+
+[The Nobel Prize Winner Who Tried to Prove Lourdes Was a Fraud Cameron Riecker](https://www.youtube.com/watch?v=DIVQG6oALL8)  
+
+French surgeon and 1912 Nobel laureate Dr. Alexis Carrel 
+(https://www.google.com/search?kgmid=%2Fm%2F0m1r&q=Dr.+Alexis+Carrel+conversion+dr.+alexis+carrel) (1873–1944) was raised Catholic, 
+became an agnostic as a university student, and gradually returned to the Catholic Church over four decades after witnessing a rapid 
+recovery at Lourdes in 1902. 
+
+[1] (https://www.magiscenter.com/blog/alexis-carrel), 
+[2] (https://en.wikipedia.org/wiki/Alexis_Carrel), 
+[3] (https://www.ewtn.com/catholicism/library/miracles--the-nobel-laureate-5933)
+
+## Key Stages of His Conversion
+
+- 1902 Trip to Lourdes: 
+While still a skeptical agnostic, Carrel accompanied a sick pilgrimage train from Lyon to Lourdes. 
+There, he observed `23-year-old Marie Bailly`, who was treated for severe peritonitis and experienced a rapid improvement 
+after water was applied. 
+
+[1] (https://aleteia.org/2018/11/06/the-lourdes-miracle-that-brought-a-nobel-prize-winning-doctor-to-faith/), 
+[2] (https://pubmed.ncbi.nlm.nih.gov/1297763/), [3] (https://en.wikipedia.org/wiki/Alexis_Carrel)
+
+- Career Fallout: 
+Carrel refused to rule out a supernatural explanation for Bailly's recovery. His public stance triggered pushback 
+in French academic medicine, contributing to his departure from France for North America—first to Canada and then 
+to the Rockefeller Institute in the United States. 
+
+[1] (https://www.churchpop.com/this-agnostic-scientist-converted-after-witnessing-a-miracle-at-lourdes/), 
+[2] (https://en.wikipedia.org/wiki/Alexis_Carrel), [3] (https://pubmed.ncbi.nlm.nih.gov/41297763/)
+
+- Influence of Father Alexis Presse: 
+After returning to France in 1939, Carrel met Trappist monk `Father Alexis Presse`, 
+whose counsel deeply shaped his later years. 
+
+[1] (https://en.wikipedia.org/wiki/Alexis_Carrel)
+
+- Return to the Church (1942–1944): 
+In 1942, Carrel publicly affirmed his belief in God, the immortality of the soul, and Catholic teachings. 
+Before dying in November 1944, he requested Father Presse to administer the Catholic sacraments. 
+His manuscript `The Voyage to Lourdes (Le Voyage à Lourdes)` was published posthumously in 1948. 
+
+[1] (https://www.catholicculture.org/culture/library/view.cfm?recnum=2866), 
+[2] (https://en.wikipedia.org/wiki/Alexis_Carrel), 
+[3] (https://www.ewtn.com/catholicism/library/miracles--the-nobel-laureate-5933)
+
+## Perspectives & Debate
+
+- Religious & Biographical Accounts: 
+Catholic and biographical sources, such as Wikipedia and EWTN, highlight Bailly's sudden improvement 
+and Carrel's multi-decade spiritual journey back to Catholicism. 
+
+[1] (https://www.ewtn.com/catholicism/library/miracles--the-nobel-laureate-5933), 
+[2] (https://en.wikipedia.org/wiki/Alexis_Carrel)
+
+- Medical & Skeptical Views: 
+Historians and medical commentators have debated whether Bailly's recovery involved misdiagnosis or 
+functional/spontaneous remission rather than a miracle. On r/DebateAnAtheist, opinions are mixed: 
+while some discussion touches on the weight of eyewitness accounts, others argue personal testimony 
+is insufficient for extraordinary claims, point to potential medical or observational confounding factors, 
+and question Carrel's credibility due to his later support for eugenics. 
+
+[1] (https://pubmed.ncbi.nlm.nih.gov/41297763/), 
+[2] (https://www.reddit.com/r/DebateAnAtheist/comments/304msk/evidence_for_a_miracle/)
+
+---
+
 # St. Louis de Montfort
 
 St. Louis de Montfort (Louis-Marie Grignion de Montfort, 1673–1716) was a French Catholic priest and missionary. He is best known for promoting devotion to the Blessed Virgin Mary, the Rosary, and total consecration to Jesus through Mary, and was canonized in 1947. 
@@ -341,14 +408,6 @@ Religious Foundations & Legacy
 # The Secret of the Rosary by St. Louis De Monfort
 
 [The Secret of the Rosary by St. Louis De Monfort (Author)](https://www.amazon.co.uk/Secret-Rosary-St-Louis-Monfort/dp/0895550563)  
-
----
-
-# AI in the Catholic Church
-
-[3 Reasons Catholics Should NOT Use ai Breaking In The Habit](https://www.youtube.com/watch?v=FV0B9QcwtXs&t=319s)   
-
-[A.I is bad for you. Yes, even Catholic A.I. Breaking In The Habit](https://www.youtube.com/watch?v=UbT4mXhRE8Q&t=1s)  
 
 ---
 

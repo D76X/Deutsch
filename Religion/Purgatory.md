@@ -12,15 +12,39 @@
 
 # What are the rules for Plenary Indulgences?
 
-A plenary indulgence is the full remission of all temporal punishment due to sins whose guilt has already been forgiven. In Catholic teaching, it completely wipes out any time due in Purgatory. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), [2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/), [3] (https://johnxxiii.net/wp-content/uploads/2024/04/plenary-indulgences-for-the-common-person.pdf), [4] (https://championshrine.org/purgatory-and-indulgences/)
-You can read more about the doctrine and guidelines on the EWTN Plenary Indulgences Guide. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362)
+A plenary indulgence is the full remission of all temporal punishment due to sins whose guilt has already been forgiven. 
+In Catholic teaching, it completely wipes out any time due in Purgatory. 
 
-General Conditions
+[1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
+[2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/), 
+[3] (https://johnxxiii.net/wp-content/uploads/2024/04/plenary-indulgences-for-the-common-person.pdf), 
+[4] (https://championshrine.org/purgatory-and-indulgences/)
+
+You can read more about the doctrine and guidelines on the EWTN Plenary Indulgences Guide. 
+[1] (https://www.ewtn.com/catholicism/devotions/conditions-13362)
+
+## General Conditions
 
 To receive a plenary indulgence, you must meet several mandatory requirements:
-• State of Grace: You must be in a state of grace (free from mortal sin) at the time you perform the indulgenced work. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362)
-• Complete Detachment: You must have an inner disposition of complete detachment from all sin, even venial sin. (If you perform the work without this total detachment, you still receive a partial indulgence instead). [1] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/), [2] (https://www.ewtn.com/catholicism/devotions/conditions-13362), [3] (https://www.catholic.com/tract/indulgences-catholic-answers-guide-to-partial-and-plenary-indulgences)
-• Sacramental Confession: You must go to sacramental confession. One confession can count for multiple plenary indulgences over a period of time. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), [2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
+
+- State of Grace: 
+You must be in a state of grace (free from mortal sin) at the time you perform the indulgenced work. 
+[1] (https://www.ewtn.com/catholicism/devotions/conditions-13362)
+
+- Complete Detachment: 
+You must have an inner disposition of complete detachment from all sin, even venial sin.
+(If you perform the work without this total detachment, you still receive a partial indulgence instead). 
+
+[1] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/), 
+[2] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
+[3] (https://www.catholic.com/tract/indulgences-catholic-answers-guide-to-partial-and-plenary-indulgences)
+
+- Sacramental Confession: 
+You must go to sacramental confession. One confession can count for multiple plenary indulgences over a period of time. 
+
+[1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
+[2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
+
 • Holy Eucharist: You must receive Holy Communion (ideally during Mass, though receiving the sacrament is the core requirement). You need a separate reception of Communion for each plenary indulgence you seek. [1] (https://stthomasofcanterbury.com/portfolio-items/plenary-indulgences/), [2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
 • Prayer for the Pope: You must pray for the intentions of the Supreme Pontiff. An Our Father and a Hail Mary (or similar traditional prayers) are commonly suggested. Like Communion, a separate prayer for the Pope is required for each indulgence. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), [2] (https://stthomasofcanterbury.com/portfolio-items/plenary-indulgences/), [3] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
 • Timeframe: Confession, Communion, and the prayers for the Pope can take place within several days (about 20 days) before or after the completion of the prescribed work. [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), [2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)

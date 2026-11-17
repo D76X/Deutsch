@@ -87,18 +87,38 @@ A sudden loss of interest in daily life can sometimes be a spiritual trial (like
 
 ---
 
-What is the Apostolic Pardon?
+# What is the Apostolic Pardon?
 
-An Apostolic Pardon is a special Catholic blessing given by a priest to a person who is dying or in danger of death, granting a plenary indulgence that removes all temporal punishment due to sin.
-What is the Apostolic Pardon?
-• Definition: A special blessing with an attached plenary indulgence (the complete removal of temporal punishment left after sins are forgiven).
-• Difference from Confession: Confession forgives the eternal guilt and punishment of sins, while the Apostolic Pardon wipes away the remaining temporal consequences or "debt" of sin that would otherwise require purification.
-• Timing: Given at the end of life, usually during the Last Rites after the Sacrament of Reconciliation (Confession), the Anointing of the Sick, and Viaticum (Holy Communion for the dying).
-When and How it is Administered
-• When needed: Reserved for individuals who are seriously ill, on their deathbed, or facing imminent danger of death.
-• If a priest is absent: Most users on Reddit agree that while the formal sacramental blessing requires a priest with proper faculties, Catholics who are truly repentant and trust in God's mercy can still receive a generalized final grace at the hour of death.
-The Prayer
+An Apostolic Pardon is a special Catholic blessing given by a priest to a person who is dying or in danger of death, 
+granting a plenary indulgence that removes all temporal punishment due to sin.
+
+- Definition: 
+A special blessing with an attached plenary indulgence (the complete removal of temporal punishment left after sins are forgiven).
+
+- Difference from Confession: 
+Confession forgives the eternal guilt and punishment of sins, while the Apostolic Pardon wipes away the remaining temporal 
+consequences or "debt" of sin that would otherwise require purification.
+
+- Timing: 
+Given at the end of life, usually during the `Last Rites` after the `Sacrament of Reconciliation (Confession)`, 
+the `Anointing of the Sick`, and `Viaticum (Holy Communion for the dying)`.
+
+## When and How it is Administered
+
+- When needed: Reserved for individuals who are seriously ill, on their deathbed, or facing imminent danger of death.
+
+- If a priest is absent: 
+Most users on Reddit agree that while the formal sacramental blessing requires a priest with proper faculties, 
+Catholics who are truly repentant and trust in God's mercy can still receive a generalized final grace at the hour of death.
+
+## The Prayer
+
 A priest administering the blessing uses words given by the Apostolic See, such as:
-"By the authority which the Apostolic See has given me, I grant you a full pardon and the remission of all your sins in the name of the Father, and of the Son, and of the Holy Spirit. Amen."
+
+```
+By the authority which the Apostolic See has given me, 
+I grant you a full pardon and the remission of all your sins in 
+the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+```
 
 ---

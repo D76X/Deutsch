@@ -1,5 +1,28 @@
 # Häufig genutzt Ausdrücken
 
+die [Betrachtung](collinsdictionary.com/dictionary/german-english/betrachtung)
+> bei näherer Betrachtung
+Bei näherer Betrachtung wird man einige Fehler finden.
+> ergeben sich
+Bei näherer Betrachtung ergeben sich einige Fehler.
+
+---
+
+> sich auf Gnade oder Ungnade ergeben = kapitulieren
+[ergeben](https://www.collinsdictionary.com/dictionary/german-english/ergeben)
+
+> sich in etwas ergeben  = kapitulieren
+Ich ergebe mich in God!
+
+> sich einer Sache ergeben = widmen
+Sie ergab sich dem Wissenschaft
+
+> (= folgen) ; (= sich herausstellen) 
+Daraus können sich Nachteile ergeben.
+Es ergab sich, dass unsere Befürchtungen …
+
+---
+
 > es kommen auf etwas [es ist wichtig]
 
 [ankommen](https://www.collinsdictionary.com/dictionary/german-english/ankommen)

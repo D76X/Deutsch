@@ -1,5 +1,7 @@
 # Cameron Riecker
 
+[Why Protestantism Is Logically Impossible](https://www.youtube.com/watch?v=xtjUxox0h4U)  
+
 [Demon Expert Reveals What Every Catholic Needs To Know Cameron Riecker and The Demonologist Podcast](https://www.youtube.com/watch?v=xmz5JVIuekA)   
 
 [The Demonologist Podcast](https://www.thedemonologistpodcast.com/)   

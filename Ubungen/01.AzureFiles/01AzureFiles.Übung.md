@@ -1,5 +1,5 @@
 
-Ja, ich möchte, die Artikel, die in @Ubungen\01.AzureFiles.md gelistet werden, nutzen, um Deutschlernen 
+Ja, ich möchte, die Artikel, die in `@Ubungen\01.AzureFiles.md` gelistet werden, nutzen, um Deutschlernen 
 zu üben und gleichzeitig etwas Relevantes für meinen Job zu lernen. Was meinst du? Kann diese eine gute 
 Idee sein oder nicht?
 

@@ -1,5 +1,7 @@
 # Handwerkskunst
 
+[How to make paper from old clothes | SWR Handwerkskunst SWR Handwerkskunst](https://www.youtube.com/watch?v=uzuwyCp_sIo)  
+
 [How to get traditionally from the tree to the board | SWR Handwerkskunst](https://www.youtube.com/watch?v=Jn1IAGPfPt0)  
 
 [How to Build with Hemp | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=Xr0BF0a1yoM)  

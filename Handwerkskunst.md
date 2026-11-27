@@ -2,6 +2,8 @@
 
 [How to build a bicycle | SWR Craftsmanship SWR Handwerkskunst](https://www.youtube.com/watch?v=ZUK7SKumutQ)  
 
+[How to plaster walls with clay | SWR Handwerkskunst](https://www.youtube.com/watch?v=rNaYKCUnRCE)   
+
 [How to make paper from old clothes | SWR Handwerkskunst SWR Handwerkskunst](https://www.youtube.com/watch?v=uzuwyCp_sIo)  
 
 [How to get traditionally from the tree to the board | SWR Handwerkskunst](https://www.youtube.com/watch?v=Jn1IAGPfPt0)  
@@ -45,5 +47,9 @@
 # Arte DE
 
 [Mit Impfungen gegen schwarzen Hautkrebs | ARTE Re: Reupload ARTEde](https://www.youtube.com/watch?v=PiK_kmOh3b0&t=25s)  
+
+[Workuta - Russlands vergessene Stadt in der Arktis | ARTE Re: ARTEde](https://www.youtube.com/watch?v=49FUufuEQeg)   
+
+[Wie Russen Urlaub machen | Tracks East Reupload | ARTE ARTEde](https://www.youtube.com/watch?v=UlbeKrLP9j8)  
 
 ---

@@ -1,13 +1,16 @@
 # Plenary Indunges:
 
-[Indulgences: If Jesus Fully Atoned, Why Do We Have Them? | Fr. Chris Alar, MIC Divine Mercy](https://www.youtube.com/watch?v=7Vyn20P7Mf8)  
+[Indulgences: If Jesus Fully Atoned, Why Do We Have Them? | Fr. Chris Alar, MIC Divine Mercy](https://www.youtube.com/watch?v=7Vyn20P7Mf8) 
+
 [More Souls Leave Purgatory This Way Than Any Other | Fr. Chris Alar Alar Souls](https://www.youtube.com/watch?v=L5yBQqyoR7s)  
 
 ---
 
 # What are the rules for Plenary Indulgences?
 
-A plenary indulgence is the full remission of all temporal punishment due to sins whose guilt has already been forgiven. 
+A plenary indulgence is the full remission of all temporal punishment 
+due to sins whose guilt has already been forgiven. 
+
 In Catholic teaching, it completely wipes out any time due in Purgatory. 
 
 [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
@@ -35,7 +38,8 @@ You must have an inner disposition of complete detachment from all sin, even ven
 [3] (https://www.catholic.com/tract/indulgences-catholic-answers-guide-to-partial-and-plenary-indulgences)
 
 - Sacramental Confession: 
-You must go to sacramental confession. One confession can count for multiple plenary indulgences over a period of time. 
+You must go to sacramental confession. 
+One confession can count for multiple plenary indulgences over a period of time. 
 
 [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
 [2] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
@@ -53,7 +57,8 @@ An Our Father and a Hail Mary (or similar traditional prayers) are commonly sugg
 Like Communion, a separate prayer for the Pope is required for each indulgence. 
 
 [1] (https://www.ewtn.com/catholicism/devotions/conditions-13362), 
-[2] (https://stthomasofcanterbury.com/portfolio-items/plenary-indulgences/), [3] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
+[2] (https://stthomasofcanterbury.com/portfolio-items/plenary-indulgences/), 
+[3] (https://thenationalshrineofmarymotherofthechurch.com/plenary-indulgences-explained/)
 
 - Timeframe: 
 Confession, Communion, and the prayers for the Pope can take place within several days (about 20 days) 

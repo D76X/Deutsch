@@ -8,4 +8,6 @@
 
 [This is why I take demons seriously. And you should, too. Capturing Catholicism](https://www.youtube.com/watch?v=61O0SJnGoAg&t=1502s)   
 
+[I believe this Navy SEAL's demon story. And you should, too. Capturing Catholicism](https://www.youtube.com/watch?v=xWKSrzKpqP8)   
+
 ---

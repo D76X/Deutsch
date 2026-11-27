@@ -373,16 +373,6 @@ Religious Foundations & Legacy
 
 ---
 
-# Exorcisms
-
-[Fr. Carlos Martins Explains Spiritual Warfare Cameron Riecker](https://www.youtube.com/watch?v=kzVvTclTwcI&t=1290s)   
-
-[LISTEN TO THE INTERNATIONAL HIT PODCAST The Real Case Files Of Exorcist Father Carlos Martins](https://www.exorcistfiles.tv/)  
-
-[The Exorcist Files Podcast Ryan Bethea, Fr. Carlos Martins](https://open.spotify.com/show/4Rs76ZgP5iIwZCs51oHdvk)  
-
----
-
 # The 10 Commandements
 
 [What "Honor Your Parents" Actually Means in Hebrew Deep Made Simple](https://youtu.be/uXGWlAQ16r4?si=ZyLGZwKkYb-xU_KO)  

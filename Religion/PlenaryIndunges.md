@@ -1,6 +1,7 @@
 # Plenary Indunges:
 
 [Indulgences: If Jesus Fully Atoned, Why Do We Have Them? | Fr. Chris Alar, MIC Divine Mercy](https://www.youtube.com/watch?v=7Vyn20P7Mf8)  
+[More Souls Leave Purgatory This Way Than Any Other | Fr. Chris Alar Alar Souls](https://www.youtube.com/watch?v=L5yBQqyoR7s)  
 
 ---
 
